@@ -9,7 +9,7 @@ guid: http://sel.columbia.edu/?page_id=4231
   <div class="span12">
     <h2 style="font-size: 48px !important;">
       Delhi Energy Project
-    </h2> &nbsp; 
+    </h2> &nb	sp; 
     
     <img src="http://sel.columbia.edu/wp-content/uploads/2014/12/Dehli_energy_header_939x400.png" alt="Delhi Electric Data Viz" />
   </div>
