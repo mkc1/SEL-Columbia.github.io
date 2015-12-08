@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /wp-content/uploads/2013/08/naichen.jpg
+photo: /assets/images/naichen.jpg
 full_name:  Naichen Zhao
 title: 
 email: nz2216@columbia.edu

@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /wp-content/uploads/2013/07/mike.jpg
+photo: /assets/images/mike.jpg
 full_name:  Mike Waite
 title: Research Assistant
 email: mbw2113@columbia.edu

@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /wp-content/uploads/2014/04/gordon.jpg
+photo: /assets/images/gordon.jpg
 full_name:  Gordon Shaw
 title: Graduate Student
 email: gcs2133@columbia.edu

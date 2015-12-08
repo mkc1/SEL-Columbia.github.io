@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: http://sel.columbia.edu/wp-content/uploads/2014/08/viktor.jpg
+photo: /assets/images/viktor.jpg
 full_name:  Viktor Roytman
 title: Software Engineer
 email: vr2262@columbia.edu

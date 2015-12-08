@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /wp-content/uploads/2013/07/mattz.jpg
+photo: /assets/images/mattz.jpg
 full_name:  Matt Zebiak
 title: Undergraduate Student
 email: mszebiak@gmail.com

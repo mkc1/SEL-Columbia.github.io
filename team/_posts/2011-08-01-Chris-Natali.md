@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /wp-content/themes/migration-theme/images/profile/chris.png
+photo: /assets/images/chris.png
 full_name:  Chris Natali
 title: Senior Software Engineer
 email: chris.natali.ei@gmail.com
