@@ -1,9 +1,9 @@
 ---
-id: 22
 title: About
-author: Jonathan Carbajal
 layout: page
-guid: http://modilabs.org/?page_id=22
+categories:
+ - team
+ - alumni
 ---
 <div class="row-fluid">
   <div class="span9">
@@ -25,85 +25,41 @@ guid: http://modilabs.org/?page_id=22
   </div>
 </div>
 
-<!-- Legend -->
+{% for member in site.categories.team reversed %}
+{% cycle 'add rows': '<div class="row">', nil, nil, nil %}
+<div class="col-md-4">
+    <div class="media">
+        <a class="pull-left" href="{{ member.url }}">
+        <img class="media-object" src="{{ member.photo }}">
+        </a>
+        <div class="media-body">
+            <div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.full_name}}</a></div>
+            <p class="note">{{ member.title }}</p>
+        </div>
+    </div>
+</div>    
+{% cycle 'close rows': nil, nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>', '</div>' %}
 
-<div id="team_list">
-</div>
-
-<div class="legend">
-  <dl>
-    <dt class="leadership">
-    </dt>
-    
-    <dd>
-      Leadership
-    </dd>
-    
-    <dt class="fieldexpert">
-    </dt>
-    
-    <dd>
-      Field Expert
-    </dd>
-    
-    <dt class="software">
-    </dt>
-    
-    <dd>
-      Software
-    </dd>
-    
-    <dt class="design">
-    </dt>
-    
-    <dd>
-      Design
-    </dd>
-    
-    <dt class="research">
-    </dt>
-    
-    <dd>
-      Research
-    </dd>
-    
-    <dt class="data">
-    </dt>
-    
-    <dd>
-      Data
-    </dd>
-  </dl>
-</div>
-
-<!-- person template -->
-
-<div id="team">
-</div>
 
 <div class="row-fluid">
-  <div class="span12">
+  <div class="span9">
     <h2>
-      Alumni
-    </h2>
-    
-    <div class="row-fluid">
-      <p>
-        <h3>
-          Students
-        </h3> Belinda Archibong , Barnard 
-        
-        <BR /> Matthew Basinger , Consulting <BR /> Arindam Bhattacharjee , Olivebooks <BR /> Hayri Cabuk , Physician, Veterans Health Administration <BR /> Qian Chen , <BR /> Mingyong Chen , Caterpillar <BR /> Dulyachot Cholaseuk , Faculty of Engineering, Thammasat University <BR /> Roxana Cosmaciuc, UNICEF <BR /> Olivier Eiff , Faculty, Karlsruhe Institute of Technology <BR /> Justin Elszasz , Consultant <BR /> Hisham Faoud, Egypt Bethany Fisher , NREL <BR /> Chris Gnafakis , Credit Suisse <BR /> Roy Han , Crosscompute  <BR /> Drew Pitney Higginson , UCSD PhD Program  <BR /> Songbae Hong , LBL <BR /> Bianca Howard , Imperial College <BR /> Jianchun Huan , CFD Analysis <BR /> Hildigunnur Jónsdóttir , DONG Energy  <BR /> Selin Kocaman , Bilikent University <BR /> Malcolm Knapp , The Engineer Accelerator <BR /> Panagiotis Kotsidas , Singapore  <BR /> Mitchell Lee , First Solar <BR /> Carlos Abad Lopez , Stanford <BR /> Dean Madroukas <BR /> Liz Martin , Live @ 365 <BR /> Matthew McCarthy , Lehigh <BR /> Edmundo Nunez , Saunders Trade and Technical <BR /> Andrew O’Grady <BR /> Lily Parshall , Edeniq <BR /> Dana Pillai , Delos Labs <BR /> Richard Quadracci , Quad Graphics <BR /> Aly Sanoh , World Bank <BR /> Ahmet Shehata , Consulting <BR /> Jeff Shrader , UCSD PhD student <BR /> Nathan Stodola , International WELL Building Institute <BR /> Jonathan Thompson <BR /> Matt Zebiak , Grad Student UC Berkeley  <BR /> Jian-Hong Zhang <BR /> Jiang Zhe , U of Akron <BR /> Alex Zvoleff , Conservation International <BR /> 
-        
-        <h3>
-          Staff
-        </h3> Carlos Abad , Postdoc Stanford 
-        
-        <BR /> Samina Akbari , Film  <BR /> Arnaud Algrin , BNP Paribas <BR /> Matt Basinger , AE Consulting <BR /> Matt Berg  , ONA <BR /> Reuben Bushnell , PennState PhD student and Lunar Lion team <BR /> Salah Chafik , CRED Staff <BR /> Jiehua Chen , QED <BR /> Elliot Cohen , Rocky Mountain Institute <BR /> Jonathan Demierre <BR /> Ukanga Dickson, ONA <BR /> Susan Doll , Appalachian State University <BR /> Alex Dory , Staff, Harvard  <BR /> Sandy Eapen  <BR /> Kate Freeman , WB  <BR /> Candice Heberer , Consumer Financial Protection Bureau <BR /> Alex Hoffman   , Americal Pubic Power Corporation <BR /> Rahul Kitchlu , WB <BR /> Susan Kum , Grad Student, SUNY Buffalo  <BR /> Peter Lubell-Doughtie , ONA <BR /> Andrew Marder , Grad Student, Princeton  <BR /> Rajesh Menon , Harbinger  <BR /> Dean Modroukas , Innoveering Oil Services <BR /> Shashank Mohan , Rhodium Group  <BR /> Norbert Mueller , Michigan Tech <BR /> Gautam Nair , Yale ISPS  <BR /> Andrew O&#8217;Grady, Bronx Early College Academy <BR /> Kristine Oppelstrup , Management Consultant  <BR /> Denis Papathanasiou , Software  <BR /> Dana Pillai , Consulting  <BR /> Prabhas Pokharel , ONA <BR /> Stephen Pothier , George Washington University <BR /> Francisco Sebastian Rodriguez-Sanchez , SES <BR /> Aly Sanoh , World Bank <BR /> Ahmed Shehata, WorleyParsons Resources and Energy <BR /> Daniel Soto , Sonoma State University <BR /> Jonathan Thompson, AECOM <BR /> Jessika Trancik , MIT <BR /> Martijn van de Rijdt , Enketo <BR /> Tamer Wasfy , Indiana-Purdue University <BR /> Larry Weya , ONA <BR /> Ivan Willig , Clubhouse Software <BR /> Jacob Winiecki , CGAP <BR /> Roger Wong , ONA <BR />
-      </p>
-    </div>
-  </div>
+      Alumni 
+    </h2>  </div>
 </div>
+
+{% for alum in site.categories.alumni reversed %}
+<div class="row">
+    <div class="col-md-2">
+        {{ alum.full_name }}
+    </div>
+    <div class="col-md-2">
+        {{ alum.employer }}
+    </div>
+</div>
+{% endfor %}
 
 <a name="partners"></a> 
 
