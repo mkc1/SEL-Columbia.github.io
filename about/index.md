@@ -1,9 +1,9 @@
 ---
-id: 22
 title: About
-author: Jonathan Carbajal
 layout: page
-guid: http://modilabs.org/?page_id=22
+categories:
+ - team
+ - alumni
 ---
 <div class="row-fluid">
   <div class="span9">
@@ -25,61 +25,42 @@ guid: http://modilabs.org/?page_id=22
   </div>
 </div>
 
-<!-- Legend -->
+{% for member in site.categories.team reversed %}
+{% cycle 'add rows': '<div class="row">', nil, nil, nil %}
+<div class="col-md-4">
+    <div class="media">
+        <a class="pull-left" href="{{ member.url }}">
+        <img class="media-object" src="{{ member.photo }}">
+        </a>
+        <div class="media-body">
+            <div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.full_name}}</a></div>
+            <p class="note">{{ member.title }}</p>
+        </div>
+    </div>
+</div>    
+{% cycle 'close rows': nil, nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>', '</div>' %}
 
-<div id="team_list">
+
+<div class="row-fluid">
+  <div class="span9">
+    <h2>
+      Alumni 
+    </h2>  </div>
 </div>
 
-<div class="legend">
-  <dl>
-    <dt class="leadership">
-    </dt>
-    
-    <dd>
-      Leadership
-    </dd>
-    
-    <dt class="fieldexpert">
-    </dt>
-    
-    <dd>
-      Field Expert
-    </dd>
-    
-    <dt class="software">
-    </dt>
-    
-    <dd>
-      Software
-    </dd>
-    
-    <dt class="design">
-    </dt>
-    
-    <dd>
-      Design
-    </dd>
-    
-    <dt class="research">
-    </dt>
-    
-    <dd>
-      Research
-    </dd>
-    
-    <dt class="data">
-    </dt>
-    
-    <dd>
-      Data
-    </dd>
-  </dl>
+{% for alum in site.categories.alumni reversed %}
+<div class="row">
+    <div class="col-md-2">
+        {{ alum.full_name }}
+    </div>
+    <div class="col-md-2">
+        {{ alum.employer }}
+    </div>
 </div>
+{% endfor %}
 
-<!-- person template -->
-
-<div id="team">
-</div>
 
 <div class="row-fluid">
   <div class="span12">
