@@ -7,7 +7,6 @@ guid: http://modilabs.org/?page_id=27
 ---
 
 <div class="container">
-    {% assign counter = 0 %}
     {% for post in site.categories.blog limit: 8%}
 
 
