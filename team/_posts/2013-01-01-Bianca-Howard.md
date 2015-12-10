@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /assets/images/bianca.jpg
+photo: /assets/images/team/bianca.jpg
 full_name:  Bianca Howard
 title: PhD Candidate
 email: bnh2111@columbia.edu

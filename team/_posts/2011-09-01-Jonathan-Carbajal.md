@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /assets/images/jonathan.jpg
+photo: /assets/images/team/jonathan.jpg
 full_name:  Jonathan Carbajal
 title: Product Manager
 email: jc3853@columbia.edu
