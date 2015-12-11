@@ -8,6 +8,10 @@ guid: http://sel.columbia.edu/?page_id=4231
 ---
 <div class="row-fluid">
   <div class="col-sm-12">
+    <h2 style="font-size:48px !important;">
+      Delhi Energy Project
+    </h2>
+    <br />
     
     <img src="{{ site.baseurl }}/assets/images/projects/posts/{{ page.path_title }}/Dehli_energy_header_939x400.png" alt="Delhi Electric Data Viz" />
   </div>

@@ -1,4 +1,0 @@
-#PROTECT wp-content/uploads
-<files *.php>
-deny from all
-</files>
