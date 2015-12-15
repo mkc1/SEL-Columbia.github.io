@@ -4,3 +4,6 @@ _site
 archive/
 
 .DS_Store
+.bundle/
+Gemfile.lock
+path/
