@@ -1,9 +1,6 @@
 ---
-id: 3659
-title: jobs
-author: Modi Research Group
-layout: page
-guid: http://sel.columbia.edu/?page_id=3659
+title: Jobs
+layout: default
 ---
 <ul class="post-list">
   {% for post in site.posts %}
@@ -16,5 +13,3 @@ guid: http://sel.columbia.edu/?page_id=3659
     {% endif %}
   {% endfor %}
 </ul>
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
