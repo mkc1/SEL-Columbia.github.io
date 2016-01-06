@@ -2,18 +2,18 @@
 id: 20
 title: Projects
 author: Jonathan Carbajal
-layout: page
+layout: default
 guid: http://modilabs.org/?page_id=20
 ---
 
-<ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+{% for post in site.categories.projects %}
+<div class="row-fluid projects">
+    <div class="col-sm-12">
+        {{ post.excerpt }}
+    </div>
+    <div class="col-sm-12 projects-details">
+        <h3>{{ post.title }}</h3>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
+    </div>
+</div>
+{% endfor %}

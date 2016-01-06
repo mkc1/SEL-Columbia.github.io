@@ -1,2 +1,6 @@
 _site
 .sass-cache
+*.swp
+archive/
+
+.DS_Store
