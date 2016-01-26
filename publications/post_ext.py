@@ -15,32 +15,32 @@ count_untitle = 0
 
 #go through every element in list rf to make new post file
 for div in rf:
-    print type(div)
+    #print type(div)
     if(div.strong):
         title = str(div.strong)
         title = title[8:-9]
     else:
         count_untitle += 1
         title = "Untitled"+ str(count_untitle)
-        
+
     #get title of the post
     post_title = title.replace(' ','-')
-    
+
 
     #get link of publication
     #url = None
     if(div.a):
         a_tag = div.a.extract()
-        for a in soup.find_all('a',href=True):
-            link = a['href']
-
+        #for a in soup.find_all('a',href=True):
+        #    link = a['href']
+        link = a_tag['href']
     #get the description of content
     description = None
     x = div.findAll(attrs={"class":"pubdescription"})
     if (x):
-        print ('here is the description')
+        #print ('here is the description')
         description = x[0].getText()
-        print description + '\n'
+        #print description + '\n'
 
     # make a file for the post (YYYY-MM-DD-title.md)
     file_name = today_string + "-" + post_title + ".md"
@@ -49,18 +49,18 @@ for div in rf:
     # format YAML front matter
     # title, layout, images
     f.write('---\n')
-    f.write('title: '+title+'\n')
+    f.write('title: \''+title+'\'\n')
     f.write('layout: post\n')
     f.write('image: '+str(div.a)+'\n')
-    f.write('---\n')   
+    f.write('link: "'+ link +'"\n')
+    f.write('---\n')
     # TO DO- insert main text, link (or find a better place to put it)
     if(description!=None):
         try:
             description = description.encode("utf-8")
         except UnicodeError:
-            description= unicode(description,"utf")
+            description = unicode(description,"utf")
         else:
             pass
         f.write(str(description) + ' \n')
-    f.write(link + '\n')
-    f.close()   
+    f.close()
