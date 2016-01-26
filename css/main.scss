@@ -11,6 +11,9 @@ Author: Prajjwol Gautam, Roger Wong, Prabhas Pokharel
 Author URI: http://modi.mech.columbia.edu
 */
 
+/* bootstrap 1st */
+@import "bootstrap";
+
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -20,20 +23,20 @@ Author URI: http://modi.mech.columbia.edu
 
 @font-face{
    font-family: ProximaNova;
-   src: url(fonts/ProximaNova/ProximaNova-Regular.otf);
+   src: url(fonts/ProximaNova-Regular.otf);
    font-weight: normal;
 }
 
 @font-face {
     font-family: ProximaNova;
-    src: url(fonts/ProximaNova/ProximaNova-Light.otf);
+    src: url(fonts/ProximaNova-Light.otf);
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: ProximaNova;
-    src: url(fonts/ProximaNova/ProximaNova-Bold.otf);
+    src: url(fonts/ProximaNova-Bold.otf);
     font-weight: bold;
     font-style: normal;
 }
@@ -666,7 +669,3 @@ p#cf7_controls {
   font-size: 13px;
   line-height: 18px;
 }
-
-
-
-@import "bootstrap";

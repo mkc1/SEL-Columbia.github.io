@@ -2,7 +2,6 @@
 <header class="container-fluid no-padding">
   <div class="row-fluid no-padding">
     <div class="col-md-12 no-padding">
-
       <div class="navigation">
         <div class="container">
           <div class="sponsors">
@@ -16,17 +15,23 @@
           <div class="clearfix"></div>
           <div class="row-fluid">
             <div class="col-md-3">
-                <a href="{{ site.url }}">
+                <a href="/">
                 <img src="/assets/images/theme/logo.png">
               </a>
             </div>
             <div class="col-md-9">
-              <ul id="menu-menu" class="navlist"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="/about/">about</a></li>
-                <li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="/projects/">projects</a></li>
-                <li id="menu-item-2709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2709"><a href="/publications/">publications</a></li>
-                <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="/products-tools/">tools</a></li>
-                <li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="/blog/">blog</a></li>
-                <li id="menu-item-3685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3685"><a href="/jobs/">jobs</a></li>
+              <ul class="navlist">
+				{% comment %}
+                From Oli's answer on 
+                http://stackoverflow.com/questions/6366188/jekyll-select-current-page-url-and-change-its-class
+				{% endcomment %}
+				{% for link in site.navigation %}
+				{% assign url = page.url|remove:'index.html' %}
+				<li {% if url == link.url %}class="current-menu-item"{% endif %}>
+					<a href="{{link.url}}">{{link.text}}</a>
+				</li>
+				{% endfor %}
+				</li>
               </ul>                 
             </div>
           </div>
