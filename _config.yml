@@ -7,8 +7,8 @@ description: >
   issues.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Sustainable Engineering Lab
+email: your-email@columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -18,4 +18,20 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
+
+exclude: [path, vendor]
   
+# Navigation
+navigation:
+- text: about
+  url: /about/
+- text: projects 
+  url: /projects/
+- text: publications
+  url: /publications/
+- text: tools
+  url: /products-tools/
+- text: blog
+  url: /blog/
+- text: jobs
+  url: /jobs/
