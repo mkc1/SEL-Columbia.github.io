@@ -22,7 +22,7 @@ guid: http://modilabs.org/?page_id=27
 
                <div>
                 <a href="{{ post.url | prepend: site.baseurl }}">
-                  <img class="first-image-thumbnail alignnone size-large wp-image-4513" src="http://sel.columbia.edu/wp-content/uploads/2015/05/Screenshot-2015-05-28-14.20.48-700x238.png" alt="Water Pump" width="700" height="238" /></a>
+                  <img class="first-image-thumbnail alignnone size-large wp-image-4513" src="{{ post.image | prepend: site.baseurl }}" alt="Water Pump" width="700" height="238" /></a>
                   <br>
                   {{ post.content | strip_html | truncatewords: 50 }}
                   <br>
