@@ -10,10 +10,9 @@ layout: default
     {%if post.categories contains 'publications' %}
         <li>
           <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
           </h2>
           <p>{{post.content}}</p>
-          <p>{{post.link}}</p>
         </li>
     {% endif %}
   {% endfor %}
