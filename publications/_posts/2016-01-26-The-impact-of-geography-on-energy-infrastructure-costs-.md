@@ -3,7 +3,6 @@ title: 'The impact of geography on energy infrastructure costs '
 layout: post
 image: None
 link: "http://sel.columbia.edu/wp-content/uploads/2013/09/Impact_Of_Geography_on_Infrastructure_Costs.pdf"
+categories:
+  - Energy Planning
 ---
-
-
- 

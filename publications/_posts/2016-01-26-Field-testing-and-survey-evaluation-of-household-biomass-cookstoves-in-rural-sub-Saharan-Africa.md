@@ -3,7 +3,6 @@ title: 'Field testing and survey evaluation of household biomass cookstoves in r
 layout: post
 image: None
 link: "http://www.millenniumvillages.org/uploads/ReportPaper/Adkins_HHstovepaper_9-28-101.pdf"
+categories:
+  - Household Energy Usage
 ---
-
-
- 
