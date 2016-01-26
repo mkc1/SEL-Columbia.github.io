@@ -1,9 +1,7 @@
 ---
-id: 2660
 title: Publications
 author: Roger Wong
 layout: default
-guid: 'http://modi.mech.columbia.edu/?page_id=2660'
 ---
 <div>
 <h1 class="page-heading">Posts</h1>
