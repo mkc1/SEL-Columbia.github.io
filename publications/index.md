@@ -6,7 +6,7 @@ layout: default
 <div>
 <h1 class="page-heading">Publications</h1>
 
-<div class="span4"  style="float:left; margin:0; width:33%;">
+<div class="col-md-4"  style="float:left; margin:0; width:33%;">
   <h3> Infrastructure</h3>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
@@ -34,7 +34,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-<div class="span4"  style="float:left; margin:0; width:33%;">
+<div class="col-md-4"  style="float:left; margin:0; width:33%;">
   <h3>Energy Planning</h3>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
@@ -64,7 +64,7 @@ layout: default
   </ul>
 </div>
 
-<div class="span4"  style="float:left; margin:0; width:33%;">
+<div class="col-md-4"  style="float:left; margin:0; width:33%;">
   <h3>Data Collection & Analysis</h3>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
