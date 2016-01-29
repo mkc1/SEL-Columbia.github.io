@@ -6,28 +6,28 @@ layout: default
 <div>
 <h1 class="page-heading">Publications</h1>
 
-<div class="col-md-4"  style="float:left; margin:0; width:33%;">
-  <h3> Infrastructure</h3>
+<div class="col-md-4" style="float:left; margin:0; width:33%;">
+  <h2> Infrastructure</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
       {%if post.categories contains 'publications' and post.categories contains 'Infrastructure' %}
           <li>
-            <h2>
+            <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </h2>
+            </strong></p>
             <p>{{post.content}}</p>
           </li>
       {% endif %}
     {% endfor %}
   </ul>
-  <h3> Water</h3>
+  <h2> Water</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
       {%if post.categories contains 'publications'and post.categories contains 'Water' %}
           <li>
-            <h2>
+            <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </h2>
+            </strong></p>
             <p>{{post.content}}</p>
           </li>
       {% endif %}
@@ -35,28 +35,28 @@ layout: default
   </ul>
 </div>
 <div class="col-md-4"  style="float:left; margin:0; width:33%;">
-  <h3>Energy Planning</h3>
+  <h2>Energy Planning</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
       {%if post.categories contains 'publications'and post.categories contains 'Energy Planning' %}
           <li>
-            <h2>
+            <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </h2>
+            </strong></p>
             <p>{{post.content}}</p>
           </li>
       {% endif %}
     {% endfor %}
   </ul>
 
-  <h3>Household Energy Usage</h3>
+  <h2>Household Energy Usage</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
       {%if post.categories contains 'publications'and post.categories contains 'Household Energy Usage' %}
           <li>
-            <h2>
+            <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </h2>
+            </strong></p>
             <p>{{post.content}}</p>
           </li>
       {% endif %}
@@ -65,14 +65,15 @@ layout: default
 </div>
 
 <div class="col-md-4"  style="float:left; margin:0; width:33%;">
-  <h3>Data Collection & Analysis</h3>
+  <h2>Data Collection & Analysis</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.posts %}
       {%if post.categories contains 'publications'and post.categories contains 'Data Collection & Analysis' %}
           <li>
-            <h2>
+            <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </h2>
+            </strong>
+            </p>
             <p>{{post.content}}</p>
           </li>
       {% endif %}
