@@ -44,14 +44,30 @@ prose:
   siteurl: "http://127.0.0.1:4000/"
   #site:
   #media:""
-  relativeLinks:"ABSOLUTE-URL.JSONP"
   metadata:
     _posts:
       - name: "title"
         field:
           element: "text"
           label: "title"
-      - name: "category"
+      - name: "layout"
+         field:
+           element: "hidden"
+           label: "Layout"
+           value: "post"
+      - name: "categories"
         field:
-          element:"hidden"
-          value: "Infrastructure"
+          element:"multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          options:
+            - name: "Infrastructure"
+              value: Infrastructure
+            - name: "Energy Planning"
+              value: energy planning
+         alterable: true
+          - name: "tags"
+              field:
+                element: "text"
+                label: "Tags"
+                placeholder: "Enter tags, separated by spaces"
