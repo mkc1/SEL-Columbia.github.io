@@ -20,12 +20,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 markdown: kramdown
 
 exclude: [path, vendor]
-  
+
 # Navigation
 navigation:
 - text: about
   url: /about/
-- text: projects 
+- text: projects
   url: /projects/
 - text: publications
   url: /publications/
@@ -35,3 +35,23 @@ navigation:
   url: /blog/
 - text: jobs
   url: /jobs/
+
+# Configurations for Prose
+# https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  rooturl:"SEL-Columbia.github.io"
+  #ignore: ['file_a.html', '_config.yml']
+  siteurl: "http://127.0.0.1:4000/"
+  #site:
+  #media:""
+  relativeLinks:"ABSOLUTE-URL.JSONP"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "category"
+        field:
+          element:"hidden"
+          value: "Infrastructure"
