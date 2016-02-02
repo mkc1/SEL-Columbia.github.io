@@ -21,10 +21,16 @@ tags:
 
 [!map sample](http://sel.columbia.edu/wp-content/uploads/2015/02/Screenshot-2015-02-02-15.16.38-700x426.png)
 
-## **Why are we building revisit?** Data collection is essential to the development planning process. Although smartphones have made the collection of physical points quick and easy, in large scale mapping efforts, it is very difficult to ensure complete coverage in a single collection and, during multiple collection efforts, to avoid duplication of points. 
+## Why are we building revisit?
 
-## **How will it work?** Using client applications (coming soon), users can select the site at which they are conducting a survey, contribute general information (name, sector, location) and make updates to improve the central repository over time, helping to coordinate aid and maintain a more complete and up-to-date picture of social infrastructure. 
+Data collection is essential to the development planning process. Although smartphones have made the collection of physical points quick and easy, in large scale mapping efforts, it is very difficult to ensure complete coverage in a single collection and, during multiple collection efforts, to avoid duplication of points. 
 
-## **About the Revisit API** The backbone of Revisit is the RESTful API, providing access to our global facility registry. Based on the FRED specification for facility registries, with extensions for geo-spatial querying, the API is intended to be used by client applications that collect and manage facility-related data. 
+## How will it work?
 
-#### More info available at ->  <a title="Revisit" href="http://revisit.global" target="_blank">revisit.global</a>
+Using client applications (coming soon), users can select the site at which they are conducting a survey, contribute general information (name, sector, location) and make updates to improve the central repository over time, helping to coordinate aid and maintain a more complete and up-to-date picture of social infrastructure. 
+
+## About the Revisit API
+
+The backbone of Revisit is the RESTful API, providing access to our global facility registry. Based on the FRED specification for facility registries, with extensions for geo-spatial querying, the API is intended to be used by client applications that collect and manage facility-related data. 
+
+More info available at ->  <a title="Revisit" href="http://revisit.global" target="_blank">revisit.global</a>
