@@ -13,7 +13,7 @@ tags:
   - Facilities
   - Infrastructure Planning
 ---
-## <img class="alignnone size-full wp-image-4353 aligncenter" src="http://sel.columbia.edu/wp-content/uploads/2015/02/revisit-logo.png" alt="revisit logo" width="488" height="221" />
+## [!logo](http://sel.columbia.edu/wp-content/uploads/2015/02/revisit-logo.png)
 
 ## **REVISIT.GLOBAL, the facility registry, is now online!** The sustainable engineering lab has launched “revisit”, a global facility registry, designed to collect and manage facility data. Revisit aims to streamline the data collection process and build a central facility repository that enables countries and organizations to share basic facility data. 
 
