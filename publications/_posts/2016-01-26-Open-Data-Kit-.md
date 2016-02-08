@@ -2,7 +2,7 @@
 title: 'Open Data Kit '
 layout: post
 image: None
-link: "http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Open-Data-Kit-Review-Article.pdf"
+link: "/assets/images/blog/2013/06/Open-Data-Kit-Review-Article.pdf"
 categories:
   - Data Collection & Analysis
 ---

@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=1735
 permalink: /infrastructure-from-the-bottom-up-an-overview-and-assessment-of-the-millennium-village-project-energy-and-infrastructure-sector-after-five-years/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2011/08/Picture1.jpg
+  - /assets/images/blog/2011/08/Picture1.jpg
 categories:
   - Millenium Villages Project
   - News

@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=2035
 permalink: /exercises-in-matlab/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2012/06/bannerpic2.jpg
+  - /assets/images/blog/2012/06/bannerpic2.jpg
 categories:
   - Uncategorized
 tags:
@@ -18,4 +18,4 @@ To bring the spirit of Modi Research Group projects to accessible classroom exer
 
 [<img src="/assets/images/blog/2012/06/Matlab-Promo-1024x612.png" alt="Matlab-Promo" width="1024" height="612" class="alignnone size-large wp-image-2274" />][1]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2012/06/Matlab-Promo.png
+ [1]: /assets/images/blog/2012/06/Matlab-Promo.png

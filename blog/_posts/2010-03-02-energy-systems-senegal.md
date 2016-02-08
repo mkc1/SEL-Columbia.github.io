@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=629
 permalink: /energy-systems-senegal/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/potoucomps-border.png
+  - /assets/images/blog/2010/04/potoucomps-border.png
 categories:
   - Energy Planning
   - Millenium Villages Project

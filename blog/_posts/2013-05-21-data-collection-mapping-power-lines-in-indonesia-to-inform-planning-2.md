@@ -36,7 +36,7 @@ Piecing this very localized and distributed information together quickly put tog
 
 Stay tuned for a follow-up post on the actual tools and systems used for managing, collaborating and consolidating maps of PLN&#8217;s network.
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/05/EdwinBoatMapping.jpg
+ [1]: /assets/images/blog/2013/05/EdwinBoatMapping.jpg
  [2]: https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2&hl=en
  [3]: http://en.wikipedia.org/wiki/Perusahaan_Listrik_Negara
  [4]: http://formhub.org

@@ -15,17 +15,17 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Infrastructure_and_Energy_Report_WEB.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/Infrastructure_and_Energy_Report_WEB.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2012/06/Infrastructure_and_Energy_Report_WEB.pdf"><strong>Infrastructure from the Bottom Up </strong> [pdf]</a> An overview and assessment of the millennium village project energy and infrastructure sector after five years
+        <a href="/assets/images/blog/2012/06/Infrastructure_and_Energy_Report_WEB.pdf"><strong>Infrastructure from the Bottom Up </strong> [pdf]</a> An overview and assessment of the millennium village project energy and infrastructure sector after five years
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/dpt.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/dpt.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -95,7 +95,7 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/S09601481.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/S09601481.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -115,7 +115,7 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/S09601481.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/S09601481.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -125,47 +125,47 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/liberia-power-sector.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/liberia-power-sector.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/LiberiaEnergySectorReform_Phase4Report-Final_2013-08.pdf"><strong>National Electrification Planning</strong> [pdf]</a> Liberia Power Sector Capacity Building and Energy Master Planning
+        <a href="/assets/images/blog/2013/09/LiberiaEnergySectorReform_Phase4Report-Final_2013-08.pdf"><strong>National Electrification Planning</strong> [pdf]</a> Liberia Power Sector Capacity Building and Energy Master Planning
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.pdf"><strong>Energy for Sustainable Development </strong> [pdf]</a> Local and national electricity planning in Senegal: Scenarios and policies
+        <a href="/assets/images/blog/2013/09/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.pdf"><strong>Energy for Sustainable Development </strong> [pdf]</a> Local and national electricity planning in Senegal: Scenarios and policies
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Kenya-Paper-Energy-Policy-journal-version.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/Kenya-Paper-Energy-Policy-journal-version.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf"><strong>Development of a spatial model and case study of Kenya </strong> [pdf]</a> National electricity planning in settings with low pre-existing grid coverage
+        <a href="/assets/images/blog/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf"><strong>Development of a spatial model and case study of Kenya </strong> [pdf]</a> National electricity planning in settings with low pre-existing grid coverage
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Senegal_WorldBank_Report_8-07.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/Senegal_WorldBank_Report_8-07.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Senegal_WorldBank_Report_8-07.pdf"><strong>Senegal Final Report </strong> [pdf]</a> Costing for national electricity interventions to increase access to energy, health services, and education
+        <a href="/assets/images/blog/2013/04/Senegal_WorldBank_Report_8-07.pdf"><strong>Senegal Final Report </strong> [pdf]</a> Costing for national electricity interventions to increase access to energy, health services, and education
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/energy-services-for-mdgs.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/energy-services-for-mdgs.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -175,11 +175,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/10/Modi2010Off-grid-1.jpg" alt="" />
+        <img src="/assets/images/blog/2013/10/Modi2010Off-grid-1.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/10/Modi2010Off-grid-.pdf"><strong>Off-grid energy services for the poor: Introducing LED lighting in the Millennium Villages Project in Malawi </strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/10/Modi2010Off-grid-.pdf"><strong>Off-grid energy services for the poor: Introducing LED lighting in the Millennium Villages Project in Malawi </strong> [pdf]</a>
       </div>
     </div>
     
@@ -211,37 +211,37 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.jpg" alt="" />
+        <img src="/assets/images/blog/2013/09/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.pdf"><strong>Testing Biomass Cookstoves in Rural Kenya</strong> [pdf]</a> Testing institutional biomass cookstoves in rural Kenyan schools for the Millennium Villages Project
+        <a href="/assets/images/blog/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.pdf"><strong>Testing Biomass Cookstoves in Rural Kenya</strong> [pdf]</a> Testing institutional biomass cookstoves in rural Kenyan schools for the Millennium Villages Project
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Tiby_Cooking-Success_Final.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/Tiby_Cooking-Success_Final.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Tiby_Cooking-Success_Final.pdf"><strong>Improved Cookstoves Decrease Wood Gathering and Increase Savings Rates</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/06/Tiby_Cooking-Success_Final.pdf"><strong>Improved Cookstoves Decrease Wood Gathering and Increase Savings Rates</strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/Tyler_Household_Performance.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/Tyler_Household_Performance.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Tyler_Household_Performance.pdf"><strong>Investigation of Stove Performance in Households in Southwestern Uganda</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/06/Tyler_Household_Performance.pdf"><strong>Investigation of Stove Performance in Households in Southwestern Uganda</strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/10/Adkins_HHstovepaper_9-28-101.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/10/Adkins_HHstovepaper_9-28-101.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -251,7 +251,7 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/10/Adkins_HHstovepaper_9-28-101.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/10/Adkins_HHstovepaper_9-28-101.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -281,13 +281,13 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2014/02/dev13posters-final25.pdf"><strong>Improving Data Collection and Monitoring through Real-time Data Analysis</strong> [pdf]</a> This poster at ACM DEV 2013 describes the motivations and the basic functionality of Bamboo.
+        <a href="/assets/images/blog/2014/02/dev13posters-final25.pdf"><strong>Improving Data Collection and Monitoring through Real-time Data Analysis</strong> [pdf]</a> This poster at ACM DEV 2013 describes the motivations and the basic functionality of Bamboo.
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/cellcitizenship.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/cellcitizenship.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -327,7 +327,7 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/tropmed-85-026.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/tropmed-85-026.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -337,11 +337,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://modi.mech.columbia.edu/wp-content/uploads/2013/09/opendatakit.jpg" alt="" width="80" />
+        <img src="/assets/images/blog/2013/09/opendatakit.jpg" alt="" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Open-Data-Kit-Review-Article.pdf"><strong>Open Data Kit </strong> [pdf]</a> Implications for the use of smartphone software technology for questionnaire studies in international development
+        <a href="/assets/images/blog/2013/06/Open-Data-Kit-Review-Article.pdf"><strong>Open Data Kit </strong> [pdf]</a> Implications for the use of smartphone software technology for questionnaire studies in international development
       </div>
     </div>
   </div>

@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=705
 permalink: /finding-and-connecting-people-to-infrastructure-using-satellite-imagery-and-mathematical-modeling/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/infrastructure-types-with-border5.jpg
+  - /assets/images/blog/2010/04/infrastructure-types-with-border5.jpg
 categories:
   - Energy Planning
   - GIS Remote Sensing
@@ -194,10 +194,10 @@ Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a pr
 </table>
 
  [1]: http://siteresources.worldbank.org/EXTDEVCOMMENG/Resources/Participatorycommunication.pdf
- [2]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/triptych-revised-1023x333.png
- [3]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg
+ [2]: /assets/images/blog/2013/06/triptych-revised-1023x333.png
+ [3]: /assets/images/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg
  [4]: http://www.sciencedirect.com/science/article/pii/S0301421509003231
- [5]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/settlement-patterns-1024x768.png
+ [5]: /assets/images/blog/2013/06/settlement-patterns-1024x768.png
  [6]: http://en.wikipedia.org/wiki/Graphics_processing_unit
  [7]: http://www.sciencedirect.com/science/article/pii/S0301421509000561
  [8]: https://new.sipa.columbia.edu/academics/programs/mpa-in-development-practice
@@ -209,11 +209,11 @@ Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a pr
  [14]: http://openlayers.org/
  [15]: http://www.amqp.org
  [16]: http://www.pnas.org/content/104/43/16775.abstract
- [17]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_491.jpg
+ [17]: /assets/images/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_491.jpg
  [18]: http://us.pycon.org/2010/conference/schedule/event/97/
- [19]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png
+ [19]: /assets/images/blog/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png
  [20]: http://www.earthinstitute.columbia.edu/videos/watch/56
  [21]: http://www.earthinstitute.columbia.edu/videos/watch/5
  [22]: http://www.earthinstitute.columbia.edu/videos/watch/55
  [23]: http://en.oreilly.com/where2010/public/schedule/detail/11162
- [24]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/UNMillenniumVillagesFromSusanKum-resized.png
+ [24]: /assets/images/blog/2013/06/UNMillenniumVillagesFromSusanKum-resized.png

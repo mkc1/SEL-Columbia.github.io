@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=865
 permalink: /rural-electrification/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/Rural_Electrification21.jpg
+  - /assets/images/blog/2010/04/Rural_Electrification21.jpg
 categories:
   - Energy Planning
 tags:
@@ -27,6 +27,6 @@ The project team consists of graduate students and staff with expertise in econo
   * [CU Energy Group Report to the World Bank on Senegal][1]
   * [National Electricity Planning in Senegal][3]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Senegal_WorldBank_Report_8-07.pdf
- [2]: http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf
- [3]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.pdf
+ [1]: /assets/images/blog/2013/04/Senegal_WorldBank_Report_8-07.pdf
+ [2]: /assets/images/blog/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf
+ [3]: /assets/images/blog/2013/06/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.pdf

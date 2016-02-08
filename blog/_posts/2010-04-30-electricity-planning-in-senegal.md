@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=978
 permalink: /electricity-planning-in-senegal/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/senegal-211.jpg
+  - /assets/images/blog/2010/04/senegal-211.jpg
 categories:
   - Energy Planning
   - Papers
@@ -21,5 +21,5 @@ tags:
 
 [Download article &#8211; National Electricity Planning in Senegal][2]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2010/04/SenegalNetworkPlannerOutput-e1370532002673.png
- [2]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.pdf
+ [1]: /assets/images/blog/2010/04/SenegalNetworkPlannerOutput-e1370532002673.png
+ [2]: /assets/images/blog/2013/06/Senegal_Aly-Energy-Policy-paper-4.20.10-JEPO-S-10-00600.pdf

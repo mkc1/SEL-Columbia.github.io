@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=263
 permalink: /national-electricity-planning-in-kenya/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/kenya1.jpg
+  - /assets/images/blog/2010/04/kenya1.jpg
 categories:
   - Energy Planning
 tags:
@@ -21,5 +21,5 @@ Results show that under most geographic conditions, extension of the national gr
 
 [Read the full paper from Energy Policy][2]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2010/01/kenya-energy-planning.jpg
- [2]: http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf
+ [1]: /assets/images/blog/2010/01/kenya-energy-planning.jpg
+ [2]: /assets/images/blog/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf
