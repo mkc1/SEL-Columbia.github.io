@@ -35,11 +35,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2015/07/applied_geography.jpg" alt="" />
+        <img src="/assets/images/blog/2015/07/applied_geography.jpg" alt="" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2015/07/Belinda_etal_Nigeria_Infrasture_Paper-Papers-in-Applied-Geography.pdf"><strong>Geography of Infrastructure Functionality at Schools in Nigeria:</strong>[pdf]</a>Evidence From Spatial Data Analysis Across Local Government Areas Infrastructure from the Bottom Up
+        <a href="/assets/images/blog/2015/07/Belinda_etal_Nigeria_Infrasture_Paper-Papers-in-Applied-Geography.pdf"><strong>Geography of Infrastructure Functionality at Schools in Nigeria:</strong>[pdf]</a>Evidence From Spatial Data Analysis Across Local Government Areas Infrastructure from the Bottom Up
       </div>
     </div>
     
@@ -49,11 +49,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/globalWaters.jpg" alt="globalWaters" />
+        <img src="/assets/images/blog/2013/09/globalWaters.jpg" alt="globalWaters" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/GlobalWaters.pdf"><strong>Food: Where water and energy meet</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/GlobalWaters.pdf"><strong>Food: Where water and energy meet</strong> [pdf]</a>
       </div>
     </div>
   </div>
@@ -65,17 +65,17 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/hybridEnergy.jpg" alt="hybridEnergy" width="80" />
+        <img src="/assets/images/blog/2013/09/hybridEnergy.jpg" alt="hybridEnergy" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/HybridEnergy_PumpedHydro.pdf"><strong>Hybrid Energy Generation and Allocation System with Pumped Hydro Storage </strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/HybridEnergy_PumpedHydro.pdf"><strong>Hybrid Energy Generation and Allocation System with Pumped Hydro Storage </strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/personalPower.png" alt="personalPower" />
+        <img src="/assets/images/blog/2013/09/personalPower.png" alt="personalPower" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -85,11 +85,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/potentialNaturalGas.png" alt="potentialNaturalGas" width="80" />
+        <img src="/assets/images/blog/2013/09/potentialNaturalGas.png" alt="potentialNaturalGas" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2014/11/Potential-for-Regional-Use-of-East-Africas-Natural-Gas-SELv7_1_ES.pdf"><strong>Potential for Regional Use of East Africa’s Natural Gas</strong> [pdf]</a>The economic viability of developing a natural gas transmission system across Eastern and Southern Africa
+        <a href="/assets/images/blog/2014/11/Potential-for-Regional-Use-of-East-Africas-Natural-Gas-SELv7_1_ES.pdf"><strong>Potential for Regional Use of East Africa’s Natural Gas</strong> [pdf]</a>The economic viability of developing a natural gas transmission system across Eastern and Southern Africa
       </div>
     </div>
     
@@ -99,17 +99,17 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/RenewableEnergy_CostVsReliability.pdf"><strong>Cost versus reliability sizing strategy for isolated photovoltaic micro-grids in the developing world</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/RenewableEnergy_CostVsReliability.pdf"><strong>Cost versus reliability sizing strategy for isolated photovoltaic micro-grids in the developing world</strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/EnergyForSustainableDevelopment.jpg" alt="EnergyForSustainableDevelopment" />
+        <img src="/assets/images/blog/2013/09/EnergyForSustainableDevelopment.jpg" alt="EnergyForSustainableDevelopment" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/EnergyForSustainableDevelopment-ElectrificationPlanningInGhana-KemausuorEtAl.pdf"><strong>Electrification planning using Network Planner tool: The case of Ghana </strong> [pdf]</a>Results of capacity-building and analysis of electrifying 2,600 communities
+        <a href="/assets/images/blog/2013/09/EnergyForSustainableDevelopment-ElectrificationPlanningInGhana-KemausuorEtAl.pdf"><strong>Electrification planning using Network Planner tool: The case of Ghana </strong> [pdf]</a>Results of capacity-building and analysis of electrifying 2,600 communities
       </div>
     </div>
     
@@ -185,11 +185,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/energyPolicy.jpg" alt="energyPolicy" />
+        <img src="/assets/images/blog/2013/09/energyPolicy.jpg" alt="energyPolicy" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/Impact_Of_Geography_on_Infrastructure_Costs.pdf"><strong>The impact of geography on energy infrastructure costs </strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/Impact_Of_Geography_on_Infrastructure_Costs.pdf"><strong>The impact of geography on energy infrastructure costs </strong> [pdf]</a>
       </div>
     </div>
     
@@ -201,11 +201,11 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/IEEE_batteryStorage.jpg" alt="IEEE_batteryStorage" width="80" />
+        <img src="/assets/images/blog/2013/09/IEEE_batteryStorage.jpg" alt="IEEE_batteryStorage" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/Comparing-solar-home-systems-to-a-solar-microgrid-Lee-Shaw-Modi-FINAL.pdf"><strong>Battery storage: Comparing shared to individually owned storage given rural demand profiles of a cluster of customers.</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/Comparing-solar-home-systems-to-a-solar-microgrid-Lee-Shaw-Modi-FINAL.pdf"><strong>Battery storage: Comparing shared to individually owned storage given rural demand profiles of a cluster of customers.</strong> [pdf]</a>
       </div>
     </div>
     
@@ -255,7 +255,7 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/HouseholdEnergyAfrica.pdf"><strong>Rural household energy consumption in the millennium villages in Sub-Saharan Africa</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/HouseholdEnergyAfrica.pdf"><strong>Rural household energy consumption in the millennium villages in Sub-Saharan Africa</strong> [pdf]</a>
       </div>
     </div>
   </div>
@@ -267,17 +267,17 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
     
     <div class="row-fluid">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/IEEE_data.jpg" alt="IEEE_data" width="80" />
+        <img src="/assets/images/blog/2013/09/IEEE_data.jpg" alt="IEEE_data" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/DataDrivenLocalPlanning_Final.pdf"><strong>Data-driven Local Planning at National Scale: How data collected on mobile phones enable a Conditional Grants Scheme in Nigeria</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/DataDrivenLocalPlanning_Final.pdf"><strong>Data-driven Local Planning at National Scale: How data collected on mobile phones enable a Conditional Grants Scheme in Nigeria</strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2014/10/improvingData.jpg" alt="improvingData" width="80" />
+        <img src="/assets/images/blog/2014/10/improvingData.jpg" alt="improvingData" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
@@ -291,37 +291,37 @@ guid: http://modi.mech.columbia.edu/?page_id=2660
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://hir.harvard.edu/cellular-citizenship"><strong>Cellular Citizenship </strong> [url]</a><a href="http://sel.columbia.edu/wp-content/uploads/2013/09/CellularCitizenship.pdf"> [pdf]</a> Highlights cell phones’ use in data and information systems for smarter development
+        <a href="http://hir.harvard.edu/cellular-citizenship"><strong>Cellular Citizenship </strong> [url]</a><a href="/assets/images/blog/2013/09/CellularCitizenship.pdf"> [pdf]</a> Highlights cell phones’ use in data and information systems for smarter development
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/authorSurveys.jpg" alt="authorSurveys" width="80" />
+        <img src="/assets/images/blog/2013/09/authorSurveys.jpg" alt="authorSurveys" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/LessonsOnAuthoringSurveysScale.pdf"><strong>Lessons On Authoring Infrastructure Surveys at Scale</strong> [pdf]</a>
+        <a href="/assets/images/blog/2013/09/LessonsOnAuthoringSurveysScale.pdf"><strong>Lessons On Authoring Infrastructure Surveys at Scale</strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/lessonsMultiple.jpg" alt="lessonsMultiple" width="80" />
+        <img src="/assets/images/blog/2013/09/lessonsMultiple.jpg" alt="lessonsMultiple" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2014/04/LessonsOnAuthoringMultipleChoice.pdf"><strong>Lessons On Authoring Multiple Choice Survey Questions</strong> [pdf]</a>
+        <a href="/assets/images/blog/2014/04/LessonsOnAuthoringMultipleChoice.pdf"><strong>Lessons On Authoring Multiple Choice Survey Questions</strong> [pdf]</a>
       </div>
     </div>
     
     <div class="row-fluid" style="padding-top: 15px;">
       <div class="span3">
-        <img src="http://sel.columbia.edu/wp-content/uploads/2013/09/enumeratorTraining.jpg" alt="enumeratorTraining" width="80" />
+        <img src="/assets/images/blog/2013/09/enumeratorTraining.jpg" alt="enumeratorTraining" width="80" />
       </div>
       
       <div class="span9 pubdescription" style="padding-left: 7px;">
-        <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/LessonsOnEnumeratorTraining.pdf"><strong>Lessons On Enumerator Training</strong>[pdf]</a>
+        <a href="/assets/images/blog/2013/09/LessonsOnEnumeratorTraining.pdf"><strong>Lessons On Enumerator Training</strong>[pdf]</a>
       </div>
     </div>
     

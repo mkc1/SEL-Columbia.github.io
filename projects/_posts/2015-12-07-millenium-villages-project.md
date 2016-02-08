@@ -47,7 +47,7 @@ guid: http://sel.columbia.edu/?page_id=3532
       Piped Water Networks
     </h3>
     
-    <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/waterMVP.jpg" />
+    <img src="/assets/images/blog/2014/03/waterMVP.jpg" />
   </div>
 </div>
 
@@ -86,7 +86,7 @@ guid: http://sel.columbia.edu/?page_id=3532
         Household Energy: Improved Cookstoves
       </h3>
       
-      <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/cookstovesMVP.jpg" />
+      <img src="/assets/images/blog/2014/03/cookstovesMVP.jpg" />
     </div>
   </div>
   
@@ -134,7 +134,7 @@ guid: http://sel.columbia.edu/?page_id=3532
                 Solar Lighting
               </h3>
               
-              <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/solarMVP.jpg" />
+              <img src="/assets/images/blog/2014/03/solarMVP.jpg" />
             </div>
           </div>
           
@@ -165,7 +165,7 @@ guid: http://sel.columbia.edu/?page_id=3532
                   Literacy Assessments in the Millennium Villages
                 </h3>
                 
-                <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/educationMVP.jpg" /></a>
+                <img src="/assets/images/blog/2014/03/educationMVP.jpg" /></a>
               </div>
             </div>
             
