@@ -29,5 +29,5 @@ Field research: Jose Barnuevo; summary and presentation: Rahul Kitchlu
 
 [Energy Systems Update &#8211; Senegal &#8211; Full Report][2]
 
- [1]: /wp-content/uploads/2013/06/Rural-Energy-Systems-Update_MVP-Senegal_Short.pdf
- [2]: /wp-content/uploads/2013/06/Jose-PotouFinalreport-JPedits.pdf
+ [1]: /assets/images/blog/2013/06/Rural-Energy-Systems-Update_MVP-Senegal_Short.pdf
+ [2]: /assets/images/blog/2013/06/Jose-PotouFinalreport-JPedits.pdf
