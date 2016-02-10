@@ -2,7 +2,7 @@
 title: 'Senegal Final Report '
 layout: post
 image: None
-link: "/assets/images/blog/2013/04/Senegal_WorldBank_Report_8-07.pdf"
+link: "/assets/uploads/blog/2013/04/Senegal_WorldBank_Report_8-07.pdf"
 categories:
   - Energy Planning
 ---

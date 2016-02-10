@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=68
 permalink: /lister-engine/
 image:
-  - /assets/images/blog/2010/04/Lister_Engine.jpg
+  - /assets/uploads/blog/2010/04/Lister_Engine.jpg
 categories:
   - News
 tags:

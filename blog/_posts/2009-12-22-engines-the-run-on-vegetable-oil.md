@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=24
 permalink: /engines-the-run-on-vegetable-oil/
 image:
-  - /assets/images/blog/2010/04/JatrophaSignificance_clip_image002.jpg
+  - /assets/uploads/blog/2010/04/JatrophaSignificance_clip_image002.jpg
 comment: This image seems to be missing -- vr2262
 categories:
   - Uncategorized

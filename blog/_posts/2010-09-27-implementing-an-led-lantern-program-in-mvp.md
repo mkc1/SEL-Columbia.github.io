@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=1374
 permalink: /implementing-an-led-lantern-program-in-mvp/
 image:
-  - /assets/images/blog/2010/09/clip_image001.jpg
+  - /assets/uploads/blog/2010/09/clip_image001.jpg
 categories:
   - LED Lighting
   - Millenium Villages Project

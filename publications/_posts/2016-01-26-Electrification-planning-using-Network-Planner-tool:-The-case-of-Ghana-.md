@@ -2,7 +2,7 @@
 title: 'Electrification planning using Network Planner tool: The case of Ghana '
 layout: post
 image: None
-link: "/assets/images/blog/2013/09/EnergyForSustainableDevelopment-ElectrificationPlanningInGhana-KemausuorEtAl.pdf"
+link: "/assets/uploads/blog/2013/09/EnergyForSustainableDevelopment-ElectrificationPlanningInGhana-KemausuorEtAl.pdf"
 categories:
   - Energy Planning
 ---

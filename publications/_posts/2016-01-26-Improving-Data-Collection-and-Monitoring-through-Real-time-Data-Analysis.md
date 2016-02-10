@@ -2,7 +2,7 @@
 title: 'Improving Data Collection and Monitoring through Real-time Data Analysis'
 layout: post
 image: None
-link: "/assets/images/blog/2014/02/dev13posters-final25.pdf"
+link: "/assets/uploads/blog/2014/02/dev13posters-final25.pdf"
 categories:
   - Data Collection & Analysis
 ---
