@@ -4,5 +4,7 @@ layout: post
 image: None
 link: "http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Tiby_Cooking-Success_Final.pdf"
 categories:
+  - Energy Planning
+tags:
   - Household Energy Usage
 ---

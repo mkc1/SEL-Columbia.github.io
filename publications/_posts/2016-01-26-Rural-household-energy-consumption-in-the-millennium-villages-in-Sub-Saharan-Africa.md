@@ -4,5 +4,7 @@ layout: post
 image: None
 link: "http://sel.columbia.edu/wp-content/uploads/2013/09/HouseholdEnergyAfrica.pdf"
 categories:
+  - Energy Planning
+tags:
   - Household Energy Usage
 ---
