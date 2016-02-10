@@ -44,6 +44,11 @@ prose:
   siteurl: "http://127.0.0.1:4000/"
   #site:
   #media: ""
+  ignore:
+    - index.md
+    - _config.yml
+    -/_layouts
+    -/_includes
   metadata:
     _posts:
       - name: "title"
