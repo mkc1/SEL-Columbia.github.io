@@ -4,7 +4,7 @@
 prose:
   rooturl: "SEL-Columbia.github.io"
   #ignore: ['file_a.html', '_config.yml']
-  siteurl: "http://127.0.0.1:4000/"
+  siteurl: "http://SEL-Columbia.github.io"
   #site:
   #media: ""
   metadata:
