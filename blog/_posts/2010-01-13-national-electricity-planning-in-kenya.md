@@ -13,7 +13,7 @@ tags:
   - Energy Planning
   - Papers
 ---
-[<img src="http://modi.mech.columbia.edu/wp-content/uploads/2010/01/kenya-energy-planning.jpg" alt="kenya-energy-planning" width="700" height="385" class="alignnone size-full wp-image-2305" />][1] 
+[<img src="/assets/images/blog/2010/01/kenya-energy-planning.jpg" alt="kenya-energy-planning" width="700" height="385" class="alignnone size-full wp-image-2305" />][1] 
 
 In order to guide grid expansion in countries with low pre-existing electricity coverage, Modi Research Group has developed a spatial electricity planning model. The model can be used to rapidly estimate connection costs and compare different regions and communities. <!--more-->Inputs that are modeled include electricity demand, costs, and geographic characteristics. The spatial nature of the model permits accurate representation of the existing electricity network and population distribution, which form the basis for future expansion decisions. The methodology and model assumptions are illustrated using country-specific data from Kenya.
 
