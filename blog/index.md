@@ -38,5 +38,4 @@ layout: default
                 {{ post.content | strip_html | truncatewords: 50 }}
             </p>
         </div>
-    {% endfor %}
 </div>
