@@ -16,4 +16,4 @@ guid: http://modilabs.org/?page_id=20
         </h2>
       </li>
     {% endfor %}
-  </ul>
+</ul>
