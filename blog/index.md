@@ -35,9 +35,10 @@ layout: default
                 {% endif %}
             {% endfor %}
             
-            <p>
+            <br>
                 {{ post.content | strip_html | truncatewords: 50 }}
-            </p>
+            <br>
+            <a href="{{ post.url }}" style="text-transform:uppercase; font-size: 13px; font-weight: 700;">Continue Reading &raquo;</a>
         </div>
     {% endfor %}
 </div>
