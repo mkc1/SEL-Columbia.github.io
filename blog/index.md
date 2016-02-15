@@ -8,6 +8,19 @@ layout: default
         <div class="row">
             <h2>
                 <a href="{{ post.url | prepend: site.baseurl }}">
+                  <img class="first-image-thumbnail alignnone size-large wp-image-4513" src="{{ post.image | prepend: site.baseurl }}" alt="Water Pump" width="700" height="238" /></a>
+                  <br>
+                  {{ post.content | strip_html | truncatewords: 50 }}
+                  <br>
+                  <a href="{{ post.url | prepend: site.baseurl }}" style="text-transform:uppercase; font-size: 13px; font-weight: 700;">Continue Reading »</a>
+              </div>
+
+          </article>
+      </div>
+
+
+      {% endfor %}
+  </div>
                     {{ post.title }}
                 </a>
             </h2>
@@ -25,5 +38,4 @@ layout: default
                 {{ post.content | strip_html | truncatewords: 50 }}
             </p>
         </div>
-    {% endfor %}
 </div>
