@@ -4,6 +4,8 @@ layout: default
 ---
 
 <div class="container">
+    <strong>10 most recent posts</strong>
+    <a href="/blog/archive">Blog archive</a>
     {% for post in site.categories.blog limit: 10 %}
         <div class="row">
             <h2>
