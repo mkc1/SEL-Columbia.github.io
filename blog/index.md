@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="container">
-    {% for post in site.categories.blog limit: 8%}
+    {% for post in site.categories.blog limit: 10 %}
         <div class="row">
             <h2>
                 <a href="{{ post.url }}">
