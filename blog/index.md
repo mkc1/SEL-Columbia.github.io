@@ -43,4 +43,6 @@ layout: default
             <a href="{{ post.url }}" style="text-transform:uppercase; font-size: 13px; font-weight: 700;">Continue Reading &raquo;</a>
         </div>
     {% endfor %}
+    <strong>10 most recent posts</strong>
+    <a href="/blog/archive">Blog archive</a>
 </div>
