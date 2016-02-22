@@ -6,7 +6,7 @@ layout: page
 guid: http://sel.columbia.edu/?page_id=3464
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <h2 style="font-size:48px !important;">
       Sustainable Energy Solutions Program in West Africa
     </h2>
@@ -16,7 +16,7 @@ guid: http://sel.columbia.edu/?page_id=3464
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <br /> 
     
     <p>
@@ -109,7 +109,7 @@ guid: http://sel.columbia.edu/?page_id=3464
     </p>
   </div>
   
-  <div class="span3">
+  <div class="col-md-3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">

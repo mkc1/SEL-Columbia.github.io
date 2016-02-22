@@ -6,7 +6,7 @@ layout: page
 guid: http://sel.columbia.edu/?page_id=3472
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <h2 style="font-size:48px !important;">
       Scale-up Initiative
     </h2>
@@ -22,7 +22,7 @@ guid: http://sel.columbia.edu/?page_id=3472
 </p>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <br /> 
     
     <p>
@@ -30,11 +30,11 @@ guid: http://sel.columbia.edu/?page_id=3472
     </p>
     
     <p>
-      In order to support the CGS, and as part of their goal to promote the use of data in the local planning process, OSSAP-MDGs in partner with SEL undertook a rigorous, geo-referenced baseline facility inventory across Nigeria spanning from 2009 to 2011 with a supporting collection in 2014. The aim of this survey effort was to collect geo-referenced facility-level data for all of the nation’s health, education and water facilities. This data can inform level, state, and federal interventions towards closing gaps and improving indicators targeted at achieving the MDGs.
+      In order to support the CGS, and as part of their goal to promote the use of data in the local planning process, OSSAP-MDGs in partner with SEL undertook a rigorous, geo-referenced baseline facility inventory across Nigeria col-md-ning from 2009 to 2011 with a supporting collection in 2014. The aim of this survey effort was to collect geo-referenced facility-level data for all of the nation’s health, education and water facilities. This data can inform level, state, and federal interventions towards closing gaps and improving indicators targeted at achieving the MDGs.
     </p>
   </div>
   
-  <div class="span3">
+  <div class="col-md-3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">
@@ -64,7 +64,7 @@ guid: http://sel.columbia.edu/?page_id=3472
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <p>
       The end result is an online portal, the Nigeria MDG Information System (NMIS), that displays all of the data collected. NMIS has proven to be an invaluable planning tool for local government areas. In Summer 2014, OSSAP will take this initiative further and open the data to the public. The hope is to encourage and help other organizations better plan future infrastructure and move Nigeria closer to achieving the MDGs. It is designed to be used by planners, researchers and the broader global development community.
     </p></br> 

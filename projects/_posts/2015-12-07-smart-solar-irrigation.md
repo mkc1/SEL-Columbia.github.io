@@ -6,7 +6,7 @@ layout: page
 guid: http://sel.columbia.edu/?page_id=4031
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <h2 style="font-size:48px !important;">
       Smart Solar Irrigation in Senegal
     </h2>
@@ -20,7 +20,7 @@ guid: http://sel.columbia.edu/?page_id=4031
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <br /> 
     
     <p>
@@ -32,7 +32,7 @@ guid: http://sel.columbia.edu/?page_id=4031
     </p>
   </div>
   
-  <div class="span3">
+  <div class="col-md-3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">
@@ -58,7 +58,7 @@ guid: http://sel.columbia.edu/?page_id=4031
 </div>
 
 <div class="row-fluid">
-  <div class="span9" margin-left="0">
+  <div class="col-md-9" margin-left="0">
     The Sustainable Engineering Lab (SEL) has launched an innovative batteryless solar PV irrigation system in northern Senegal. The centralized 6.8kW solar array provides distributed 3-phase AC power to seven horticulture farmers that have their own shallow wells and 1-hp AC pumps. Our pre-paid smart-control system distributes energy to individual pumps as it becomes available throughout the day, enabling us to meet irrigation demand without the high capital and recurring costs of battery storage. Farmers maintain their existing gas-powered pumps as backups but we have set the price of solar energy slightly lower than the price of gasoline so that the farmers opt for the cheaper solar.
   </div>
 </div></div> 
@@ -66,30 +66,30 @@ guid: http://sel.columbia.edu/?page_id=4031
 * * *
 
 <div class="row-fluid" style="background:#FFFFFF;">
-  <div class="span12" style="padding:0px 0px 0px 30px;">
+  <div class="col-md-12" style="padding:0px 0px 0px 30px;">
   </div>
 </div>
 
 <div class="row-fluid" style="background:#FFFFFF;">
-  <div class="span12">
+  <div class="col-md-12">
     <img src="/assets/uploads/blog/2014/10/solar_ag_how_it_works.png" alt="solar_ag_how_it_works" width="940" height="437" />
   </div>
 </div>
 
 <div class="row-fluid" style="background:#FFFFFF;">
-  <div class="span4" style="padding:30px;">
+  <div class="col-md-4" style="padding:30px;">
     <p>
       <strong>Centralized solar &#038; monitoring</strong><br />Electricity is generated centrally by a single, solar PV array. A custom-made battery-less AC system controls and monitors pump function for 7+ farmers.
     </p>
   </div>
   
-  <div class="span4" style="padding:30px;">
+  <div class="col-md-4" style="padding:30px;">
     <p>
       <strong>Pre-paid credit</strong><br />Electricity is sold by a micro-utility to farmers using a pre-paid credit system similar to cell phone scratch card systems, only paying for what they consume.
     </p>
   </div>
   
-  <div class="span4" style="padding:30px;">
+  <div class="col-md-4" style="padding:30px;">
     <p>
       <strong>Decentralized pumps</strong><br />Farmers retain autonomy of their individual wells and pumps.
     </p>
@@ -99,7 +99,7 @@ guid: http://sel.columbia.edu/?page_id=4031
 
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <h3>
       Benefits
     </h3>
@@ -132,7 +132,7 @@ guid: http://sel.columbia.edu/?page_id=4031
       </p></div> </div> 
       
       <div class="row-fluid">
-        <div class="span9">
+        <div class="col-md-9">
           <hr />
           
           <h3>
