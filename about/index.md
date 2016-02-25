@@ -48,7 +48,8 @@ layout: default
     </h2>  </div>
 </div>
 
-{% for alum in site.categories.alumni reversed %}
+{% assign former = site.team | where:"status","former" %}
+{% for alum in former %}
 <div class="row">
     <div class="col-md-2">
         {{ alum.full_name }}
