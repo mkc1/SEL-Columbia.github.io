@@ -21,6 +21,9 @@ markdown: kramdown
 
 exclude: [path, vendor]
 
+collections:
+  - team
+
 # Navigation
 navigation:
 - text: about

@@ -21,7 +21,8 @@ layout: default
   </div>
 </div>
 
-{% for member in site.categories.team reversed %}
+{% assign current = site.team | where:"status","current" %}
+{% for member in current %}
 {% cycle 'add rows': '<div class="row">', nil, nil, nil %}
 <div class="col-md-3">
     <div class="media">
