@@ -1,4 +1,6 @@
 ---
+id: viktor
+status: current
 layout: page
 photo: /assets/uploads/team/viktor.jpg
 full_name:  Viktor Roytman

@@ -1,4 +1,6 @@
 ---
+id: jonathan
+status: former
 layout: page
 photo: /assets/uploads/team/jonathan.jpg
 full_name:  Jonathan Carbajal

@@ -1,4 +1,6 @@
 ---
+id: gordon
+status: current
 layout: page
 photo: /assets/uploads/team/gordon.jpg
 full_name:  Gordon Shaw

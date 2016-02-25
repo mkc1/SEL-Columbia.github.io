@@ -1,4 +1,6 @@
 ---
+id: bianca
+status: former
 layout: page
 photo: /assets/uploads/team/bianca.jpg
 full_name:  Bianca Howard

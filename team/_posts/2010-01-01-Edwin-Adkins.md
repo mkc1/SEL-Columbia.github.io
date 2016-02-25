@@ -1,4 +1,6 @@
 ---
+id: jea98
+status: current
 layout: page
 photo: /assets/uploads/team/edwin.jpg
 full_name:  Edwin Adkins

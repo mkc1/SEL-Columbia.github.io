@@ -1,4 +1,6 @@
 ---
+id: mike
+status: current
 layout: page
 photo: /assets/uploads/team/mike.jpg
 full_name:  Mike Waite

@@ -1,4 +1,6 @@
 ---
+id: vijay
+status: current
 layout: page
 photo: /assets/uploads/team/vijay.jpg
 full_name:  Vijay Modi

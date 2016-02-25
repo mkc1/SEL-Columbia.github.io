@@ -1,4 +1,6 @@
 ---
+id: mszebiak
+status: former
 layout: page
 photo: /assets/uploads/team/mattz.jpg
 full_name:  Matt Zebiak

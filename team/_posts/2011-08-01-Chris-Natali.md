@@ -1,4 +1,6 @@
 ---
+id: cjn
+status: current
 layout: page
 photo: /assets/uploads/team/chris.png
 full_name:  Chris Natali
