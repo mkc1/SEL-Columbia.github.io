@@ -21,6 +21,11 @@ markdown: kramdown
 
 exclude: [path, vendor]
 
+collections:
+  team:
+    output: true
+    permalink: /team/:title/
+
 # Navigation
 navigation:
 - text: about

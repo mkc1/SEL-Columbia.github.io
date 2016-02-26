@@ -1,7 +1,7 @@
 ---
 id: 3642
 title: 'Senegal Solar Irrigation: Project Launch'
-author: Candice Heberer
+author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3642
 permalink: /senegal-solar-irrigation-project-launch/

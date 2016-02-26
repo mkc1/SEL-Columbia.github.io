@@ -1,7 +1,7 @@
 ---
 id: 1963
 title: Mapping New York City Energy Consumption
-author: Shaky Sherpa
+author: ssherpa
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1963
 permalink: /nyc-energy-mapping-project/

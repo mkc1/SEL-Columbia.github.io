@@ -1,7 +1,7 @@
 ---
 id: 3971
 title: 'Catch up on SEL&#8217;s exciting week during the UN General Assembly'
-author: Candice Heberer
+author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3971
 permalink: /catch-up-on-sels-exciting-week-during-the-un-general-assembly/

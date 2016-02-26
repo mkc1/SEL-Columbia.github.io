@@ -16,7 +16,7 @@ layout: default
 
             <p>
                 <span class="article-author">
-                    {{ post.author }}
+                    {% include author_name.html author=post.author %}
                 </span>
                 <span class="article-date">
                     {{ post.date | date: "%b %-d, %Y"}}

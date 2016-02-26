@@ -1,7 +1,7 @@
 ---
 id: 46
 title: Mapping Power Lines in Indonesia to Inform Planning
-author: Jonathan Carbajal
+author: jonathan
 layout: post
 guid: http://modilabs.org/?p=46
 permalink: /data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/

@@ -1,7 +1,7 @@
 ---
 id: 865
 title: Rural Electrification
-author: Modi Research Group
+author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=865
 permalink: /rural-electrification/

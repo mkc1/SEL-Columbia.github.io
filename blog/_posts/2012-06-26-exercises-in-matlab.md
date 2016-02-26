@@ -1,7 +1,7 @@
 ---
 id: 2035
 title: Exercises in MATLAB
-author: Matt Zebiak
+author: mszebiak
 layout: post
 guid: http://modi.mech.columbia.edu/?p=2035
 permalink: /exercises-in-matlab/
