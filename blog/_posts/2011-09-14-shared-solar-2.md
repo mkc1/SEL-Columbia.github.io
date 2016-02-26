@@ -4,7 +4,6 @@ title: 'Shared Solar: Prepaid Electricity via Mobile Telephony'
 author: ssherpa
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1894
-permalink: /shared-solar-2/
 image:
   - /assets/uploads/blog/2011/09/shared_solar1.png
 categories:

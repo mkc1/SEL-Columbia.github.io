@@ -4,7 +4,6 @@ title: 5 Goals for ChildCount
 author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=64
-permalink: /childcount/
 image:
   - /assets/uploads/blog/2009/12/533199334_bu2c6-L.jpg
 embed:

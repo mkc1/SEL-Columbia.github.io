@@ -4,7 +4,6 @@ title: Solar powered Agricultural water pumping system is up and running in Sene
 author: john-humphrey
 layout: post
 guid: http://sel.columbia.edu/?p=4293
-permalink: /solar-powered-agricultural-water-pumping-system-is-up-and-running-in-senegal/
 categories:
   - Millenium Villages Project
   - News

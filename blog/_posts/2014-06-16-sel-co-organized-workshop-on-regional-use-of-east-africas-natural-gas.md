@@ -4,7 +4,6 @@ title: SEL co-organized workshop on regional use of East Africa’s natural gas
 author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3826
-permalink: /sel-co-organized-workshop-on-regional-use-of-east-africas-natural-gas/
 categories:
   - Natural Gas
   - News

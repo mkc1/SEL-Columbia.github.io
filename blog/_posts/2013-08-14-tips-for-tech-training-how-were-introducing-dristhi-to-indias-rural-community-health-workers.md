@@ -4,7 +4,6 @@ title: 'Tips for tech training: how we&#8217;re introducing DRISTHI to India&#82
 author: rowo
 layout: post
 guid: http://modi.mech.columbia.edu/?p=2517
-permalink: /tips-for-tech-training-how-were-introducing-dristhi-to-indias-rural-community-health-workers/
 categories:
   - Dristhi
 tags:

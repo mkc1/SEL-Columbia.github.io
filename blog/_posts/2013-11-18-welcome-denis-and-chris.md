@@ -4,7 +4,6 @@ title: Welcome Denis and Chris
 author: rowo
 layout: post
 guid: http://modi.mech.columbia.edu/?p=3337
-permalink: /welcome-denis-and-chris/
 categories:
   - News
 ---

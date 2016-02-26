@@ -4,7 +4,6 @@ title: Exercises in MATLAB
 author: mszebiak
 layout: post
 guid: http://modi.mech.columbia.edu/?p=2035
-permalink: /exercises-in-matlab/
 image:
   - /assets/uploads/blog/2012/06/bannerpic2.jpg
 categories:

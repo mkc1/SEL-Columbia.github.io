@@ -4,7 +4,6 @@ title: Energy Planning
 author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1093
-permalink: /energy-planning/
 image:
   - 
 categories:

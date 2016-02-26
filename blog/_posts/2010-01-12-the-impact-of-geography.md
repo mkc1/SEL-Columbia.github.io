@@ -4,7 +4,6 @@ title: The Impact of Geography on Energy Infrastructure Costs
 author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=260
-permalink: /the-impact-of-geography/
 image:
   - /assets/uploads/blog/2010/04/settlement-patterns1.png
 categories:

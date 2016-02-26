@@ -4,7 +4,6 @@ title: 'Off-grid energy services for the poor: Introducing LED lighting in the  
 author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=84
-permalink: /led-lanterns-in-malawi/
 image:
   - 
 categories:

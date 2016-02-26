@@ -4,7 +4,6 @@ title: 'Lessons Learned:  Implementing a LED Lantern Program in the Millennium V
 author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1374
-permalink: /implementing-an-led-lantern-program-in-mvp/
 image:
   - /assets/uploads/blog/2010/09/clip_image001.jpg
 categories:

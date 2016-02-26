@@ -4,7 +4,6 @@ title: Field testing and survey evaluation of household biomass cookstoves in ru
 author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1367
-permalink: /field-testing-and-survey-evaluation-of-household-biomass-cookstoves-in-rural-sub-saharan-africa/
 image:
   - /assets/uploads/blog/2010/09/HouseA8_small.jpg
 categories:

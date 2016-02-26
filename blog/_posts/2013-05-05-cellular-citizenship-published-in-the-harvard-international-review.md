@@ -4,7 +4,6 @@ title: '&#8220;Cellular Citizenship&#8221; published in the Harvard Internationa
 author: modigroup
 layout: post
 guid: http://modilabs.org/?p=11
-permalink: /cellular-citizenship-published-in-the-harvard-international-review/
 categories:
   - 'Data Collection &amp; Analysis'
   - Nigeria Scale-up Initiative

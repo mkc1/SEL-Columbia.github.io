@@ -4,7 +4,6 @@ title: The Nigeria MDG Information System (NMIS) Takes Open Data Further
 author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3432
-permalink: /the-nigeria-mdg-information-system-nmis-takes-open-data-further/
 categories:
   - Nigeria Scale-up Initiative
 tags:

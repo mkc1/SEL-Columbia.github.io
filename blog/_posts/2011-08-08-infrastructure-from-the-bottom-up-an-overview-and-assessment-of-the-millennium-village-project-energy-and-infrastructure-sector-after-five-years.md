@@ -4,7 +4,6 @@ title: 'Infrastructure from the Bottom Up: An Overview and Assessment of the Mil
 author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1735
-permalink: /infrastructure-from-the-bottom-up-an-overview-and-assessment-of-the-millennium-village-project-energy-and-infrastructure-sector-after-five-years/
 image:
   - /assets/uploads/blog/2011/08/Picture1.jpg
 categories:

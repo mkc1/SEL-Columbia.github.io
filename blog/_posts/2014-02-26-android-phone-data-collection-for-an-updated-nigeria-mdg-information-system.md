@@ -4,7 +4,6 @@ title: Android Phone Data Collection for an Updated Nigeria MDG Information Syst
 author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3396
-permalink: /android-phone-data-collection-for-an-updated-nigeria-mdg-information-system/
 categories:
   - 'Data Collection &amp; Analysis'
   - Nigeria Scale-up Initiative

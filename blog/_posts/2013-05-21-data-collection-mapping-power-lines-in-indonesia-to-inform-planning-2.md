@@ -4,7 +4,6 @@ title: Mapping Power Lines in Indonesia to Inform Planning
 author: jonathan
 layout: post
 guid: http://modilabs.org/?p=46
-permalink: /data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/
 post-author:
   - jonathan
 categories:

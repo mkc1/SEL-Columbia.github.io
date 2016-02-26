@@ -4,7 +4,6 @@ title: 'A “WAY” FORWARD: How we streamlined power grid data collection with 
 author: cjn
 layout: post
 guid: http://modi.mech.columbia.edu/?p=287
-permalink: /a-way-forward-streamlining-power-grid-data-collection-with-openstreetmap/
 categories:
   - Energy Planning
 tags:

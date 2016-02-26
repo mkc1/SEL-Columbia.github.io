@@ -4,7 +4,6 @@ title: 'Paper: Testing Cookstoves in Rural Kenyan Schools'
 author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1221
-permalink: /testing-cookstoves-in-rural-kenyan-schools/
 image:
   - /assets/uploads/blog/2010/08/Peak-Lab-stove-d.jpg
 categories:

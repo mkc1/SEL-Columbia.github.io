@@ -4,7 +4,6 @@ title: Mapping New York City Energy Consumption
 author: ssherpa
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1963
-permalink: /nyc-energy-mapping-project/
 image:
   - /assets/uploads/blog/2012/02/map-blog480.jpg
 categories:

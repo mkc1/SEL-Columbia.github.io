@@ -4,7 +4,6 @@ title: Community Radio in Uganda
 author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=268
-permalink: /community-radio-project/
 image:
   - /assets/uploads/blog/2010/01/radio.jpg
 categories:
