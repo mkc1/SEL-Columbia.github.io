@@ -16,7 +16,8 @@ layout: default
             
             <p>
                 <span class="article-author">
-                    {{ post.author }}
+                    {% capture author_name %}{% include author_name.html author=post.author %}{% endcapture %}
+                    {{ author_name }}
                 </span>
                 <span class="article-date">
                     {{ post.date | date: "%b %-d, %Y"}}

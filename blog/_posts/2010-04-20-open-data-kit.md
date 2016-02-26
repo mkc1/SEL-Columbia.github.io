@@ -1,7 +1,7 @@
 ---
 id: 682
 title: 'Technology Review: Open Data Kit'
-author: Modi Research Group
+author: modigroup
 excerpt: During a study conducted in rural Mali, Open Data Kit mobile technology was evaluated for its use in remote data-gathering for development applications.
 layout: post
 guid: http://modi.mech.columbia.edu/?p=682

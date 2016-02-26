@@ -1,6 +1,6 @@
 ---
 title: Publications
-author: Roger Wong
+author: rowo
 layout: default
 ---
 <div>

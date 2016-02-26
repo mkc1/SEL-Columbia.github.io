@@ -1,0 +1,6 @@
+{% for member in site.team %}
+  {% if member.id == include.author %}
+    {{ member.full_name }}
+    {% break %}
+  {% endif %}
+{% endfor %}

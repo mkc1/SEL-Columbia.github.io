@@ -1,7 +1,7 @@
 ---
 id: 705
 title: Finding and Connecting People to Infrastructure using Satellite Imagery and Mathematical Modeling
-author: Modi Research Group
+author: modigroup
 excerpt: We are creating a streamlined infrastructure planning system to help local leaders, financiers and utility owners explore scenarios, communicate and negotiate visually.
 layout: post
 guid: http://modi.mech.columbia.edu/?p=705
