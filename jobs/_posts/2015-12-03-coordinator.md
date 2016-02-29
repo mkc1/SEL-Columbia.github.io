@@ -1,6 +1,6 @@
 ---
 title: ICT Development Coordinator
-author: John Humphrey
+author: john-humphrey
 layout: post
 categories:
   - Smart Solar Irrigation

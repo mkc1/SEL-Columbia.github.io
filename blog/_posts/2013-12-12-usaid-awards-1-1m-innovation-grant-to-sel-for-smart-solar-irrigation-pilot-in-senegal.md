@@ -1,7 +1,7 @@
 ---
 id: 3376
 title: USAID awards $1.1M innovation grant to SEL for smart solar irrigation pilot in Senegal
-author: Candice Heberer
+author: caheberer-ei
 layout: post
 guid: http://modi.mech.columbia.edu/?p=3376
 permalink: /usaid-awards-1-1m-innovation-grant-to-sel-for-smart-solar-irrigation-pilot-in-senegal/
@@ -11,7 +11,7 @@ tags:
   - Energy for Development
   - Irrigation
 ---
-<img style="padding-bottom: 15px;" alt="" src="/assets/images/blog/2013/12/irrigationSenegal.jpg" /> 
+<img style="padding-bottom: 15px;" alt="" src="/assets/uploads/blog/2013/12/irrigationSenegal.jpg" /> 
 
 We’re pleased to announce that the Sustainable Engineering Lab has been awarded a two-year, $1.1M innovation grant to establish three smart solar irrigation pilot projects in the <a href="http://millenniumvillages.org" target="blank">Millennium Village</a> of Potou, in rural northern Senegal.<!--more--> The grant is supported by the U.S. Agency for International Development (USAID) the Swedish Government, Duke Energy, and the German Organization for International Cooperation (GIZ) as part of the 
 

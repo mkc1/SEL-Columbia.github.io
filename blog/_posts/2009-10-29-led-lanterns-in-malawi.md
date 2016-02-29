@@ -1,7 +1,7 @@
 ---
 id: 84
 title: 'Off-grid energy services for the poor: Introducing LED lighting in the  Millennium Villages Project in Malawi'
-author: Modi Research Group
+author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=84
 permalink: /led-lanterns-in-malawi/
@@ -21,4 +21,4 @@ Lanterns that use light-emitting diodes (LEDs) powered by batteries, which are i
 
 These results suggest that similar market based models of LED lighting technology dissemination have the potential to be replicated and scaled up in other off-grid regions in developing countries. However, viability of local cooperatives and supply chains for lantern products over the medium-to-long term remain to be assessed.
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/MWI_Lantern_Paper.pdf
+ [1]: /assets/uploads/blog/2013/06/MWI_Lantern_Paper.pdf

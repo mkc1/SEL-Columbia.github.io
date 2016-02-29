@@ -1,12 +1,13 @@
 ---
 id: 318
 title: Engines that run on Vegetable Oil
-author: Modi Research Group
+author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=24
 permalink: /engines-the-run-on-vegetable-oil/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/JatrophaSignificance_clip_image002.jpg
+  - /assets/uploads/blog/2010/04/JatrophaSignificance_clip_image002.jpg
+comment: This image seems to be missing -- vr2262
 categories:
   - Uncategorized
 ---

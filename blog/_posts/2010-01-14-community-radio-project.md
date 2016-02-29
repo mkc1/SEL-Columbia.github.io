@@ -1,12 +1,12 @@
 ---
 id: 268
 title: Community Radio in Uganda
-author: Modi Research Group
+author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=268
 permalink: /community-radio-project/
 image:
-  - /wp-content/uploads/2010/01/radio.jpg
+  - /assets/uploads/blog/2010/01/radio.jpg
 categories:
   - Millenium Villages Project
   - Uncategorized

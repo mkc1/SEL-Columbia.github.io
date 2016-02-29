@@ -1,7 +1,7 @@
 ---
 id: 3778
 title: New Options for Formhub Users
-author: Denis Papathanasiou
+author: dp2704
 layout: post
 guid: http://sel.columbia.edu/?p=3778
 permalink: /new-options-for-formhub-users/

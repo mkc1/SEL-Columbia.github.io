@@ -1,7 +1,7 @@
 ---
 id: 11
 title: '&#8220;Cellular Citizenship&#8221; published in the Harvard International Review'
-author: Modi Research Group
+author: modigroup
 layout: post
 guid: http://modilabs.org/?p=11
 permalink: /cellular-citizenship-published-in-the-harvard-international-review/
@@ -13,7 +13,7 @@ tags:
   - Data Collection
   - Formhub
 ---
-<img class="alignleft" alt="Harvard International Review's Mobile Might issue" src="/assets/images/blog/2013/05/harvardmag.png" alt="harvardmag" width="282" height="351" class="alignnone size-full wp-image-2319" /> 
+<img class="alignleft" alt="Harvard International Review's Mobile Might issue" src="/assets/uploads/blog/2013/05/harvardmag.png" alt="harvardmag" width="282" height="351" class="alignnone size-full wp-image-2319" /> 
 
 The Harvard International Review&#8217;s &#8220;Mobile Might&#8221; issue for winter 2013 included an essay by the Modi Research Group, highlighting cell phones&#8217; use in data and information systems for smarter development. 
 
