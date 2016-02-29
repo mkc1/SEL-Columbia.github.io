@@ -6,9 +6,9 @@
     </h2>
 
     <p>
-        <span class="article-author">
+        <a class="article-author" href="/author/{{ include.post.author }}">
 	    {% include author_name.html author=include.post.author %}
-        </span>
+        </a>
         <span class="article-date">
             {{ include.post.date | date: "%b %-d, %Y"}}
         </span>

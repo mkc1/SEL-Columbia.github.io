@@ -15,9 +15,9 @@ layout: default
             </h2>
 
             <p>
-                <span class="article-author">
+                <a class="article-author" href="/author/{{ post.author }}">
                     {% include author_name.html author=post.author %}
-                </span>
+                </a>
                 <span class="article-date">
                     {{ post.date | date: "%b %-d, %Y"}}
                 </span>
