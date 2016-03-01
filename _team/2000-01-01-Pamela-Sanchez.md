@@ -1,7 +1,6 @@
 ---
 id: pamela_sanchez
 status: former
-layout: page
 full_name: Pamela Sanchez
 title: PhD Student
 email: pamela.aimee.sanchez@gmail.com

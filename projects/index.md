@@ -2,7 +2,6 @@
 id: 20
 title: Projects
 author: jonathan
-layout: default
 guid: http://modilabs.org/?page_id=20
 ---
 

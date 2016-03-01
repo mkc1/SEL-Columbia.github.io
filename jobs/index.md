@@ -1,6 +1,5 @@
 ---
 title: Jobs
-layout: default
 ---
 <ul class="post-list">
 

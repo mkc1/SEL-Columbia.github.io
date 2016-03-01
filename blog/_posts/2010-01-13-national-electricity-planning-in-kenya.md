@@ -2,7 +2,6 @@
 id: 321
 title: National Electricity Planning in Kenya
 author: modigroup
-layout: post
 guid: http://modi.buildafrica.org/?p=263
 permalink: /national-electricity-planning-in-kenya/
 image:

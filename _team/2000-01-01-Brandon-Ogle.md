@@ -1,7 +1,6 @@
 ---
 id: brandon_ogle
 status: former
-layout: page
 full_name: Brandon Ogle
 title: Data Analyst
 email: oglebrandon@gmail.com

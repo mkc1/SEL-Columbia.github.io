@@ -1,6 +1,5 @@
 ---
 title: Blog
-layout: default
 ---
 
 <div class="container">

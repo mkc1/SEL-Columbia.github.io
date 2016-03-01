@@ -50,7 +50,6 @@ for div in rf:
     # title, layout, images
     f.write('---\n')
     f.write('title: \''+title+'\'\n')
-    f.write('layout: post\n')
     f.write('image: '+str(div.a)+'\n')
     f.write('link: "'+ link +'"\n')
     f.write('---\n')

@@ -1,7 +1,6 @@
 ---
 id: ssherpa
 status: current
-layout: page
 photo: /assets/uploads/team/shaky.jpg
 full_name:  Shaky Sherpa
 title: GIS Research Analyst
