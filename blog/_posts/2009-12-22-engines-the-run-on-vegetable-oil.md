@@ -2,7 +2,6 @@
 id: 318
 title: Engines that run on Vegetable Oil
 author: modigroup
-layout: post
 guid: http://modi.buildafrica.org/?p=24
 permalink: /engines-the-run-on-vegetable-oil/
 image:

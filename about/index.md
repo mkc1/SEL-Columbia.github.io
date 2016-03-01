@@ -1,6 +1,5 @@
 ---
 title: About
-layout: default
 ---
 
 <div class="row">

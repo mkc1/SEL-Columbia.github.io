@@ -2,7 +2,6 @@
 id: 3472
 title: Scale-up Initiative
 author: caheberer-ei
-layout: page
 guid: http://sel.columbia.edu/?page_id=3472
 ---
 <div class="row-fluid">

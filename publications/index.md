@@ -1,7 +1,6 @@
 ---
 title: Publications
 author: rowo
-layout: default
 ---
 <div>
 <h1 class="page-heading">Publications</h1>

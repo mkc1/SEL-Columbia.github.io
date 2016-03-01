@@ -1,7 +1,6 @@
 ---
 id: abdi_dahir
 status: former
-layout: page
 full_name: Abdi Dahir 
 title: Software Engineer
 email: abdi.dahir@outlook.com

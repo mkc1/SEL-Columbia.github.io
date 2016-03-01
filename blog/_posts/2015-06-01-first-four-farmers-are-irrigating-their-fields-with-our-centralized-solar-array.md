@@ -2,7 +2,6 @@
 id: 4512
 title: First four farmers are irrigating their fields with our centralized solar array.
 author: john-humphrey
-layout: post
 guid: http://sel.columbia.edu/?p=4512
 permalink: /first-four-farmers-are-irrigating-their-fields-with-our-centralized-solar-array/
 categories:

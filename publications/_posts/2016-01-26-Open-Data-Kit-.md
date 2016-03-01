@@ -1,6 +1,5 @@
 ---
 title: 'Open Data Kit '
-layout: post
 image: None
 link: "/assets/uploads/blog/2013/06/Open-Data-Kit-Review-Article.pdf"
 categories:

@@ -1,7 +1,6 @@
 ---
 id: john-humphrey
 status: former
-layout: page
 full_name: John Humphrey
 title: Energy Systems Engineer
 email: solarjohn@gmail.com
