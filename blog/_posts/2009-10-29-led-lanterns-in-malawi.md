@@ -2,7 +2,6 @@
 id: 84
 title: 'Off-grid energy services for the poor: Introducing LED lighting in the  Millennium Villages Project in Malawi'
 author: modigroup
-layout: post
 guid: http://modi.buildafrica.org/?p=84
 image:
   - 

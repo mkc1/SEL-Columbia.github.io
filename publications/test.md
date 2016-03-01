@@ -2,7 +2,6 @@
 id: 2660
 title: Publications
 author: rowo
-layout: page
 guid: http://modi.mech.columbia.edu/?page_id=2660
 ---
 ## Publications {#products__tools}

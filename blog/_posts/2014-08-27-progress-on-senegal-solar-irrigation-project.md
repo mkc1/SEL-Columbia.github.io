@@ -2,7 +2,6 @@
 id: 3909
 title: Progress on Senegal Solar Irrigation Project
 author: caheberer-ei
-layout: post
 guid: http://sel.columbia.edu/?p=3909
 categories:
   - News

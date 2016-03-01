@@ -1,7 +1,6 @@
 ---
 id: zaiming_yao
 status: former
-layout: page
 full_name: Zaiming Yao
 title: Data Analyst
 email:

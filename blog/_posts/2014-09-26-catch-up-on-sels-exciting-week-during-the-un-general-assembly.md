@@ -2,7 +2,6 @@
 id: 3971
 title: 'Catch up on SEL&#8217;s exciting week during the UN General Assembly'
 author: caheberer-ei
-layout: post
 guid: http://sel.columbia.edu/?p=3971
 categories:
   - News

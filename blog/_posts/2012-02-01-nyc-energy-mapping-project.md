@@ -2,7 +2,6 @@
 id: 1963
 title: Mapping New York City Energy Consumption
 author: ssherpa
-layout: post
 guid: http://modi.mech.columbia.edu/?p=1963
 image:
   - /assets/uploads/blog/2012/02/map-blog480.jpg

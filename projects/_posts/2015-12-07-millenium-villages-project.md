@@ -2,7 +2,6 @@
 id: 3532
 title: Millenium Villages Project
 author: caheberer-ei
-layout: page
 guid: http://sel.columbia.edu/?page_id=3532
 ---
 <div class="row-fluid">

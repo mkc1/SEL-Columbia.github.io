@@ -2,7 +2,6 @@
 id: 46
 title: Mapping Power Lines in Indonesia to Inform Planning
 author: jonathan
-layout: post
 guid: http://modilabs.org/?p=46
 post-author:
   - jonathan

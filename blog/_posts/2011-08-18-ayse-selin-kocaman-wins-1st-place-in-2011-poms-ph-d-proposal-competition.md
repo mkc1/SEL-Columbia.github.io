@@ -2,7 +2,6 @@
 id: 1776
 title: Ayse Selin Kocaman wins 1st place in 2011 POMS Ph.D. proposal competition
 author: modigroup
-layout: post
 guid: http://modi.mech.columbia.edu/?p=1776
 image:
   - /assets/uploads/blog/2011/08/Selin_Kocaman1.jpg

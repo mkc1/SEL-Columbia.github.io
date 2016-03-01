@@ -2,7 +2,6 @@
 id: 4424
 title: Nigerian Utility KEDCO Maps 10 Million Meters
 author: jonathan
-layout: post
 guid: http://sel.columbia.edu/?p=4424
 categories:
   - Energy Planning

@@ -1,6 +1,5 @@
 ---
 title: 'Using SMS to monitor Malaria in Uganda '
-layout: post
 image: None
 link: "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122339/"
 categories:

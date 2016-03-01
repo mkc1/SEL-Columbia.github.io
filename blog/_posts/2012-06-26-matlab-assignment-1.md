@@ -2,7 +2,6 @@
 id: 2052
 title: 'MATLAB Assignment Collection #1'
 author: mszebiak
-layout: post
 guid: http://modi.mech.columbia.edu/?p=2052
 image:
   - /assets/uploads/blog/2012/06/map.jpg

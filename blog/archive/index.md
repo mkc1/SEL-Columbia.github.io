@@ -1,6 +1,5 @@
 ---
 title: Blog Archive
-layout: default
 ---
 
 <div class="container">

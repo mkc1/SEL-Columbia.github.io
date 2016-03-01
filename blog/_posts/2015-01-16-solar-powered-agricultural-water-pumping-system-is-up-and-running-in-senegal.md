@@ -2,7 +2,6 @@
 id: 4293
 title: Solar powered Agricultural water pumping system is up and running in Senegal!
 author: john-humphrey
-layout: post
 guid: http://sel.columbia.edu/?p=4293
 categories:
   - Millenium Villages Project

@@ -2,7 +2,6 @@
 id: 3737
 title: 'Potential for Regional Use of East Africa&#8217;s Natural Gas'
 author: jdemierre
-layout: post
 guid: http://sel.columbia.edu/?p=3737
 categories:
   - Natural Gas
