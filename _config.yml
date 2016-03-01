@@ -53,6 +53,18 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "projects"
+      type: "posts"
+    values:
+      layout: "page"
 
 # Configurations for Prose
 # https://github.com/prose/prose/wiki/Prose-Configuration

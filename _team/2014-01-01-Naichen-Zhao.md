@@ -1,7 +1,6 @@
 ---
 id: naichen
 status: current
-layout: page
 photo: /assets/uploads/team/naichen.jpg
 full_name:  Naichen Zhao
 title: 
