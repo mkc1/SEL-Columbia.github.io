@@ -2,7 +2,6 @@
 id: 3396
 title: Android Phone Data Collection for an Updated Nigeria MDG Information System
 author: caheberer-ei
-layout: post
 guid: http://sel.columbia.edu/?p=3396
 permalink: /android-phone-data-collection-for-an-updated-nigeria-mdg-information-system/
 categories:
