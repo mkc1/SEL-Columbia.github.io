@@ -3,7 +3,7 @@ title: Blog Archive
 ---
 
 <div class="container">
-    <a href="/blog">10 most recent posts</a>
+    <a href="/blog">Most recent posts</a>
     <strong>Blog archive</strong>
     {% for post in site.categories.blog %}
         <div class="row">
@@ -14,15 +14,15 @@ title: Blog Archive
             </h2>
 
             <p>
-                <span class="article-author">
+                <a class="article-author" href="{% include author_url.html author=post.author %}">
                     {% include author_name.html author=post.author %}
-                </span>
+                </a>
                 <span class="article-date">
                     {{ post.date | date: "%b %-d, %Y"}}
                 </span>
             </p>
         </div>
     {% endfor %}
-    <a href="/blog">10 most recent posts</a>
+    <a href="/blog">Most recent posts</a>
     <strong>Blog archive</strong>
 </div>
