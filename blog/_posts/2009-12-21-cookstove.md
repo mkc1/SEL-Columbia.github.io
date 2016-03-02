@@ -1,7 +1,7 @@
 ---
 id: 4
 title: Cookstove Study
-author: modigroup
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=4
 permalink: /cookstove/
 image:

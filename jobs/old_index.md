@@ -1,7 +1,7 @@
 ---
 id: 3659
 title: jobs
-author: modigroup
+author: modi-research-group
 guid: http://sel.columbia.edu/?page_id=3659
 ---
 <h1 style="color: #000000;">

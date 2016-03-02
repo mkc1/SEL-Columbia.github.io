@@ -1,7 +1,7 @@
 ---
 id: 1505
 title: Energy Scoping Mission in Haiti
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1505
 permalink: /charcoal-construction-and-coffins-tracing-links-from-disasters-to-deforestation-in-haiti/
 image:

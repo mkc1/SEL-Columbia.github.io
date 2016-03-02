@@ -1,6 +1,6 @@
 ---
 id: 246
 title: NYCEnergy
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?page_id=246
 ---

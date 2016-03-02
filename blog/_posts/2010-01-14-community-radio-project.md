@@ -1,7 +1,7 @@
 ---
 id: 268
 title: Community Radio in Uganda
-author: modigroup
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=268
 permalink: /community-radio-project/
 image:
