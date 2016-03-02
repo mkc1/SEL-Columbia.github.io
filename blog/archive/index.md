@@ -14,7 +14,7 @@ title: Blog Archive
             </h2>
 
             <p>
-                <a class="article-author" href="/author/{{ post.author }}">
+                <a class="article-author" href="{% include author_url.html author=post.author %}">
                     {% include author_name.html author=post.author %}
                 </a>
                 <span class="article-date">
