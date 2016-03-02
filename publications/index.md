@@ -1,6 +1,6 @@
 ---
 title: Publications
-author: rowo
+author: roger-wong
 ---
 <div>
 <h1 class="page-heading">Publications</h1>

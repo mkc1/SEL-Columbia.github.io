@@ -1,7 +1,7 @@
 ---
 id: 978
 title: 'Paper: Electricity Planning in Senegal'
-author: jea98
+author: edwin-adkins
 guid: http://modi.mech.columbia.edu/?p=978
 permalink: /electricity-planning-in-senegal/
 image:

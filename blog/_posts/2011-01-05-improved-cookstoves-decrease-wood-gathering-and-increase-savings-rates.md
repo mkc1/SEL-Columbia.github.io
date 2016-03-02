@@ -1,7 +1,7 @@
 ---
 id: 1509
 title: Improved Cookstoves Decrease Wood Gathering and Increase Savings Rates
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1509
 permalink: /improved-cookstoves-decrease-wood-gathering-and-increase-savings-rates/
 image:

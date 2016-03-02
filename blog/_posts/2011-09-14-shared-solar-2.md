@@ -1,7 +1,7 @@
 ---
 id: 1894
 title: 'Shared Solar: Prepaid Electricity via Mobile Telephony'
-author: ssherpa
+author: shaky-sherpa
 guid: http://modi.mech.columbia.edu/?p=1894
 permalink: /shared-solar-2/
 image:

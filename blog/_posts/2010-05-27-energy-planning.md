@@ -1,7 +1,7 @@
 ---
 id: 1093
 title: Energy Planning
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1093
 permalink: /energy-planning/
 image:

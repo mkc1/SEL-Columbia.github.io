@@ -1,7 +1,7 @@
 ---
 id: 64
 title: 5 Goals for ChildCount
-author: modigroup
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=64
 permalink: /childcount/
 image:

@@ -1,7 +1,7 @@
 ---
 id: 3426
 title: 'Bamboo: Open Source Data Analysis for the Web'
-author: modigroup
+author: modi-research-group
 guid: http://sel.columbia.edu/?p=3426
 permalink: /bamboo-open-source-data-analysis-for-the-web/
 categories:
