@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.full_name }}</h1>
   </header>
 
   <article class="post-content">
@@ -12,8 +12,9 @@ layout: default
   </article>
 
   {% assign blog_posts = false %}
+  {% assign author_id = page.url | split:"/" | last %}
   {% for post in site.categories.blog %}
-      {% if post.author == page.id %}
+      {% if post.author == author_id %}
           {% if blog_posts == false %}
 	      {% assign blog_posts = true %}
 	      <header class="post-header">
@@ -28,7 +29,7 @@ layout: default
               </h2>
 
               <p>
-                  <a class="article-author" href="{% include author_url.html author=page.id %}">
+                  <a class="article-author" href="/team/{{ author_id }}">
                       {% include author_name.html author=page.id %}
                   </a>
                   <span class="article-date">

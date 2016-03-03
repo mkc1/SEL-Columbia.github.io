@@ -1,7 +1,7 @@
 ---
 id: 30
 title: Network Planner
-author: modigroup
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=30
 image:
   - /assets/uploads/blog/2010/04/np-overview.png

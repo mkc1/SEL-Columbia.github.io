@@ -1,7 +1,7 @@
 ---
 id: 1374
 title: 'Lessons Learned:  Implementing a LED Lantern Program in the Millennium Villages'
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1374
 image:
   - /assets/uploads/blog/2010/09/clip_image001.jpg

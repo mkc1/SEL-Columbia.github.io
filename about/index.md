@@ -30,7 +30,7 @@ title: About
         </a>
         <div class="media-body">
             <div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.full_name}}</a></div>
-            <p class="note">{{ member.title }}</p>
+            <p class="note">{{ member.position }}</p>
         </div>
     </div>
 </div>    

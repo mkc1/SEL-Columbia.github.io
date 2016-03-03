@@ -1,7 +1,7 @@
 ---
 id: 4184
 title: SEL team visits with irrigation pump controller manufacturer in India
-author: caheberer-ei
+author: candice-heberer
 guid: http://sel.columbia.edu/?p=4184
 categories:
   - News

@@ -1,7 +1,7 @@
 ---
 id: 2385
 title: 'First Time Electricity Consumers: Two Years Later'
-author: mitchelllee99
+author: mitchell-lee
 guid: http://modi.mech.columbia.edu/?p=2385
 categories:
   - Shared Solar

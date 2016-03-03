@@ -1,5 +1,6 @@
 {% for member in site.team %}
-  {% if member.id == include.author %}
+  {% assign id = member.url | split:"/" | last %}
+  {% if id == include.author %}
     {{ member.full_name }}
     {% break %}
   {% endif %}

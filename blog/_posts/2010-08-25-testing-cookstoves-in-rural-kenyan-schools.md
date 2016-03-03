@@ -1,7 +1,7 @@
 ---
 id: 1221
 title: 'Paper: Testing Cookstoves in Rural Kenyan Schools'
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1221
 image:
   - /assets/uploads/blog/2010/08/Peak-Lab-stove-d.jpg

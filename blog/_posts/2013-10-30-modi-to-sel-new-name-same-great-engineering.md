@@ -1,7 +1,7 @@
 ---
 id: 3302
 title: 'Modi to SEL: New Name, Same Great Engineering'
-author: rowo
+author: roger-wong
 guid: http://modi.mech.columbia.edu/?p=3302
 categories:
   - News

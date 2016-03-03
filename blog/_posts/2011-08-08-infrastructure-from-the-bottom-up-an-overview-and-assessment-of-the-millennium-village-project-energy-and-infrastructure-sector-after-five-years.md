@@ -1,7 +1,7 @@
 ---
 id: 1735
 title: 'Infrastructure from the Bottom Up: An Overview and Assessment of the Millennium Village Project Energy and Infrastructure Sector after Five Years'
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1735
 image:
   - /assets/uploads/blog/2011/08/Picture1.jpg

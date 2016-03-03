@@ -1,7 +1,7 @@
 ---
 id: 20
 title: Projects
-author: jonathan
+author: jonathan-carbajal
 guid: http://modilabs.org/?page_id=20
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 1505
 title: Energy Scoping Mission in Haiti
-author: modigroup
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1505
 image:
   - /assets/uploads/blog/2010/12/photo-4-charcoal-in-market.jpg
