@@ -2,7 +2,7 @@
 title: 'Development Planning Toolkit '
 image: None
 link: "http://modi.mech.columbia.edu/dpt/"
-categories:
+tags:
   - Infrastructure
 ---
 
