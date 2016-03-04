@@ -6,11 +6,8 @@ guid: http://modi.buildafrica.org/?p=84
 permalink: /led-lanterns-in-malawi/
 image:
   - 
-categories:
-  - LED Lighting
-  - Millenium Villages Project
-  - Papers
 tags:
+  - Millenium Villages Project
   - LED Lighting
   - Papers
 ---

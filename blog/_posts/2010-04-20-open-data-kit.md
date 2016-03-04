@@ -7,10 +7,8 @@ guid: http://modi.mech.columbia.edu/?p=682
 permalink: /open-data-kit/
 image:
   - /assets/uploads/blog/2010/04/DrissaInterviewing.jpg
-categories:
-  - 'Data Collection &amp; Analysis'
-  - Papers
 tags:
+  - Data Collection
   - Android
   - Papers
 ---

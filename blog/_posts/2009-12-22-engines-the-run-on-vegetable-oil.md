@@ -7,8 +7,6 @@ permalink: /engines-the-run-on-vegetable-oil/
 image:
   - /assets/uploads/blog/2010/04/JatrophaSignificance_clip_image002.jpg
 comment: This image seems to be missing -- vr2262
-categories:
-  - Uncategorized
 ---
 The power derived from mechanical engines can be used to grind grain, pump water, and generate electricity. These engines often run on diesel or gasoline. But in developing countries, diesel is often expensive and not easily accessible to people in remote villages far from petrol stations. 
 

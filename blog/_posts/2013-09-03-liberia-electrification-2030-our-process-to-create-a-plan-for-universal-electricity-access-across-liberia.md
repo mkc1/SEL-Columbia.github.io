@@ -4,8 +4,6 @@ title: 'Liberia Electrification 2030: Bringing universal electricity access to L
 author: jonathan-carbajal
 guid: http://modi.mech.columbia.edu/?p=2605
 permalink: /liberia-electrification-2030-our-process-to-create-a-plan-for-universal-electricity-access-across-liberia/
-categories:
-  - Energy Planning
 tags:
   - Energy Planning
   - Mobile

@@ -4,7 +4,7 @@ title: 'First Time Electricity Consumers: Two Years Later'
 author: mitchell-lee
 guid: http://modi.mech.columbia.edu/?p=2385
 permalink: /first-time-electricity-consumers-two-years-later/
-categories:
+tags:
   - Shared Solar
 ---
 <div id="attachment_2402" style="width: 710px" class="wp-caption alignnone">

@@ -4,9 +4,8 @@ title: 'Senegal Solar Irrigation: Project Launch'
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=3642
 permalink: /senegal-solar-irrigation-project-launch/
-categories:
-  - Smart Solar Irrigation
 tags:
+  - Smart Solar Irrigation
   - Irrigation
   - Solar
 ---

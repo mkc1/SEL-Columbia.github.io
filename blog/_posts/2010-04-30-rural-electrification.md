@@ -6,8 +6,6 @@ guid: http://modi.mech.columbia.edu/?p=865
 permalink: /rural-electrification/
 image:
   - /assets/uploads/blog/2010/04/Rural_Electrification21.jpg
-categories:
-  - Energy Planning
 tags:
   - Energy Planning
   - Rural Electrification

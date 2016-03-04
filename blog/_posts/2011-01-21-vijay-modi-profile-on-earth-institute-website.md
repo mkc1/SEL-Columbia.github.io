@@ -6,8 +6,6 @@ guid: http://modi.mech.columbia.edu/?p=1522
 permalink: /vijay-modi-profile-on-earth-institute-website/
 image:
   - /assets/uploads/blog/2011/01/Modi_passport_style_pic1_resized2.jpg
-categories:
-  - News
 tags:
   - News
 ---

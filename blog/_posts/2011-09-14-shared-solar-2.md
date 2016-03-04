@@ -6,9 +6,8 @@ guid: http://modi.mech.columbia.edu/?p=1894
 permalink: /shared-solar-2/
 image:
   - /assets/uploads/blog/2011/09/shared_solar1.png
-categories:
-  - Shared Solar
 tags:
+  - Shared Solar
   - Energy for Development
   - Rural Electrification
   - SMS

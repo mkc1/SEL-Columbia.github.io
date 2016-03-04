@@ -4,8 +4,8 @@ title: New Options for Formhub Users
 author: denis-papathanasiou
 guid: http://sel.columbia.edu/?p=3778
 permalink: /new-options-for-formhub-users/
-categories:
-  - 'Data Collection &amp; Analysis'
+tags:
+  - Data Collection
 ---
 <a href="https://github.com/SEL-Columbia/formhub" target="_blank">Formhub</a> was developed originally as an internal mobile data collection tool, based on <a href="http://opendatakit.org/use/collect/" target="_blank">Open Data Kit (ODK) Collect</a>, for projects at the <a href="http://earth.columbia.edu/" target="_blank">Earth Institute</a>, including the <a href="http://sel.columbia.edu/tag/nigeria-scaleup/" target="_blank">Nigeria Scale-Up Initiative</a> and the <a href="http://millenniumvillages.org/" target="_blank">Millennium Villages Project</a>.
 

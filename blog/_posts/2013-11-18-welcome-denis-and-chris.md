@@ -4,7 +4,7 @@ title: Welcome Denis and Chris
 author: roger-wong
 guid: http://modi.mech.columbia.edu/?p=3337
 permalink: /welcome-denis-and-chris/
-categories:
+tags:
   - News
 ---
 <img style="padding-bottom:15px;" src="/assets/uploads/blog/2013/11/denisandchris.jpg" /> 
