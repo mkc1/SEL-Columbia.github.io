@@ -7,7 +7,7 @@ permalink: /new-options-for-formhub-users/
 categories:
   - 'Data Collection &amp; Analysis'
 ---
-<a href="https://github.com/SEL-Columbia/formhub" target="_blank">Formhub</a> was developed originally as an internal mobile data collection tool, based on <a href="http://opendatakit.org/use/collect/" target="_blank">Open Data Kit (ODK) Collect</a>, for projects at the <a href="http://earth.columbia.edu/" target="_blank">Earth Institute</a>, including the <a href="http://sel.columbia.edu/category/nigeria-scaleup/" target="_blank">Nigeria Scale-Up Initiative</a> and the <a href="http://millenniumvillages.org/" target="_blank">Millennium Villages Project</a>.
+<a href="https://github.com/SEL-Columbia/formhub" target="_blank">Formhub</a> was developed originally as an internal mobile data collection tool, based on <a href="http://opendatakit.org/use/collect/" target="_blank">Open Data Kit (ODK) Collect</a>, for projects at the <a href="http://earth.columbia.edu/" target="_blank">Earth Institute</a>, including the <a href="http://sel.columbia.edu/tag/nigeria-scaleup/" target="_blank">Nigeria Scale-Up Initiative</a> and the <a href="http://millenniumvillages.org/" target="_blank">Millennium Villages Project</a>.
 
 The management at the <a href="http://sel.columbia.edu/" target="_blank">Sustainable Engineering Lab (SEL)</a> (known then as *Modi Research Group*) decided to allow others with similar needs to use it as well, and that&#8217;s how the current <a href="http://formhub.org/" target="_blank">formhub.org</a> came into being.
 

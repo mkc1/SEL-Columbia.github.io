@@ -124,7 +124,7 @@ guid: http://sel.columbia.edu/?page_id=3464
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links: </strong><br /><a href="http://ecreee.wikischolars.columbia.edu">Program Site</a><br /><a href="/category/energy-planning"> Related Blog Entries</a>
+      <strong>Links: </strong><br /><a href="http://ecreee.wikischolars.columbia.edu">Program Site</a><br /><a href="/tag/energy-planning"> Related Blog Entries</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">

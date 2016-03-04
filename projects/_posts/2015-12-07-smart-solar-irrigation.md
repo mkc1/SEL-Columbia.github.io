@@ -47,7 +47,7 @@ guid: http://sel.columbia.edu/?page_id=4031
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong><br /><a href="/category/smart-solar-irrigation"> Related Blog Entries</a>
+      <strong>Links:</strong><br /><a href="/tag/smart-solar-irrigation"> Related Blog Entries</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
