@@ -5,8 +5,6 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1522
 image:
   - /assets/uploads/blog/2011/01/Modi_passport_style_pic1_resized2.jpg
-categories:
-  - News
 tags:
   - News
 ---

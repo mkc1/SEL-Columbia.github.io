@@ -3,10 +3,8 @@ id: 3396
 title: Android Phone Data Collection for an Updated Nigeria MDG Information System
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=3396
-categories:
-  - 'Data Collection &amp; Analysis'
-  - Nigeria Scale-up Initiative
 tags:
+  - Nigeria Scale-up Initiative
   - Android
   - Data Collection
   - Data-Driven Planning

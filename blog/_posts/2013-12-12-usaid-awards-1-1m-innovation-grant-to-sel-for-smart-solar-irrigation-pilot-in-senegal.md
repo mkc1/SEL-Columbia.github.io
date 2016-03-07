@@ -3,9 +3,8 @@ id: 3376
 title: USAID awards $1.1M innovation grant to SEL for smart solar irrigation pilot in Senegal
 author: candice-heberer
 guid: http://modi.mech.columbia.edu/?p=3376
-categories:
-  - Smart Solar Irrigation
 tags:
+  - Smart Solar Irrigation
   - Energy for Development
   - Irrigation
 ---

@@ -6,7 +6,7 @@ excerpt: Water tables in the northern regions of the Indian state of Gujarat hav
 guid: http://modi.buildafrica.org/?p=115
 image:
   - /assets/uploads/blog/2010/04/india-crop2.jpg
-categories:
+tags:
   - Gujarat Water Study
 ---
 **Synopsis: **Water tables in the northern regions of the Indian state of Gujarat have been falling over the last three decades by as much as 2.5-3 meters a year. This is raising concerns of irreversible salinization and increasing water costs and well-deepening expenses on both farmers and state budgets.

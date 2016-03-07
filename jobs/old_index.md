@@ -64,7 +64,7 @@ guid: http://sel.columbia.edu/?page_id=3659
 
 <ul style="color: #000000;">
   <li>
-    Nigeria Scale-up Initiative &#8211; Taking the lessons of the Millennium Villages (http://www.millenniumvillages.org/) to scale in a partnership with Nigeria&#8217;s Presidential taskforce on the Millennium Development goals. <a href="http://sel.columbia.edu/category/nigeria-scaleup/">See related blog posts</a>
+    Nigeria Scale-up Initiative &#8211; Taking the lessons of the Millennium Villages (http://www.millenniumvillages.org/) to scale in a partnership with Nigeria&#8217;s Presidential taskforce on the Millennium Development goals. <a href="http://sel.columbia.edu/tag/nigeria-scaleup/">See related blog posts</a>
   </li>
   <li>
     <a href="http://sel.columbia.edu/dristhi/">Dristhi</a> &#8211; Mobile-based patient tracking for rural nurse midwives.

@@ -3,9 +3,8 @@ id: 287
 title: 'A “WAY” FORWARD: How we streamlined power grid data collection with OpenStreetMap'
 author: chris-natali
 guid: http://modi.mech.columbia.edu/?p=287
-categories:
-  - Energy Planning
 tags:
+  - Energy Planning
   - Data Collection
   - Open Source Technology
   - OSM

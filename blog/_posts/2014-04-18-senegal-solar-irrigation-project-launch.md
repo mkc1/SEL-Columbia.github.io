@@ -3,9 +3,8 @@ id: 3642
 title: 'Senegal Solar Irrigation: Project Launch'
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=3642
-categories:
-  - Smart Solar Irrigation
 tags:
+  - Smart Solar Irrigation
   - Irrigation
   - Solar
 ---

@@ -3,7 +3,7 @@ id: 3971
 title: 'Catch up on SEL&#8217;s exciting week during the UN General Assembly'
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=3971
-categories:
+tags:
   - News
   - Nigeria Scale-up Initiative
 ---

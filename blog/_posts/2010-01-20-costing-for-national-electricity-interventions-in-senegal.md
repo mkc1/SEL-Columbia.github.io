@@ -5,10 +5,8 @@ author: jpeacock
 guid: http://modi.buildafrica.org/?p=302
 image:
   - /assets/uploads/blog/2010/04/senegal.jpg
-categories:
-  - Energy Planning
-  - Papers
 tags:
+  - Energy Planning
   - Papers
 ---
 In Senegal, as elsewhere, rural electrification is critical to poverty reduction. A national electricity scale-up is necessary for meeting the Millennium Development Goals over the next ten years, and one of the priorities is to electrify all health centers and schools. Rapid electrification of rural institutions and households in Senegal likely will require coordination across sectors and a range of energy technologies, including decentralized solutions.

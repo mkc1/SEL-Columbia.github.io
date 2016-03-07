@@ -3,12 +3,10 @@ id: 11
 title: '&#8220;Cellular Citizenship&#8221; published in the Harvard International Review'
 author: modi-research-group
 guid: http://modilabs.org/?p=11
-categories:
-  - 'Data Collection &amp; Analysis'
-  - Nigeria Scale-up Initiative
 tags:
-  - Android
   - Data Collection
+  - Nigeria Scale-up Initiative
+  - Android
   - Formhub
 ---
 <img class="alignleft" alt="Harvard International Review's Mobile Might issue" src="/assets/uploads/blog/2013/05/harvardmag.png" alt="harvardmag" width="282" height="351" class="alignnone size-full wp-image-2319" /> 

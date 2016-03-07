@@ -5,9 +5,8 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1367
 image:
   - /assets/uploads/blog/2010/09/HouseA8_small.jpg
-categories:
-  - News
 tags:
+  - News
   - Bio-Fuel
   - Field Reports
   - Papers

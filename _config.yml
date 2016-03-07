@@ -58,6 +58,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      tags: "Untagged"
   -
     scope:
       path: ""

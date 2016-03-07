@@ -6,12 +6,10 @@ excerpt: We are creating a streamlined infrastructure planning system to help lo
 guid: http://modi.mech.columbia.edu/?p=705
 image:
   - /assets/uploads/blog/2010/04/infrastructure-types-with-border5.jpg
-categories:
+tags:
   - Energy Planning
   - GIS Remote Sensing
-tags:
   - Data-Driven Planning
-  - Energy Planning
   - Open Source Technology
 ---
 Success in an infrastructure project depends as much on local support and participation as it does on coordination between politicians, financiers and utilities ([Tufte and Mefalopulos 2009][1]). We wanted to create a freely accessible tool for non-technical people to experience the infrastructure planning process and see the impact of different decisions on the community. By experimenting first-hand with web-based software, a user can understand on a map how changes in population, pricing and fiscal policy influence where infrastructure is built, who will get access and why different technologies such as off-grid solar, mini-grid diesel or bio-diesel and grid affect cost. 

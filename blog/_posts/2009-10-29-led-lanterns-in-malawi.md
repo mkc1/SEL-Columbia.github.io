@@ -5,11 +5,8 @@ author: modi-research-group
 guid: http://modi.buildafrica.org/?p=84
 image:
   - 
-categories:
-  - LED Lighting
-  - Millenium Villages Project
-  - Papers
 tags:
+  - Millenium Villages Project
   - LED Lighting
   - Papers
 ---

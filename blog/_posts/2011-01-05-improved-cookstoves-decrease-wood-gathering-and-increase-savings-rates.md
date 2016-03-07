@@ -5,7 +5,7 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1509
 image:
   - /assets/uploads/blog/2011/01/Tiby63.jpg
-categories:
+tags:
   - Biomass Cook Stoves
   - Millenium Villages Project
 ---

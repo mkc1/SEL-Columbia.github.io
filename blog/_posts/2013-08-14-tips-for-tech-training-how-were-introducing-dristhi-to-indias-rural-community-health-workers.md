@@ -3,8 +3,6 @@ id: 2517
 title: 'Tips for tech training: how we&#8217;re introducing DRISTHI to India&#8217;s rural community health workers'
 author: roger-wong
 guid: http://modi.mech.columbia.edu/?p=2517
-categories:
-  - Dristhi
 tags:
   - Design Research
   - DRISTHI

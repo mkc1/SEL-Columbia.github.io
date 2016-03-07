@@ -5,8 +5,6 @@ author: modi-research-group
 guid: http://modi.buildafrica.org/?p=263
 image:
   - /assets/uploads/blog/2010/04/kenya1.jpg
-categories:
-  - Energy Planning
 tags:
   - Energy Planning
   - Papers

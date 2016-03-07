@@ -5,12 +5,9 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1374
 image:
   - /assets/uploads/blog/2010/09/clip_image001.jpg
-categories:
-  - LED Lighting
-  - Millenium Villages Project
 tags:
   - LED Lighting
-  - MVP
+  - Millenium Villages Project
 ---
 **Overview of MVP Lantern Program** 
 

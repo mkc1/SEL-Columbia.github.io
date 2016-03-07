@@ -6,8 +6,6 @@ excerpt: The portable PowerPack has multiple potential uses but was primarily de
 guid: http://modi.buildafrica.org/?p=290
 image:
   - /assets/uploads/blog/2010/04/powerpack.jpg
-categories:
-  - LED Lighting
 tags:
   - Energy for Development
   - LED Lighting

@@ -6,10 +6,8 @@ excerpt: During a study conducted in rural Mali, Open Data Kit mobile technology
 guid: http://modi.mech.columbia.edu/?p=682
 image:
   - /assets/uploads/blog/2010/04/DrissaInterviewing.jpg
-categories:
-  - 'Data Collection &amp; Analysis'
-  - Papers
 tags:
+  - Data Collection
   - Android
   - Papers
 ---

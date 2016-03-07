@@ -39,7 +39,7 @@ guid: http://sel.columbia.edu/?page_id=4087
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong><br /> <a href="http://sharedsolar.org" title="Sharedsolar" target="_blank">sharedsolar.org</a><br /><a href="/category/shared-solar"> Related Blog Entries</a>
+      <strong>Links:</strong><br /> <a href="http://sharedsolar.org" title="Sharedsolar" target="_blank">sharedsolar.org</a><br /><a href="/tag/shared-solar"> Related Blog Entries</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">

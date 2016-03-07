@@ -5,10 +5,8 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1776
 image:
   - /assets/uploads/blog/2011/08/Selin_Kocaman1.jpg
-categories:
-  - Energy Planning
-  - News
 tags:
+  - Energy Planning
   - News
 ---
 In April, Ayse Selin Kocaman, a Ph.D. student in the Modi Research Group, was awarded with first place in the 2011 Production and Operations Management Society (POMS) College of Sustainable  Operations Ph.D. Proposal Award Competition with her dissertation titled “Connecting People to Electricity- Single Level and Multi-Level Grid Network Design for Rural Electrification.”

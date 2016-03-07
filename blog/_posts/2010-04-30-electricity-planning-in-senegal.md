@@ -5,9 +5,6 @@ author: edwin-adkins
 guid: http://modi.mech.columbia.edu/?p=978
 image:
   - /assets/uploads/blog/2010/04/senegal-211.jpg
-categories:
-  - Energy Planning
-  - Papers
 tags:
   - Energy Planning
   - Papers

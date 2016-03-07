@@ -5,12 +5,9 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1735
 image:
   - /assets/uploads/blog/2011/08/Picture1.jpg
-categories:
-  - Millenium Villages Project
-  - News
 tags:
+  - Millenium Villages Project
   - Infrastructure Planning
-  - MVP
   - News
   - Reports
 ---

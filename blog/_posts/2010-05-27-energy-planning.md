@@ -5,7 +5,7 @@ author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1093
 image:
   - 
-categories:
+tags:
   - Energy Planning
 ---
   * Survey instrument for overall energy planning: **[Energy Investigation][1]**

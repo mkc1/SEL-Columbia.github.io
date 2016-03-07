@@ -5,9 +5,8 @@ author: jonathan-carbajal
 guid: http://modilabs.org/?p=46
 post-author:
   - jonathan
-categories:
-  - Energy Planning
 tags:
+  - Energy Planning
   - Android
   - Data Collection
   - Field Reports

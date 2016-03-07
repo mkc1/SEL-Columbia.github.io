@@ -3,9 +3,8 @@ id: 3426
 title: 'Bamboo: Open Source Data Analysis for the Web'
 author: modi-research-group
 guid: http://sel.columbia.edu/?p=3426
-categories:
-  - 'Data Collection &amp; Analysis'
 tags:
+  - Data Collection
   - Open Source Technology
   - Understanding Data
 ---

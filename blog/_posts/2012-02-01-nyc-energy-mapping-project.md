@@ -5,10 +5,9 @@ author: shaky-sherpa
 guid: http://modi.mech.columbia.edu/?p=1963
 image:
   - /assets/uploads/blog/2012/02/map-blog480.jpg
-categories:
+tags:
   - News
   - Urban Energy Modeling
-tags:
   - Energy Planning
   - Map
 ---
