@@ -7,8 +7,6 @@ guid: http://modi.buildafrica.org/?p=290
 permalink: /rechargeable-portable-powerpacks/
 image:
   - /assets/uploads/blog/2010/04/powerpack.jpg
-categories:
-  - LED Lighting
 tags:
   - Energy for Development
   - LED Lighting

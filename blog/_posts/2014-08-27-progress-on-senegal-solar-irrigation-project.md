@@ -4,10 +4,9 @@ title: Progress on Senegal Solar Irrigation Project
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=3909
 permalink: /progress-on-senegal-solar-irrigation-project/
-categories:
+tags:
   - News
   - Smart Solar Irrigation
-tags:
   - Irrigation
   - Solar
 ---

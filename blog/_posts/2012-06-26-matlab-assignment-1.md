@@ -6,8 +6,6 @@ guid: http://modi.mech.columbia.edu/?p=2052
 permalink: /matlab-assignment-1/
 image:
   - /assets/uploads/blog/2012/06/map.jpg
-categories:
-  - Uncategorized
 tags:
   - Assignments
   - Energy for Development

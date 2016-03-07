@@ -6,7 +6,7 @@ guid: http://modi.buildafrica.org/?p=4
 permalink: /cookstove/
 image:
   - /assets/uploads/blog/2010/04/692391.jpg
-categories:
+tags:
   - Biomass Cook Stoves
   - Millenium Villages Project
 ---

@@ -6,10 +6,8 @@ guid: http://modi.buildafrica.org/?p=247
 permalink: /penetration-of-solar-power-without-storage/
 image:
   - /assets/uploads/blog/2010/04/cellcharging.jpg
-categories:
-  - Energy Planning
-  - Papers
 tags:
+  - Energy Planning
   - Papers
   - Solar
 ---

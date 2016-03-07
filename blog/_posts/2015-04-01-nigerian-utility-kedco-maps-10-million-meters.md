@@ -4,7 +4,7 @@ title: Nigerian Utility KEDCO Maps 10 Million Meters
 author: jonathan-carbajal
 guid: http://sel.columbia.edu/?p=4424
 permalink: /nigerian-utility-kedco-maps-10-million-meters/
-categories:
+tags:
   - Energy Planning
   - GIS Remote Sensing
   - News

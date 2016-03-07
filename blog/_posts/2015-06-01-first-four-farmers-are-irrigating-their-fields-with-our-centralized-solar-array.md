@@ -4,9 +4,8 @@ title: First four farmers are irrigating their fields with our centralized solar
 author: john-humphrey
 guid: http://sel.columbia.edu/?p=4512
 permalink: /first-four-farmers-are-irrigating-their-fields-with-our-centralized-solar-array/
-categories:
-  - Smart Solar Irrigation
 tags:
+  - Smart Solar Irrigation
   - agriculture
   - pumping
   - pv

@@ -6,9 +6,8 @@ guid: http://modilabs.org/?p=46
 permalink: /data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/
 post-author:
   - jonathan
-categories:
-  - Energy Planning
 tags:
+  - Energy Planning
   - Android
   - Data Collection
   - Field Reports

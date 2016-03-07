@@ -4,11 +4,10 @@ title: SEL launches global facility registry @ revisit.global
 author: john-humphrey
 guid: http://sel.columbia.edu/?p=4348
 permalink: /sel-launches-global-facility-registry-revisit-global/
-categories:
-  - 'Data Collection &amp; Analysis'
+tags:
+  - Data Collection
   - Energy Planning
   - News
-tags:
   - Facilities
   - Infrastructure Planning
 ---

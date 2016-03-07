@@ -49,7 +49,7 @@ guid: http://sel.columbia.edu/?page_id=3472
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong> <br /><a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br /><a href="/category/nigeria-scaleup"> Related Blog Entries </a>
+      <strong>Links:</strong> <br /><a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br /><a href="/tag/nigeria-scaleup"> Related Blog Entries </a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
