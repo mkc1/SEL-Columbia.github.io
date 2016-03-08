@@ -1,19 +1,15 @@
 ---
-id: 4031
 title: Smart Solar Irrigation in Senegal
 author: candice-heberer
-guid: http://sel.columbia.edu/?page_id=4031
+type: Sustainable Energy
+image: /assets/uploads/blog/2013/05/smartSolar_2.jpg
+main_link: /smart-solar-irrigation/
+permalink: /smart-solar-irrigation/
+related_blog_entries: /tags#Smart Solar Irrigation
+summary: "Irrigation of crops is critical to agricultural success, but in Senegal, this task is usually done by hand and can take all day. High fuel costs make gasoline pumps unaffordable and initial investment costs of stand-alone solar are too high for small scale farmers. The Sustainable Engineering Lab, as part of <a href=\"http://www.poweringag.org/\">Powering Agriculture: An Energy Grand Challenge for Development Initiative</a>, is piloting research in the <a href=\"http://millenniumvillages.org/\">Millennium Village</a> of Potou, to reduce the price of energy for farmers by introducing solar PV as a reliable and cost-effective alternative. The grant is supported by the U.S. Agency for International Development (USAID) the Swedish Government, Duke Energy, and the German Organization for International Cooperation (GIZ)."
 ---
 <div class="row-fluid">
   <div class="span12">
-    <h2 style="font-size:48px !important;">
-      Smart Solar Irrigation in Senegal
-    </h2>
-    
-    <br /> 
-    
-    <hr />
-    
     <img src="/assets/uploads/blog/2015/01/pumping_flow.jpg" alt="Water Flowing" width="1763" height="447" />
   </div>
 </div>
@@ -29,7 +25,6 @@ guid: http://sel.columbia.edu/?page_id=4031
     <p>
       The Niayes zone of Senegal is responsible for more than half of the country’s horticultural production. Finding a way to reduce production costs for farmers in this area can potentially lead to major economic gains.
     </p>
-  </div>
   
   <div class="span3">
     <br /> 
@@ -47,7 +42,7 @@ guid: http://sel.columbia.edu/?page_id=4031
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong><br /><a href="/tag/smart-solar-irrigation"> Related Blog Entries</a>
+      <strong>Links:</strong><br /><a href="/tags#Smart Solar Irrigation"> Related Blog Entries</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
@@ -143,7 +138,7 @@ guid: http://sel.columbia.edu/?page_id=4031
           </h3>
           
           <p>
-            <strong>October</strong> <br /> USAID awards SEL with $1.1M innovation grant <a href="http://sel.columbia.edu/usaid-awards-1-1m-innovation-grant-to-sel-for-smart-solar-irrigation-pilot-in-senegal/"> [Blog Entry] </a>
+            <strong>October</strong> <br /> USAID awards SEL with $1.1M innovation grant <a href="/usaid-awards-1-1m-innovation-grant-to-sel-for-smart-solar-irrigation-pilot-in-senegal/"> [Blog Entry] </a>
           </p>
           
           <p>
@@ -161,14 +156,14 @@ guid: http://sel.columbia.edu/?page_id=4031
           </h3>
           
           <p>
-            <strong>January / February</strong> <br /> Local launch of project and community meetings <a href="http://sel.columbia.edu/senegal-solar-irrigation-project-launch/"> [Blog Entry] </a>
+            <strong>January / February</strong> <br /> Local launch of project and community meetings <a href="/senegal-solar-irrigation-project-launch/"> [Blog Entry] </a>
           </p>
           
           <p>
           </p>
           
           <p>
-            <strong>June</strong> <br /> Arrival of pump controller in NY for testing <a href="http://sel.columbia.edu/progress-on-senegal-solar-irrigation-project/"> [Blog Entry] </a> <br /> <a href="http://sel.columbia.edu/watch-the-pump-controller-demo-for-sels-solar-irrigation-project-in-senegal/">Watch demo </a>
+            <strong>June</strong> <br /> Arrival of pump controller in NY for testing <a href="/progress-on-senegal-solar-irrigation-project/"> [Blog Entry] </a> <br /> <a href="/watch-the-pump-controller-demo-for-sels-solar-irrigation-project-in-senegal/">Watch demo </a>
           </p>
           
           <p>
@@ -182,11 +177,11 @@ guid: http://sel.columbia.edu/?page_id=4031
           </p>
           
           <p>
-            <strong>October / November</strong> <br /> SEL team travels to India to meet with pump controller manufacturer and other potential suppliers of pumps, solar tracking units and smart meters. <a href="http://sel.columbia.edu/sel-team-visits-with-irrigation-pump-controller-manufacturer-in-india/" title="SEL team visits with irrigation pump controller manufacturer in India"> [Blog Entry] </a>
+            <strong>October / November</strong> <br /> SEL team travels to India to meet with pump controller manufacturer and other potential suppliers of pumps, solar tracking units and smart meters. <a href="/sel-team-visits-with-irrigation-pump-controller-manufacturer-in-india/" title="SEL team visits with irrigation pump controller manufacturer in India"> [Blog Entry] </a>
           </p>
           
           <p>
-            <strong>December</strong> <br /> Installation of solar PV array and pump testing <a href="http://sel.columbia.edu/solar-powered-agricultural-water-pumping-system-is-up-and-running-in-senegal/" title="Solar powered Agricultural water pumping system is up and running in Senegal!"> [Blog Entry] </a> 
+            <strong>December</strong> <br /> Installation of solar PV array and pump testing <a href="/solar-powered-agricultural-water-pumping-system-is-up-and-running-in-senegal/" title="Solar powered Agricultural water pumping system is up and running in Senegal!"> [Blog Entry] </a> 
             
             <h3>
               2015

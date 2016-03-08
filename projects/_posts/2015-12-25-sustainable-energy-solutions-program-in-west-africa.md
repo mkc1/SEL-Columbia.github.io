@@ -1,16 +1,16 @@
 ---
-id: 3464
 title: Sustainable Energy Solutions Program in West Africa
 author: candice-heberer
-guid: http://sel.columbia.edu/?page_id=3464
+type: Sustainable Energy
+image: /assets/uploads/blog/2013/05/sustainableEnergyProgram.jpg
+main_link: /sustainable-energy-solutions-program-in-west-africa/
+permalink: /sustainable-energy-solutions-program-in-west-africa/
+related_blog_entries: /tags/#Energy Planning
+summary: "Energy issues facing society are one of the biggest technological and policy challenges of the twenty-first century. The Sustainable Engineering Lab is working with the <a href=\"http://www.ecreee.org/\">ECOWAS Centre for Renewable Energy and Energy Efficiency (ECREEE)</a>, the <a href=\"http://www.unido.org/\">United Nations Industrial Development Organization (UNIDO)</a>, and the <a href=\"http://www.unicv.edu.cv/\">Engineering Department of the University of Cape Verde</a> in Mindelo, Sao Vicente, to design an innovative distance-learning program intended to build skills of experts in the field of sustainable energy systems and solutions, beginning with a pilot group of 9 West African students."
 ---
 <div class="row-fluid">
   <div class="span12">
-    <h2 style="font-size:48px !important;">
-      Sustainable Energy Solutions Program in West Africa
-    </h2>
-    
-    <br /> <img src="/assets/uploads/blog/2014/04/ecreee-main.jpg" />
+    <img src="/assets/uploads/blog/2014/04/ecreee-main.jpg" />
   </div>
 </div>
 
@@ -124,7 +124,7 @@ guid: http://sel.columbia.edu/?page_id=3464
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links: </strong><br /><a href="http://ecreee.wikischolars.columbia.edu">Program Site</a><br /><a href="/tag/energy-planning"> Related Blog Entries</a>
+      <strong>Links: </strong><br /><a href="http://ecreee.wikischolars.columbia.edu">Program Site</a><br /><a href="/tags/#Energy Planning"> Related Blog Entries</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">

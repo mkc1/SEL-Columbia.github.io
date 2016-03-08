@@ -1,0 +1,39 @@
+<div class="row">
+    <h2>
+	{% if include.post.main_link %}
+        <a href="{{ include.post.main_link }}">
+	{% endif %}
+            {{ include.post.title }}
+	{% if include.post.main_link %}
+        </a>
+	{% endif %}
+    </h2>
+
+    {% if include.post.location %}
+        {{ include.post.location }}
+    {% endif %}
+    <br>
+
+    {% if include.post.main_link %}
+    <a href="{{ include.post.main_link }}">
+    {% endif %}
+    <img src="{{ include.post.image }}">
+    {% if include.post.main_link %}
+    </a>
+    {% endif %}
+
+    <br>
+        {% if include.post.summary %}
+            {{ include.post.summary }}
+	{% else %}
+            {{ include.post.content }}
+	{% endif %}
+    <br>
+    {% if include.post.project_page %}
+    <a href="{{ include.post.project_page }}">Project Page</a>
+    {% elsif include.post.related_blog_entries %}
+    <a href="{{ include.post.related_blog_entries }}">Related Blog Entries</a>
+    {% elsif include.post.full_report %}
+    <a href="{{ include.post.full_report }}">Download full report</a>
+    {% endif %}
+</div>
