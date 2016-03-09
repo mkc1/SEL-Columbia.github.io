@@ -2,7 +2,6 @@
 id: 4231
 title: Delhi Energy Project
 project_page: /delhi-energy-project
-permalink: /delhi-energy-project
 type: Sustainable Energy
 author: john-humphrey
 guid: http://sel.columbia.edu/?page_id=4231
