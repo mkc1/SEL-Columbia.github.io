@@ -65,7 +65,7 @@ Given our time constraints, the requirements and our existing tools, we prefer t
 In other words, we tamed Frankenstein with Fire and Motion and cleared our plate of Cartographic Spaghetti with a Fork 😉
 
  [1]: /assets/uploads/blog/2013/06/8882363476_fecc3e7b33_b.jpg
- [2]: http://modi.mech.columbia.edu/data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/
+ [2]: http://sel.columbia.edu/data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/
  [3]: http://networkplanner.modilabs.org/
  [4]: http://formhub.org/ "FormHub"
  [5]: http://opendatakit.org/use/collect/

@@ -1,19 +1,16 @@
 ---
-id: 4087
 title: Shared Solar
 author: candice-heberer
-guid: http://sel.columbia.edu/?page_id=4087
+type: ICT4D and Development Planning
+image: /assets/uploads/blog/2013/05/sharedSolar.jpg
+main_link: /shared-solar/
+permalink: /shared-solar/
+location: Uganda, Mali, Bolivia
+related_blog_entries: /tags/#Shared Solar
+summary: "Most rural communities have two options for electrification: wait for the electricity grid, or installing their own home-based systems with high up-front costs. SharedSolar introduces a third: community-based solar grids with smart metering, and mobile phone-based pre-paid credit that allow electricity purchase in small increments."
 ---
 <div class="row-fluid">
   <div class="span12">
-    <h2 style="font-size:48px !important;">
-      Shared Solar
-    </h2>
-    
-    <br /> 
-    
-    <hr />
-    
     <img src="/assets/uploads/blog/2014/10/sharedSolar_hero.jpg" alt="sharedSolar_hero" />
   </div>
 </div>
@@ -39,7 +36,7 @@ guid: http://sel.columbia.edu/?page_id=4087
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong><br /> <a href="http://sharedsolar.org" title="Sharedsolar" target="_blank">sharedsolar.org</a><br /><a href="/tag/shared-solar"> Related Blog Entries</a>
+      <strong>Links:</strong><br /> <a href="http://sharedsolar.org" title="Sharedsolar" target="_blank">sharedsolar.org</a><br /><a href="/tags/#Shared Solar"> Related Blog Entries</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">

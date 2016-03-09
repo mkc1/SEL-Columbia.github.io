@@ -1,19 +1,13 @@
 ---
-id: 3472
-title: Scale-up Initiative
+title: Nigeria Scale-up Initiative
 author: candice-heberer
-guid: http://sel.columbia.edu/?page_id=3472
+type: ICT4D and Development Planning
+image: /assets/uploads/blog/2013/09/nigeria.jpg
+main_link: /scale-up-initiative/
+permalink: /scale-up-initiative/
+related_blog_entries: /tags/#Nigeria Scale-up Initiative
+summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium Development Goals (OSSAP-MDGs) has constructed an ambitious programme to provide conditional grants to hundreds of Local Government Areas in Nigeria through a data-driven process. The Sustainable Engineering Lab designs and builds tools, as well as works directly with OSSAP-MDGs to use these tools to implement the process of data-driven planning at scale. <a href=\"http://formhub.org/\">Formhub</a> and <a href=\"http://nmis.mdgs.gov.ng/\">NMIS</a> are key anchor tools for this project and prompted the development of <a href=\"http://revisit.global/\">Revisit</a>."
 ---
-<div class="row-fluid">
-  <div class="span12">
-    <h2 style="font-size:48px !important;">
-      Scale-up Initiative
-    </h2>
-    
-    <br />
-  </div>
-</div>
-
 ![nigeria-main][1] 
 
 <p class="wp-caption-text" style="line-height:17pt;">
@@ -49,7 +43,7 @@ guid: http://sel.columbia.edu/?page_id=3472
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong> <br /><a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br /><a href="/tag/nigeria-scaleup"> Related Blog Entries </a>
+      <strong>Links:</strong> <br /><a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br /><a href="/tags/#Nigeria Scale-up Initiative"> Related Blog Entries </a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">

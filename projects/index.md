@@ -5,14 +5,22 @@ author: jonathan-carbajal
 guid: http://modilabs.org/?page_id=20
 ---
 
-{% for post in site.categories.projects %}
-<div class="row-fluid projects">
-    <div class="col-sm-12">
-        {{ post.excerpt }}
-    </div>
-    <div class="col-sm-12 projects-details">
-        <h3>{{ post.title }}</h3>
-        <p><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
-    </div>
-</div>
+<div class="container">
+<h1>Sustainable Energy Projects</h1>
+{% for project in site.categories.projects %}
+    {% if project.type == 'Sustainable Energy' %}
+        <div class="row-fluid projects">
+            {% include project_summary.html post=project %}
+        </div>
+    {% endif %}
 {% endfor %}
+
+<h1>ICT4D & Development Planning Projects</h1>
+{% for project in site.categories.projects %}
+    {% if project.type == 'ICT4D and Development Planning' %}
+        <div class="row-fluid projects">
+            {% include project_summary.html post=project %}
+        </div>
+    {% endif %}
+{% endfor %}
+</div>
