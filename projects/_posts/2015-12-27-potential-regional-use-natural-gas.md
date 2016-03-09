@@ -2,7 +2,7 @@
 title: Potential for Regional Use of East Africa’s Natural Gas
 author: candice-heberer
 type: Sustainable Energy
-image: /assets/uploads/blog/2014/08/nigeriaElectrification.jpg
+image: /assets/uploads/blog/2013/05/naturalGasEastAfrica.jpg
 main_link: /potential-for-regional-use-of-east-africas-natural-gas-2/
 permalink: /potential-for-regional-use-of-east-africas-natural-gas-2/
 full_report: /assets/uploads/blog/2014/11/Potential-for-Regional-Use-of-East-Africas-Natural-Gas-SELv7_1_ES.pdf
