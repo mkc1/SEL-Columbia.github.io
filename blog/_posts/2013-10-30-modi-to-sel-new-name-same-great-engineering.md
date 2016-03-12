@@ -7,6 +7,7 @@ permalink: /modi-to-sel-new-name-same-great-engineering/
 tags:
   - News
 ---
+<div id="clearfix splash pad3" style="background-image: url('/assets/uploads/blog/2013/10/sel-banner.png'); background-position: 50% 0%; background-repeat: no-repeat; min-width: 100%;height: 150px; background-size: cover; padding: 20px; -webkit-transition: padding 100ms;transition: padding 100ms;"></div>
 <img style="padding-bottom:15px;" src="/assets/uploads/blog/2013/10/sel-shirts.jpg" /> 
 
 Earlier this week, we revealed a new identity for our lab. The new graphic identity and name is already reflected on our website and Twitter account, and has been used in several project deliverables. This is our first significant effort to establish an identity for ourselves.
@@ -38,7 +39,7 @@ A major part of our design challenge in creating our graphic brand was to embody
   Letterhead and potential digital and printed applications of the new identity
 </p>
 
-<img style="padding-top:25px;"src="/assets/uploads/blog/2013/10/sel-charts.png" /> 
+<img style="padding-top:25px;" src="/assets/uploads/blog/2013/10/sel-charts.png" />
 
 <p class="wp-caption-text">
   Chart styles

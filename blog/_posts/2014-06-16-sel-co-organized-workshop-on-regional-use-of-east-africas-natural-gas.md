@@ -18,7 +18,9 @@ tags:
 
 
 
-[Download SEL&#8217;s Paper on Regional Use of East Africa’s Natural Gas][2] </br> [Download Slides Presented at Addis Ababa Workshop][3] 
+[Download SEL&#8217;s Paper on Regional Use of East Africa’s Natural Gas][2]
+<br>
+[Download Slides Presented at Addis Ababa Workshop][3]
 
 
 

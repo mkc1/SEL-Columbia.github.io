@@ -49,6 +49,6 @@ We have a version of bamboo up on http://bamboo.io, which is for TESTING ONLY. T
  [5]: http://mongodb.org
  [6]: http://pandas.pydata.org/
  [7]: http://dev3.acmdev.org/posters/dev13posters-final25.pdf
- [8]: http://sel.columbia.edu/dristhi/
+ [8]: /dristhi/
  [9]: http://github.com/SEL-Columbia/bamboo
  [10]: https://news.ycombinator.com/item?id=6866201
