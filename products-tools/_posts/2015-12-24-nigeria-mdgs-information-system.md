@@ -1,7 +1,7 @@
 ---
 title: Nigeria MDGs Information System
 image-link: http://nmis.mdgs.gov.ng/
-image-source: http://modi.mech.columbia.edu/wp-content/uploads/2013/08/nmis.png
+image-source: /assets/uploads/blog/2013/08/nmis.png
 image-alt: nmis
 image-height: 112
 image-width: 250
