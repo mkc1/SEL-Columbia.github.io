@@ -9,13 +9,13 @@ related_blog_entries: /tags/#Energy Planning
 summary: "Energy issues facing society are one of the biggest technological and policy challenges of the twenty-first century. The Sustainable Engineering Lab is working with the <a href=\"http://www.ecreee.org/\">ECOWAS Centre for Renewable Energy and Energy Efficiency (ECREEE)</a>, the <a href=\"http://www.unido.org/\">United Nations Industrial Development Organization (UNIDO)</a>, and the <a href=\"http://www.unicv.edu.cv/\">Engineering Department of the University of Cape Verde</a> in Mindelo, Sao Vicente, to design an innovative distance-learning program intended to build skills of experts in the field of sustainable energy systems and solutions, beginning with a pilot group of 9 West African students."
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <img src="/assets/uploads/blog/2014/04/ecreee-main.jpg" />
   </div>
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <br /> 
     
     <p>
@@ -108,7 +108,7 @@ summary: "Energy issues facing society are one of the biggest technological and 
     </p>
   </div>
   
-  <div class="span3">
+  <div class="col-md-3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">

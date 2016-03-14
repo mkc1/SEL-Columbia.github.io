@@ -11,7 +11,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
 <p><a href=\"/assets/uploads/blog/2012/06/Infrastructure_and_Energy_Report_WEB.pdf\">Download the overview: Infrastructure from the Bottom Up</a></p>"
 ---
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <p>
       Since 2005, the Earth Institute’s Millennium Villages project (MVP) has been striving to help nearly 400,000 people across 10 African countries to meet the MDGs. It is widely recognized that infrastructure is an essential building block for countries to meet their larger development goals and the Sustainable Engineering Lab has been influential in shaping the MVP’s evolution through a set of innovative water and energy solutions.
     </p>
@@ -35,7 +35,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
 </div>
 
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <hr />
     
     <h3>
@@ -47,7 +47,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     </br> 
     
     <p>
@@ -56,7 +56,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
   </div>
   
   <div class="row-fluid">
-    <div class="span3">
+    <div class="col-md-3">
       <br /> 
       
       <p class="wp-caption-text" style="line-height:17pt;">
@@ -66,7 +66,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
   </div>
   
   <div class="row-fluid">
-    <div class="span9">
+    <div class="col-md-9">
       <p>
         The first collaborative effort took place in Senegal during 2007/8. This project benefitted 13,500 people through more than 100 kilometers of pipe and 85 public taps and effectively brought water to within less than the MDG minimum standard of 1 kilometer. As of 2008, more than 80% of the households were within 400 meters of an improved water point. For more details related to this first piped water installation effort in Senegal, please click on the link below (link to the Word doc I am sending to you as well).
       </p>
@@ -74,7 +74,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
   </div>
   
   <div class="row-fluid">
-    <div class="span12">
+    <div class="col-md-12">
       <hr />
       
       <h3>
@@ -86,7 +86,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
   </div>
   
   <div class="row-fluid">
-    <div class="span9">
+    <div class="col-md-9">
       </br> 
       
       <p>
@@ -100,7 +100,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
           </div> 
           
           <div class="row-fluid">
-            <div class="span3">
+            <div class="col-md-3">
               <br /> 
               
               <p class="wp-caption-text" style="line-height:17pt;">
@@ -110,7 +110,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
           </div>
           
           <div class="row-fluid">
-            <div class="span9">
+            <div class="col-md-9">
               <p>
                 See publications:
               </p>
@@ -122,7 +122,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
           </div>
           
           <div class="row-fluid">
-            <div class="span12">
+            <div class="col-md-12">
               <hr />
               
               <h3>
@@ -134,7 +134,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
           </div>
           
           <div class="row-fluid">
-            <div class="span9">
+            <div class="col-md-9">
               </br> 
               
               <p>
@@ -143,7 +143,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
             </div>
             
             <div class="row-fluid">
-              <div class="span3">
+              <div class="col-md-3">
                 <br /> 
                 
                 <p class="wp-caption-text" style="line-height:17pt;">
@@ -153,7 +153,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
             </div>
             
             <div class="row-fluid">
-              <div class="span12">
+              <div class="col-md-12">
                 <hr />
                 
                 <h3>
@@ -165,7 +165,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
             </div>
             
             <div class="row-fluid">
-              <div class="span9">
+              <div class="col-md-9">
                 </br> 
                 
                 <p>
@@ -174,7 +174,7 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
               </div>
               
               <div class="row-fluid">
-                <div class="span3">
+                <div class="col-md-3">
                   <br /> 
                   
                   <p class="wp-caption-text" style="line-height:17pt;">

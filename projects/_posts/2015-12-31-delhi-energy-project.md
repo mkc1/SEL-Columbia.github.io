@@ -16,7 +16,7 @@ summary: "The Sustainable Engineering Lab is investigating disparities in electr
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     &nbsp; 
     
     <blockquote>
@@ -25,7 +25,7 @@ summary: "The Sustainable Engineering Lab is investigating disparities in electr
   </div>
   
   <div class="row-fluid">
-    <div class="span3">
+    <div class="col-md-3">
       <BR /> 
       
       <p class="wp-caption-text" style="line-height: 17pt;">
@@ -46,7 +46,7 @@ summary: "The Sustainable Engineering Lab is investigating disparities in electr
 </div>
 
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <h3>
       Motivation
     </h3> Today, significant progress has been made in improving energy access throughout the developing world. Yet disparities persist. One critical yet often under-appreciated area of disparity is in places 
