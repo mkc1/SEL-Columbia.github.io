@@ -25,6 +25,6 @@ This report is an attempt to document progress and lessons learned from the firs
   * <a style="line-height: 1.714285714; font-size: 1rem;" href="/assets/uploads/blog/2013/06/Chapter-8.-Site-Profile-Sauri-Kenya.pdf">Chapter 8. Site Profile Sauri, Kenya</a>
   * <a style="line-height: 1.714285714; font-size: 1rem;" href="/assets/uploads/blog/2013/06/Chapter-9.-Site-Profile-Ruhiira-Uganda.pdf">Chapter 9. Site Profile, Ruhiira, Uganda</a>
   * <a style="line-height: 1.714285714; font-size: 1rem;" href="/assets/uploads/blog/2013/06/Chapter-10.-Maintenance-and-Sustainability.pdf">Chapter 10. Maintenance and Sustainability</a>
-  * <a style="line-height: 1.714285714; font-size: 1rem;" href="/assets/uploads/blog/2013/06/Appendices.pdf">Appendices</a> Or download the full report here: 
+  * <a style="line-height: 1.714285714; font-size: 1rem;" href="/assets/uploads/blog/2013/06/Appendices.pdf">Appendices</a>
 
-<a title="Infrastructure from the bottom Up- Five Year Report" href="/assets/uploads/blog/2012/06//Infrastructure_and_Energy_Report_WEB.pdf" target="_blank">Download link to MVP 5-Year Report</a>
+Or download the full report here: <a title="Infrastructure from the bottom Up- Five Year Report" href="/assets/uploads/blog/2012/06//Infrastructure_and_Energy_Report_WEB.pdf" target="_blank">Download link to MVP 5-Year Report</a>

@@ -10,6 +10,8 @@ tags:
 ---
 A new profile of Vijay Modi and his research has gone live on the Earth Institute website. 
 
-> “Even engineers are becoming more interdisciplinary. Historically, science was driven by curiosity and engineering by relevance. Now, in academia, with engineers becoming more curiosity-driven and scientists seeking relevance, there is less of a distinction. The interaction between curiosity and relevance is good because it shapes the questions that we are asking and makes them more interesting,” says Modi. “As we work on some practical matter it will uncover the need for new data and new science.”[V. Modi EI profile January 2011][1]
+> “Even engineers are becoming more interdisciplinary. Historically, science was driven by curiosity and engineering by relevance. Now, in academia, with engineers becoming more curiosity-driven and scientists seeking relevance, there is less of a distinction. The interaction between curiosity and relevance is good because it shapes the questions that we are asking and makes them more interesting,” says Modi. “As we work on some practical matter it will uncover the need for new data and new science.”
+
+[V. Modi EI profile January 2011][1]
 
  [1]: http://www.earth.columbia.edu/articles/view/2770

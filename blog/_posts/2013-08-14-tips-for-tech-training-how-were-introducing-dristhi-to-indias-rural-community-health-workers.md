@@ -23,7 +23,7 @@ To prepare for a larger scale up in northern Karnataka later this year, we have 
 
 **5. Provide ample time for open exploration.** This is where the real learning happened, especially with the aid of our field investigators/teaching assistants. When the instructor (and designers) left the room, ANMs started making comments openly and exploring DRISTHI without fear of making mistakes. Another benefit was open exploration led naturally to role playing activities so ANMs could think of DRISTHI in their daily work. We used preplanned scenarios that correlated with the data on the app. In one case, Dhivya, a field investigator, played the role of a mom in Hosa Agrahara village who had her IUD inserted 30 days ago and was having complications. The ANM was able to find her case and check up on her with DRISTHI. 
 
-**6. Focus on communicating large concepts. **If necessary, create a reference manual to help keep details separate from the main points you are trying to make during training. The details will be far more valuable once ANMs are comfortable with the technology. 
+**6. Focus on communicating large concepts.** If necessary, create a reference manual to help keep details separate from the main points you are trying to make during training. The details will be far more valuable once ANMs are comfortable with the technology.
 
 As we continue developing DRISTHI and the training curriculum, we are constantly working to improve our techniques and experiment with ways to communicate complex ideas. Look out for future blog posts where we&#8217;ll share more about what we&#8217;ve learned and info on how we&#8217;re scaling-up best practices. 
 

@@ -23,5 +23,5 @@ The MVP’s household stove program is at the core of the MVP’s energy sector 
   * <span style="line-height: 1.714285714; font-size: 1rem;">Sold over 7,000 household stoves at a 0%‐50% subsidy.</span>
   * <span style="line-height: 1.714285714; font-size: 1rem;">Decreased fuelwood collection times by up to 50% for over 1,000 households in Africa</span>
 
- [1]: http://http://www.pciaonline.org/proceedings/2011Forum
+ [1]: http://www.pciaonline.org/proceedings/2011Forum
  [2]: http://www.pciaonline.org/files/Tuesday_Meeting_Community_Needs_Freeman.pdf

@@ -15,7 +15,7 @@ A recent agroforestry adoption study in Mali, conducted by  Columbia University
 
 Despite anticipated limitations and a few technical dilemmas that arose during implementation of the project, overall the data-gathering took place smoothly and effectively. While it is a new and still-developing suite of software, with proper technical expertise and support it was found that ODK can be manipulated for practical use with ample room for versatility. ODK successfully made use of modern technology and communications infrastructure to enable highly efficient data gathering and information compilation, resulting in a useful tool for global development applications. 
 
-**Download the report:** [ Open Data Kit: Implications for the Use of Smartphone Software Technology for Questionnaire Studies in International Development* (1.56MB)*][2]</li>
+**Download the report:** [ Open Data Kit: Implications for the Use of Smartphone Software Technology for Questionnaire Studies in International Development *(1.56MB)*][2]
 
  [1]: http://code.google.com/p/opendatakit/
  [2]: /assets/uploads/blog/2013/06/Open-Data-Kit-Review-Article.pdf

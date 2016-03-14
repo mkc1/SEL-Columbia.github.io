@@ -8,10 +8,10 @@ tags:
   - Infrastructure Planning
   - Papers
 ---
-<p style="text-align: right">
+<p>
   <a href="/assets/uploads/blog/2014/11/Potential-for-Regional-Use-of-East-Africas-Natural-Gas-SELv7_1_ES.pdf">Download Full Paper</a>
   
-  <p style="text-align: right">
+  <p>
     <a href="/assets/uploads/blog/2014/05/PipelineSegments-491-BZ-p-phase3-2050v2.jpg"><img class="alignnone wp-image-3738 size-large" src="/assets/uploads/blog/2014/05/PipelineSegments-491-BZ-p-phase3-2050v2.jpg" alt="Natural Gas Network Eastern Africa" width="700" height="540" /></a>
   </p> Recently, significant reserves of natural gas have been indentified in Mozambique and Tanzania. These resources represent a significant energy resource for the economic development of the region, and may support a pathway to both economic growth and a low-carbon future. We assume 
   

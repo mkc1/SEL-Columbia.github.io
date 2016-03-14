@@ -9,15 +9,15 @@ image:
 tags:
   - Gujarat Water Study
 ---
-**Synopsis: **Water tables in the northern regions of the Indian state of Gujarat have been falling over the last three decades by as much as 2.5-3 meters a year. This is raising concerns of irreversible salinization and increasing water costs and well-deepening expenses on both farmers and state budgets.
+**Synopsis:** Water tables in the northern regions of the Indian state of Gujarat have been falling over the last three decades by as much as 2.5-3 meters a year. This is raising concerns of irreversible salinization and increasing water costs and well-deepening expenses on both farmers and state budgets.
 
 Water tables are falling because agricultural activity &#8211; central to the state&#8217;s economy &#8211; is using up groundwater faster than it can be replenished. The Gujarat government provides energy subsidies to farmers who spend money pumping groundwater as a way to encourage farming among its people. This creates a vicious cycle because farmers have no incentive to conserve water, thereby lowering the water table and increasing the amount of energy and money needed to pump water.
 
-**Study Area: ** Kukarwada Substation, District of Mehasana (North Gujarat).
+**Study Area:** Kukarwada Substation, District of Mehasana (North Gujarat).
 
-**Climate: **Semi-arid, extreme temperatures, high evaporation, low and erratic rainfall occurring mostly between June and September, annual mean of 738 mm with year to year variability at about 50%
+**Climate:** Semi-arid, extreme temperatures, high evaporation, low and erratic rainfall occurring mostly between June and September, annual mean of 738 mm with year to year variability at about 50%
 
-**Irrigation: **The conditions above make agricultural intensification highly dependent on irrigation. Irrigated agriculture supports over half the population and uses more than 70% of the area. Irrigation is heavily reliant on electricity for pumping.
+**Irrigation:** The conditions above make agricultural intensification highly dependent on irrigation. Irrigated agriculture supports over half the population and uses more than 70% of the area. Irrigation is heavily reliant on electricity for pumping.
 
 **Agricultural Income and the Power Subsidy**
 
