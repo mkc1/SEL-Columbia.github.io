@@ -1,7 +1,6 @@
 ---
 title: Publications
-author: Roger Wong
-layout: default
+author: roger-wong
 ---
 <div>
 <h1 class="page-heading">Publications</h1>
@@ -9,8 +8,8 @@ layout: default
 <div class="col-md-4" style="float:left; margin:0; width:33%;">
   <h2> Infrastructure</h2>
   <ul class="post-list" style="list-style-type:none">
-    {% for post in site.posts %}
-      {%if post.categories contains 'publications' and post.categories contains 'Infrastructure' %}
+    {% for post in site.categories.publications %}
+      {%if post.tags contains 'Infrastructure' %}
           <li>
             <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
@@ -22,8 +21,8 @@ layout: default
   </ul>
   <h2> Water</h2>
   <ul class="post-list" style="list-style-type:none">
-    {% for post in site.posts %}
-      {%if post.categories contains 'publications'and post.categories contains 'Water' %}
+    {% for post in site.categories.publications %}
+      {%if post.tags contains 'Water' %}
           <li>
             <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
@@ -37,8 +36,8 @@ layout: default
 <div class="col-md-4"  style="float:left; margin:0; width:33%;">
   <h2>Energy Planning</h2>
   <ul class="post-list" style="list-style-type:none">
-    {% for post in site.posts %}
-      {%if post.categories contains 'publications'and post.categories contains 'Energy Planning' %}
+    {% for post in site.categories.publications %}
+      {%if post.tags contains 'Energy Planning' %}
           <li>
             <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
@@ -51,8 +50,8 @@ layout: default
 
   <h2>Household Energy Usage</h2>
   <ul class="post-list" style="list-style-type:none">
-    {% for post in site.posts %}
-      {%if post.categories contains 'publications'and post.categories contains 'Household Energy Usage' %}
+    {% for post in site.categories.publications %}
+      {%if post.tags contains 'Household Energy Usage' %}
           <li>
             <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
@@ -67,8 +66,8 @@ layout: default
 <div class="col-md-4"  style="float:left; margin:0; width:33%;">
   <h2>Data Collection & Analysis</h2>
   <ul class="post-list" style="list-style-type:none">
-    {% for post in site.posts %}
-      {%if post.categories contains 'publications'and post.categories contains 'Data Collection & Analysis' %}
+    {% for post in site.categories.publications %}
+      {%if post.tags contains 'Data Collection' %}
           <li>
             <p><strong>
               <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>

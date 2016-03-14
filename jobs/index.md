@@ -1,6 +1,5 @@
 ---
 title: Jobs
-layout: default
 ---
 <ul class="post-list">
 
@@ -26,14 +25,12 @@ layout: default
 <h2 style="font-weight: 500 !important; color: #000000;">
   Current opportunities:
 </h2>
-  {% for post in site.posts %}
-    {%if post.categories contains 'jobs' %}
-        <li>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-          <p>{{post.content}}</p>
-        </li>
-    {% endif %}
+  {% for post in site.categories.jobs %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p>{{post.content}}</p>
+    </li>
   {% endfor %}
 </ul>

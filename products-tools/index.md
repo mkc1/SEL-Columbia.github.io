@@ -1,9 +1,5 @@
 ---
-id: 19
 title: 'Products &#038; Tools'
-author: Jonathan Carbajal
-layout: default
-guid: http://modilabs.org/?page_id=19
 ---
 ## While working on projects that create positive impact in the developing world, we produce open source tools and products that we release for others to use: {#products__tools}
 {% for post in site.categories.products-tools %}
@@ -183,4 +179,3 @@ guid: http://modilabs.org/?page_id=19
       </div>
     </div>
   </div>
-</div>

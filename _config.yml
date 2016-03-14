@@ -7,7 +7,7 @@ description: >
   issues.
 
 # Site settings
-title: Sustainable Engineering Lab
+title: "Sustainable Engineering Lab @ Columbia University"
 email: your-email@columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -15,11 +15,18 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 
+gems:
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
 
 exclude: [path, vendor]
+
+collections:
+  team:
+    output: true
+    permalink: /team/:title/
 
 # Navigation
 navigation:
@@ -35,6 +42,33 @@ navigation:
   url: /blog/
 - text: jobs
   url: /jobs/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      tags: "Untagged"
+  -
+    scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+  -
+    scope:
+      path: "projects"
+      type: "posts"
+    values:
+      layout: "page"
 
 # Configurations for Prose
 # https://github.com/prose/prose/wiki/Prose-Configuration

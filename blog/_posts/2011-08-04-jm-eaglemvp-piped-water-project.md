@@ -1,18 +1,14 @@
 ---
 id: 1693
 title: JM Eagle + MVP Piped Water Project
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1693
 permalink: /jm-eaglemvp-piped-water-project/
 image:
   - 
-categories:
-  - Millenium Villages Project
-  - Uncategorized
 tags:
+  - Millenium Villages Project
   - Gujarat Water Study
-  - MVP
   - News
 ---
 Representatives from the JM Eagle Corporation including CEO, Walter Wang, traveled to 3 of the 8 MVP sites in Africa where piped water installations are under construction with pipe and funding provided by the JM Eagle Corporation. The JM Eagle group was joined by a delegation of representatives from the Earth Institute, which serves as the technical adviser for the project, including the Earth Institute Director, Jeff Sachs, and also Prof. Vijay Modi. 

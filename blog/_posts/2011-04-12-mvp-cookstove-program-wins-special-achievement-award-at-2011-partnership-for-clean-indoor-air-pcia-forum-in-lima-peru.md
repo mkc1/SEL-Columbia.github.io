@@ -1,16 +1,14 @@
 ---
 id: 1566
 title: MVP Cookstove Program Wins Special Achievement Award at 2011 Partnership for Clean Indoor Air (PCIA) Forum in Lima, Peru
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1566
 permalink: /mvp-cookstove-program-wins-special-achievement-award-at-2011-partnership-for-clean-indoor-air-pcia-forum-in-lima-peru/
 image:
   - /assets/uploads/blog/2011/04/lijawwwd1.bmp
-categories:
-  - Biomass Cook Stoves
 tags:
-  - MVP
+  - Biomass Cook Stoves
+  - Millenium Villages Project
   - News
 ---
 The Millennium Village Project (MVP)’s Household Stove Program was awarded a special achievement award for “Meeting Community Needs” at the [Partnership for Clean Indoor Air Forum (PCIA)][1]’s bi-annual Forum in Lima, Peru. The award is “in appreciation and recognition of the MVP’s dedication to meeting community needs through household energy interventions,” and recognized the project’s dedication to tailoring programs by country and region to meet the cooking needs of households. 
@@ -26,5 +24,5 @@ The MVP’s household stove program is at the core of the MVP’s energy sector 
   * <span style="line-height: 1.714285714; font-size: 1rem;">Sold over 7,000 household stoves at a 0%‐50% subsidy.</span>
   * <span style="line-height: 1.714285714; font-size: 1rem;">Decreased fuelwood collection times by up to 50% for over 1,000 households in Africa</span>
 
- [1]: http://http://www.pciaonline.org/proceedings/2011Forum
+ [1]: http://www.pciaonline.org/proceedings/2011Forum
  [2]: http://www.pciaonline.org/files/Tuesday_Meeting_Community_Needs_Freeman.pdf

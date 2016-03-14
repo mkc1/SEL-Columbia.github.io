@@ -1,15 +1,13 @@
 ---
 id: 68
 title: Lister Engine
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=68
 permalink: /lister-engine/
 image:
   - /assets/uploads/blog/2010/04/Lister_Engine.jpg
-categories:
-  - News
 tags:
+  - News
   - Bio-Fuel
 ---
 Many developing countries lack adequate energy infrastructure.High petrol fuel costs combine with distribution challenges to further aggravate energy access issues. Yet rugged, low-speed, stationary engines (like the Lister) are widely available throughout much of the developing world.It is very likely that straight vegetable oil (SVO) can be used as a sustainable fuel source in these engines.This fuel can be easily produced on site, by households and communities that could then use the energy generated from the SVO fueled engines.

@@ -1,15 +1,13 @@
 ---
 id: 320
 title: The Impact of Geography on Energy Infrastructure Costs
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=260
 permalink: /the-impact-of-geography/
 image:
   - /assets/uploads/blog/2010/04/settlement-patterns1.png
-categories:
-  - Energy Planning
 tags:
+  - Energy Planning
   - Energy for Development
 ---
 Infrastructure planning for networked infrastructure such as grid electrification (or piped supply of water) has historically been a process of outward network expansion, either by utilities in response to immediate economic opportunity, or in response to a government mandate or subsidy intended to catalyze economic growth. While significant progress has been made in access to grid electricity in Asia, where population densities are greater and rural areas tend to have nucleated settlements, access to grid electricity in Sub-Saharan Africa remains low; a problem generally ascribed to differences in settlement patterns.

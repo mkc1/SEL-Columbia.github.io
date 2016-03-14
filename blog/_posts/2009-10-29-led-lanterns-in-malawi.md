@@ -1,17 +1,13 @@
 ---
 id: 84
 title: 'Off-grid energy services for the poor: Introducing LED lighting in the  Millennium Villages Project in Malawi'
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=84
 permalink: /led-lanterns-in-malawi/
 image:
   - 
-categories:
-  - LED Lighting
-  - Millenium Villages Project
-  - Papers
 tags:
+  - Millenium Villages Project
   - LED Lighting
   - Papers
 ---

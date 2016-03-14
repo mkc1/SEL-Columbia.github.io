@@ -1,9 +1,8 @@
 ---
 title: 'Energy Services for the Millennium Development Goals '
-layout: post
 image: None
 link: "http://www.unmillenniumproject.org/documents/MP_Energy_Low_Res.pdf"
-categories:
+tags:
   - Energy Planning
 ---
 

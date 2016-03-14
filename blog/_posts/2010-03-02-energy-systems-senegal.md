@@ -1,19 +1,16 @@
 ---
 id: 629
 title: 'Energy Systems Update &#8211; MVP Potou, Senegal'
-author: Modi Research Group
+author: modi-research-group
 excerpt: 'Energy Systems Update - MVP Potou, Senegal'
-layout: post
 guid: http://modi.buildafrica.org/?p=629
 permalink: /energy-systems-senegal/
 image:
   - /assets/uploads/blog/2010/04/potoucomps-border.png
-categories:
+tags:
   - Energy Planning
   - Millenium Villages Project
-tags:
   - Field Reports
-  - MVP
 ---
 This report summarizes the findings of a survey conducted on the use of energy in different sector in the Millennium Villages Project (MVP) cluster of Potou (Senegal). The survey included energy use in schools, health care centers, public buildings, agriculture, fisheries as well as shops and businesses. 
 

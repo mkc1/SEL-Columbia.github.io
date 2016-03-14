@@ -1,19 +1,16 @@
 ---
 id: 705
 title: Finding and Connecting People to Infrastructure using Satellite Imagery and Mathematical Modeling
-author: Modi Research Group
+author: modi-research-group
 excerpt: We are creating a streamlined infrastructure planning system to help local leaders, financiers and utility owners explore scenarios, communicate and negotiate visually.
-layout: post
 guid: http://modi.mech.columbia.edu/?p=705
 permalink: /finding-and-connecting-people-to-infrastructure-using-satellite-imagery-and-mathematical-modeling/
 image:
   - /assets/uploads/blog/2010/04/infrastructure-types-with-border5.jpg
-categories:
+tags:
   - Energy Planning
   - GIS Remote Sensing
-tags:
   - Data-Driven Planning
-  - Energy Planning
   - Open Source Technology
 ---
 Success in an infrastructure project depends as much on local support and participation as it does on coordination between politicians, financiers and utilities ([Tufte and Mefalopulos 2009][1]). We wanted to create a freely accessible tool for non-technical people to experience the infrastructure planning process and see the impact of different decisions on the community. By experimenting first-hand with web-based software, a user can understand on a map how changes in population, pricing and fiscal policy influence where infrastructure is built, who will get access and why different technologies such as off-grid solar, mini-grid diesel or bio-diesel and grid affect cost. 
@@ -27,7 +24,9 @@ Our lab combined technical expertise from remote sensing, operations research an
 
 [<img class="alignnone size-large wp-image-792" title="From remote sensing to geospatial optimization" alt="From remote sensing to geospatial optimization" src="/assets/uploads/blog/2013/06/triptych-revised-1023x333.png" width="553" height="180" />][2] 
 
-**Where do people live?**  The remote sensing component finds where people live using image recognition on satellite imagery. 
+**Where do people live?**
+
+The remote sensing component finds where people live using image recognition on satellite imagery.
 
 [<img class="alignnone size-full wp-image-788" title="Result from scanning our building detector over farmland in Koraro, Ethiopia where red points mark computer guesses and white points mark human guesses" alt="Result from scanning our building detector over farmland in Koraro, Ethiopia where red points mark computer guesses and white points mark human guesses" src="/assets/uploads/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg" width="646" height="618" />][3] 
 
@@ -35,15 +34,17 @@ Results from the remote sensing component provide a spatial census, enabling us 
 
 The command-line software to perform remote sensing was completed in 2008. We are in the process of optimizing the software to run on [graphical processing units][6] (GPUs) to make the system accessible via web. 
 
-**How can we provide access to electricity?**  The econometric and operations research component uses demographics and pricing models to project electricity demand, cost and placement (
+**How can we provide access to electricity?**
 
-[Parshall, Pillai, Mohan, Sanoh, Modi 2009][7]). Users can freely explore what-if scenarios by changing the many parameters and see on a map what technology makes sense for each community, where and how much it will cost. 
+The econometric and operations research component uses demographics and pricing models to project electricity demand, cost and placement ([Parshall, Pillai, Mohan, Sanoh, Modi 2009][7]). Users can freely explore what-if scenarios by changing the many parameters and see on a map what technology makes sense for each community, where and how much it will cost.
 
 We have created a web-based prototype of the infrastructure planning component that is being used this semester by students of the [Master&#8217;s in Development Practice][8] program at Columbia University. We are currently improving the map-based user interface and you will be able to use it through your browser soon. [2013 update: [ Network Planner ][9] is live and functioning in browsers.] 
 
-**The power of open source software**  Both systems are built entirely using open source components such as 
+**The power of open source software**
 
-[Python][10], [GDAL][11], [GEOS][12], [Lush][13], [OpenLayers ][14]and [AMQP][15]. </p>
+Both systems are built entirely using open source components such as
+
+[Python][10], [GDAL][11], [GEOS][12], [Lush][13], [OpenLayers ][14]and [AMQP][15].
 
 ### References
 
@@ -211,7 +212,7 @@ Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a pr
  [16]: http://www.pnas.org/content/104/43/16775.abstract
  [17]: /assets/uploads/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_491.jpg
  [18]: http://us.pycon.org/2010/conference/schedule/event/97/
- [19]: /assets/uploads/blog/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png
+ [19]: http://pyvideo.org/video/337/how-python-is-guiding-infrastructure-construction
  [20]: http://www.earthinstitute.columbia.edu/videos/watch/56
  [21]: http://www.earthinstitute.columbia.edu/videos/watch/5
  [22]: http://www.earthinstitute.columbia.edu/videos/watch/55

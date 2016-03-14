@@ -1,13 +1,12 @@
 ---
 id: 4
 title: Cookstove Study
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=4
 permalink: /cookstove/
 image:
   - /assets/uploads/blog/2010/04/692391.jpg
-categories:
+tags:
   - Biomass Cook Stoves
   - Millenium Villages Project
 ---

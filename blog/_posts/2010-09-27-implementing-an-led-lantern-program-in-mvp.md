@@ -1,18 +1,14 @@
 ---
 id: 1374
 title: 'Lessons Learned:  Implementing a LED Lantern Program in the Millennium Villages'
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1374
 permalink: /implementing-an-led-lantern-program-in-mvp/
 image:
   - /assets/uploads/blog/2010/09/clip_image001.jpg
-categories:
-  - LED Lighting
-  - Millenium Villages Project
 tags:
   - LED Lighting
-  - MVP
+  - Millenium Villages Project
 ---
 **Overview of MVP Lantern Program** 
 

@@ -1,15 +1,13 @@
 ---
 id: 268
 title: Community Radio in Uganda
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modi.buildafrica.org/?p=268
 permalink: /community-radio-project/
 image:
   - /assets/uploads/blog/2010/01/radio.jpg
-categories:
+tags:
   - Millenium Villages Project
-  - Uncategorized
 ---
 Spearheaded by Owen Kibenge, a Ugandan journalist studying journalism at Columbia University and affiliated with the Modi Lab, Millennium Voice 102.2 FM, is a new radio station being set up in Ruhiira, Uganda one of the Millennium Villages Sites. 
 

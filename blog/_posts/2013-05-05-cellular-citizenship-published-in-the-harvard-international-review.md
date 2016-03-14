@@ -1,16 +1,13 @@
 ---
 id: 11
 title: '&#8220;Cellular Citizenship&#8221; published in the Harvard International Review'
-author: Modi Research Group
-layout: post
+author: modi-research-group
 guid: http://modilabs.org/?p=11
 permalink: /cellular-citizenship-published-in-the-harvard-international-review/
-categories:
-  - 'Data Collection &amp; Analysis'
-  - Nigeria Scale-up Initiative
 tags:
-  - Android
   - Data Collection
+  - Nigeria Scale-up Initiative
+  - Android
   - Formhub
 ---
 <img class="alignleft" alt="Harvard International Review's Mobile Might issue" src="/assets/uploads/blog/2013/05/harvardmag.png" alt="harvardmag" width="282" height="351" class="alignnone size-full wp-image-2319" /> 
@@ -21,6 +18,8 @@ The Harvard International Review&#8217;s &#8220;Mobile Might&#8221; issue for w
 
 The conclusion, followed by a link to the article: 
 
-> One of the keys to closing the poverty gap is to provide planners with increased access to accurate and up-to-date data that mobile data collection systems are making increasingly possible. Not only are these new approaches more cost-effective and efficient, but they also allow for the use of more sophisticated geospatial-based planning methods. Data sharing has also facilitated increased harmonization between government agencies while strengthening cross-sectoral planning capacity at the local level. Better planning should translate to better investments and hopefully more meaningful impacts on outcomes. Through improved means of verification, not only can communities hold governments and service providers more accountable, but they must also be active participants as service delivery performance becomes increasingly tied to real-time data.[Berg, Matt, Prabhas Pokharel, Annika Sweetland, and Vijay Modi. *Cellular Citizenship*. Harvard International Review, 2013][1]
+> One of the keys to closing the poverty gap is to provide planners with increased access to accurate and up-to-date data that mobile data collection systems are making increasingly possible. Not only are these new approaches more cost-effective and efficient, but they also allow for the use of more sophisticated geospatial-based planning methods. Data sharing has also facilitated increased harmonization between government agencies while strengthening cross-sectoral planning capacity at the local level. Better planning should translate to better investments and hopefully more meaningful impacts on outcomes. Through improved means of verification, not only can communities hold governments and service providers more accountable, but they must also be active participants as service delivery performance becomes increasingly tied to real-time data.
+
+[Berg, Matt, Prabhas Pokharel, Annika Sweetland, and Vijay Modi. *Cellular Citizenship*. Harvard International Review, 2013][1]
 
  [1]: http://hir.harvard.edu/cellular-citizenship

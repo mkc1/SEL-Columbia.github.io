@@ -1,6 +1,5 @@
 ---
 title: About
-layout: default
 ---
 
 <div class="row">
@@ -21,7 +20,8 @@ layout: default
   </div>
 </div>
 
-{% for member in site.categories.team reversed %}
+{% assign current = site.team | where:"status","current" %}
+{% for member in current %}
 {% cycle 'add rows': '<div class="row">', nil, nil, nil %}
 <div class="col-md-3">
     <div class="media">
@@ -30,7 +30,7 @@ layout: default
         </a>
         <div class="media-body">
             <div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.full_name}}</a></div>
-            <p class="note">{{ member.title }}</p>
+            <p class="note">{{ member.position }}</p>
         </div>
     </div>
 </div>    
@@ -47,7 +47,8 @@ layout: default
     </h2>  </div>
 </div>
 
-{% for alum in site.categories.alumni reversed %}
+{% assign former = site.team | where:"status","former" %}
+{% for alum in former %}
 <div class="row">
     <div class="col-md-2">
         {{ alum.full_name }}
