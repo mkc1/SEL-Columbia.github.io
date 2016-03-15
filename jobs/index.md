@@ -26,11 +26,9 @@ title: Jobs
   Current opportunities:
 </h2>
   {% for post in site.categories.jobs %}
-    <li>
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      <h1>
+        {{ post.title }}
+      </h1>
       <p>{{post.content}}</p>
-    </li>
   {% endfor %}
 </ul>
