@@ -39,7 +39,7 @@ title: Jobs
 <ul style="color: #000000;">
 	<li>Nigeria Scale-up Initiative &#8211; Taking the lessons of the Millennium Villages (http://www.millenniumvillages.org/) to scale in a partnership with Nigeria&#8217;s Presidential taskforce on the Millennium Development goals. <a href="/tags/#Nigeria Scale-up Initiative">See related blog posts</a></li>
 	<li><a href="/dristhi/">Dristhi</a> &#8211; Mobile-based patient tracking for rural nurse midwives.</li>
-	<li><a href="/projects">Solar Irrigation</a> &#8211; Smart solar irrigation in Senegal.</li>
+	<li><a href="/smart-solar-irrigation/">Solar Irrigation</a> &#8211; Smart solar irrigation in Senegal.</li>
 </ul>
 <p style="color: #000000;">Software examples:</p>
 
