@@ -9,13 +9,13 @@ related_blog_entries: /tags/#Shared Solar
 summary: "Most rural communities have two options for electrification: wait for the electricity grid, or installing their own home-based systems with high up-front costs. SharedSolar introduces a third: community-based solar grids with smart metering, and mobile phone-based pre-paid credit that allow electricity purchase in small increments."
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <img src="/assets/uploads/blog/2014/10/sharedSolar_hero.jpg" alt="sharedSolar_hero" />
   </div>
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <br /> 
     
     <p>
@@ -23,7 +23,7 @@ summary: "Most rural communities have two options for electrification: wait for 
     </p>
   </div>
   
-  <div class="span3">
+  <div class="col-md-3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">
@@ -49,7 +49,7 @@ summary: "Most rural communities have two options for electrification: wait for 
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <hr />
     
     <h3>
@@ -69,7 +69,7 @@ summary: "Most rural communities have two options for electrification: wait for 
 
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <hr />
     
     <h3>
@@ -92,7 +92,7 @@ summary: "Most rural communities have two options for electrification: wait for 
       </p></div> </div> 
       
       <div class="row-fluid">
-        <div class="span9">
+        <div class="col-md-9">
           <hr />
           
           <h3>

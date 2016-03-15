@@ -8,13 +8,13 @@ related_blog_entries: /tags#Smart Solar Irrigation
 summary: "Irrigation of crops is critical to agricultural success, but in Senegal, this task is usually done by hand and can take all day. High fuel costs make gasoline pumps unaffordable and initial investment costs of stand-alone solar are too high for small scale farmers. The Sustainable Engineering Lab, as part of <a href=\"http://www.poweringag.org/\">Powering Agriculture: An Energy Grand Challenge for Development Initiative</a>, is piloting research in the <a href=\"http://millenniumvillages.org/\">Millennium Village</a> of Potou, to reduce the price of energy for farmers by introducing solar PV as a reliable and cost-effective alternative. The grant is supported by the U.S. Agency for International Development (USAID) the Swedish Government, Duke Energy, and the German Organization for International Cooperation (GIZ)."
 ---
 <div class="row-fluid">
-  <div class="span12">
+  <div class="col-md-12">
     <img src="/assets/uploads/blog/2015/01/pumping_flow.jpg" alt="Water Flowing" width="1763" height="447" />
   </div>
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <br /> 
     
     <p>
@@ -25,7 +25,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
       The Niayes zone of Senegal is responsible for more than half of the country’s horticultural production. Finding a way to reduce production costs for farmers in this area can potentially lead to major economic gains.
     </p>
   
-  <div class="span3">
+  <div class="col-md-3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">
@@ -51,7 +51,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 </div>
 
 <div class="row-fluid">
-  <div class="span9" margin-left="0">
+  <div class="col-md-9" margin-left="0">
     The Sustainable Engineering Lab (SEL) has launched an innovative batteryless solar PV irrigation system in northern Senegal. The centralized 6.8kW solar array provides distributed 3-phase AC power to seven horticulture farmers that have their own shallow wells and 1-hp AC pumps. Our pre-paid smart-control system distributes energy to individual pumps as it becomes available throughout the day, enabling us to meet irrigation demand without the high capital and recurring costs of battery storage. Farmers maintain their existing gas-powered pumps as backups but we have set the price of solar energy slightly lower than the price of gasoline so that the farmers opt for the cheaper solar.
   </div>
 </div></div> 
@@ -59,30 +59,30 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 * * *
 
 <div class="row-fluid" style="background:#FFFFFF;">
-  <div class="span12" style="padding:0px 0px 0px 30px;">
+  <div class="col-md-12" style="padding:0px 0px 0px 30px;">
   </div>
 </div>
 
 <div class="row-fluid" style="background:#FFFFFF;">
-  <div class="span12">
+  <div class="col-md-12">
     <img src="/assets/uploads/blog/2014/10/solar_ag_how_it_works.png" alt="solar_ag_how_it_works" width="940" height="437" />
   </div>
 </div>
 
 <div class="row-fluid" style="background:#FFFFFF;">
-  <div class="span4" style="padding:30px;">
+  <div class="col-md-4" style="padding:30px;">
     <p>
       <strong>Centralized solar &#038; monitoring</strong><br />Electricity is generated centrally by a single, solar PV array. A custom-made battery-less AC system controls and monitors pump function for 7+ farmers.
     </p>
   </div>
   
-  <div class="span4" style="padding:30px;">
+  <div class="col-md-4" style="padding:30px;">
     <p>
       <strong>Pre-paid credit</strong><br />Electricity is sold by a micro-utility to farmers using a pre-paid credit system similar to cell phone scratch card systems, only paying for what they consume.
     </p>
   </div>
   
-  <div class="span4" style="padding:30px;">
+  <div class="col-md-4" style="padding:30px;">
     <p>
       <strong>Decentralized pumps</strong><br />Farmers retain autonomy of their individual wells and pumps.
     </p>
@@ -92,7 +92,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="col-md-9">
     <h3>
       Benefits
     </h3>
@@ -125,7 +125,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
       </p></div> </div> 
       
       <div class="row-fluid">
-        <div class="span9">
+        <div class="col-md-9">
           <hr />
           
           <h3>
