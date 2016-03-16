@@ -1,23 +1,32 @@
 ---
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.categories.blog %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class = "banner">
+  <div id="map" style="width:940px;height:325px;"><a href="http://sel.columbia.edu/nycenergy/"><img alt="" src="/assets/uploads/blog/2014/08/EnergyUsageMap.png" /></a></div>
+    <div class = "hero-unit">
+      <h2> We're a research lab that goes a step further&mdash;<br />transforming concrete data into sustainable solutions <br />for the world's most critical problems. </h2>
+      <a class="btn btn-success" href = "/about/">LEARN MORE ABOUT THE LAB</a>
+    </div>
+  </div>
+  <hr class = 'gray'>
+  <div class = "row">
+    <div class = "col-md-12">
+      <div class = "row">
+	<div class = "col-md-6 recent-posts">
+	  <h3 class="widget-title srp-widget-title">Special Recent Posts</h3>
+          <div class="srp-widget-container">
+            {% assign counter = 0 %}
+            {% for post in site.categories.blog limit: 5 %}
+              {% assign counter = counter | plus: 1 %}
+              {% include special_recent_post_summary.html post=post counter=counter %}
+            {% endfor %}
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class = "span6 recent-tweets">
+  <h3 class="widget-title srp-widget-title">Recent Tweets</h3>
+    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/sel_columbia" data-widget-id="710143828783714305">Tweets by @sel_columbia</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
