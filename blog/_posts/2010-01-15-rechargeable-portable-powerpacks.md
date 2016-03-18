@@ -4,7 +4,6 @@ title: Rechargeable Portable PowerPacks
 author: modi-research-group
 excerpt: The portable PowerPack has multiple potential uses but was primarily designed to address the lighting needs of rural populations in developing countries where nearly two billion people worldwide currently lack access to electric lighting.
 guid: http://modi.buildafrica.org/?p=290
-permalink: /rechargeable-portable-powerpacks/
 image:
   - /assets/uploads/blog/2010/04/powerpack.jpg
 tags:

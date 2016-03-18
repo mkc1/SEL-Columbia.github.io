@@ -3,7 +3,6 @@ id: 3302
 title: 'Modi to SEL: New Name, Same Great Engineering'
 author: roger-wong
 guid: http://modi.mech.columbia.edu/?p=3302
-permalink: /modi-to-sel-new-name-same-great-engineering/
 tags:
   - News
 ---

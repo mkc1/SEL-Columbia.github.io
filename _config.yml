@@ -18,6 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 gems:
   - jekyll-redirect-from
 
+permalink: /:title/
+
 # Build settings
 markdown: kramdown
 

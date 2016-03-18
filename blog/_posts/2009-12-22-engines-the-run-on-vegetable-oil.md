@@ -3,7 +3,6 @@ id: 318
 title: Engines that run on Vegetable Oil
 author: modi-research-group
 guid: http://modi.buildafrica.org/?p=24
-permalink: /engines-the-run-on-vegetable-oil/
 image:
   - /assets/uploads/blog/2010/04/JatrophaSignificance_clip_image002.jpg
 comment: This image seems to be missing -- vr2262

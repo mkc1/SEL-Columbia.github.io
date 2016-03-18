@@ -3,7 +3,6 @@ id: 3778
 title: New Options for Formhub Users
 author: denis-papathanasiou
 guid: http://sel.columbia.edu/?p=3778
-permalink: /new-options-for-formhub-users/
 tags:
   - Data Collection
 ---

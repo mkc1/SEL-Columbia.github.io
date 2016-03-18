@@ -3,7 +3,6 @@ id: 319
 title: Penetration of Solar Power without Storage
 author: modi-research-group
 guid: http://modi.buildafrica.org/?p=247
-permalink: /penetration-of-solar-power-without-storage/
 image:
   - /assets/uploads/blog/2010/04/cellcharging.jpg
 tags:

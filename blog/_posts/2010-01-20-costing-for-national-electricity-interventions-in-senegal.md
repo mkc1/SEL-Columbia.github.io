@@ -3,7 +3,6 @@ id: 323
 title: Costing for National Electricity Interventions in Senegal
 author: jpeacock
 guid: http://modi.buildafrica.org/?p=302
-permalink: /costing-for-national-electricity-interventions-in-senegal/
 image:
   - /assets/uploads/blog/2010/04/senegal.jpg
 tags:
