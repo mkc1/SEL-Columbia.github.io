@@ -75,33 +75,200 @@ defaults:
 # Configurations for Prose
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  #ignore: ['file_a.html', '_config.yml']
-  #site:
-  #media: ""
+  siteurl: "http://sel.columbia.edu"
+  ignore:
+  - /css
+  - /assets/js
+  - /assets/uploads/blog
+  - /assets/uploads/projects
+  - /assets/uploads/theme
+  - Gemfile
+  - .gitignore
+  - .travis.yml
+  - /_includes
+  - /_layouts
+  - /_sass
+  - /_helpful_scripts
+  - feed.xml
+  - README.md
+  - index.html
+  - index.md
+  - tags.html
+  - /blog/archive
+  media: "assets/uploads"
   metadata:
-    _posts:
+    about/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
       - name: "title"
         field:
           element: "text"
-          label: "title"
-      - name: "layout"
+    _team:
+      - name: "published"
         field:
           element: "hidden"
-          label: "Layout"
-          value: "post"
-      - name: "categories"
+          value: true
+      - name: "status"
         field:
-          element: "multiselect"
-          label: "Add categories"
-          placeholder: "Choose categories"
+          element: "select"
+          label: "Team member status"
           options:
-            - name: "Infrastructure"
-              value: Infrastructure
-            - name: "Energy Planning"
-              value: energy planning
-          alterable: true
-      - name: "tags"
+            - name: "Current"
+              value: "current"
+            - name: "Former"
+              value: "former"
+      - name: "full_name"
+        field:
+          element: "text"
+          label: "Full name"
+      - name: "photo"
+        field:
+          element: "text"  # make this a multiselect
+          label: "Photo file path"
+      - name: "position"
+        field:
+          element: "text"
+          label: "Position"
+      - name: "email"
+        field:
+          element: "text"
+          label: "E-mail address"
+      - name: "github"
+        field:
+          element: "text"
+          label: "GitHub username"
+      - name: "employer"
+        field:
+          element: "text"
+          label: "Employer"
+    blog/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+      - name: "author"  # make this a multiselect
+        field:
+          element: "text"
+          label: "Author"
+      - name: "tags"  # make this a multiselect
         field:
           element: "text"
           label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
+    jobs/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+      - name: "author"  # make this a multiselect
+        field:
+          element: "text"
+          label: "Author"
+      - name: "tags"  # make this a multiselect
+        field:
+          element: "text"
+          label: "Tags"
+    products-tools/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+      - name: "image-link"
+        field:
+          element: "text"
+          label: "Product or Tool URL"
+      - name: "image-source"
+        field:
+          element: "text"  # make this a multiselect
+          label: "Image file path"
+      - name: "image-alt"
+        field:
+          element: "text"
+          label: "Alt-text for the image"
+      - name: "image-height"
+        field:
+          element: "number"
+          label: "Image height in pixels"
+      - name: "image-width"
+        field:
+          element: "number"
+          label: "Image width in pixels"
+    projects/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+      - name: "author"  # make this a multiselect
+        field:
+          element: "text"
+          label: "Author"
+      - name: "tags"  # make this a multiselect
+        field:
+          element: "text"
+          label: "Tags"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Project type"
+          options:
+            - name: "ICT4D and Development Planning"
+              value: "ICT4D and Development Planning"
+            - name: "Sustainable Energy"
+              value: "Sustainable Energy"
+      - name: "image"
+        field:
+          element: "text"  # make this a multiselect
+          label: "Image file path"
+      - name: "main_link"
+        field:
+          element: "text"
+          label: "Main project URL"
+      - name: "project_page"
+        field:
+          element: "text"
+          label: "Project page URL"
+      - name: "full_report"
+        field:
+          element: "text"
+          label: "Full report URL"
+      - name: "related_blog_entries"  # make this a multiselect
+        field:
+          element: "text"
+          label: "URL for related blog entries' tag"
+      - name: "location"
+        field:
+          element: "text"
+          label: "Project location"
+      - name: "summary"
+        field:
+          element: "textarea"
+          label: "Project summary"
+    publications/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+      - name: "link"
+        field:
+          element: "text"
+          label: "Publication URL"
+      - name: "tags"  # make this a multiselect
+        field:
+          element: "text"
+          label: "Tags"
