@@ -3,7 +3,6 @@ id: 4348
 title: SEL launches global facility registry @ revisit.global
 author: john-humphrey
 guid: http://sel.columbia.edu/?p=4348
-permalink: /sel-launches-global-facility-registry-revisit-global/
 tags:
   - Data Collection
   - Energy Planning

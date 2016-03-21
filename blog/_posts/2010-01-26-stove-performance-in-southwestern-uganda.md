@@ -3,7 +3,6 @@ id: 541
 title: Stove Performance in Southwestern Uganda
 author: modi-research-group
 guid: http://modi.buildafrica.org/?p=541
-permalink: /stove-performance-in-southwestern-uganda/
 image:
   - /assets/uploads/blog/2010/04/tyler-stove.jpg
 tags:

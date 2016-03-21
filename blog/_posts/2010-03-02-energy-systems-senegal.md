@@ -4,7 +4,6 @@ title: 'Energy Systems Update &#8211; MVP Potou, Senegal'
 author: modi-research-group
 excerpt: 'Energy Systems Update - MVP Potou, Senegal'
 guid: http://modi.buildafrica.org/?p=629
-permalink: /energy-systems-senegal/
 image:
   - /assets/uploads/blog/2010/04/potoucomps-border.png
 tags:

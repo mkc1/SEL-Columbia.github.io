@@ -3,7 +3,6 @@ id: 4184
 title: SEL team visits with irrigation pump controller manufacturer in India
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=4184
-permalink: /sel-team-visits-with-irrigation-pump-controller-manufacturer-in-india/
 tags:
   - News
   - Smart Solar Irrigation

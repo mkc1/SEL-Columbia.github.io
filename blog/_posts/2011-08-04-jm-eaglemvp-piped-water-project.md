@@ -3,7 +3,6 @@ id: 1693
 title: JM Eagle + MVP Piped Water Project
 author: modi-research-group
 guid: http://modi.mech.columbia.edu/?p=1693
-permalink: /jm-eaglemvp-piped-water-project/
 image:
   - 
 tags:

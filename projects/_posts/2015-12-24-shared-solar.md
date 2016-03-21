@@ -4,7 +4,6 @@ author: candice-heberer
 type: ICT4D and Development Planning
 image: /assets/uploads/blog/2013/05/sharedSolar.jpg
 main_link: /shared-solar/
-permalink: /shared-solar/
 location: Uganda, Mali, Bolivia
 related_blog_entries: /tags/#Shared Solar
 summary: "Most rural communities have two options for electrification: wait for the electricity grid, or installing their own home-based systems with high up-front costs. SharedSolar introduces a third: community-based solar grids with smart metering, and mobile phone-based pre-paid credit that allow electricity purchase in small increments."

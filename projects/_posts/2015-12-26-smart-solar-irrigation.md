@@ -4,7 +4,6 @@ author: candice-heberer
 type: Sustainable Energy
 image: /assets/uploads/blog/2013/05/smartSolar_2.jpg
 main_link: /smart-solar-irrigation/
-permalink: /smart-solar-irrigation/
 related_blog_entries: /tags#Smart Solar Irrigation
 summary: "Irrigation of crops is critical to agricultural success, but in Senegal, this task is usually done by hand and can take all day. High fuel costs make gasoline pumps unaffordable and initial investment costs of stand-alone solar are too high for small scale farmers. The Sustainable Engineering Lab, as part of <a href=\"http://www.poweringag.org/\">Powering Agriculture: An Energy Grand Challenge for Development Initiative</a>, is piloting research in the <a href=\"http://millenniumvillages.org/\">Millennium Village</a> of Potou, to reduce the price of energy for farmers by introducing solar PV as a reliable and cost-effective alternative. The grant is supported by the U.S. Agency for International Development (USAID) the Swedish Government, Duke Energy, and the German Organization for International Cooperation (GIZ)."
 ---

@@ -3,7 +3,6 @@ id: 3737
 title: 'Potential for Regional Use of East Africa&#8217;s Natural Gas'
 author: jonathan-demierre
 guid: http://sel.columbia.edu/?p=3737
-permalink: /public-potential-for-regional-use-of-east-africas-natural-gas/
 tags:
   - Natural Gas
   - Infrastructure Planning

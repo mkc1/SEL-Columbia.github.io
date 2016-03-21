@@ -4,7 +4,6 @@ author: candice-heberer
 type: ICT4D and Development Planning
 image: /assets/uploads/blog/2014/03/infrastructureMVP.jpg
 main_link: /millenium-villages-project/
-permalink: /millenium-villages-project/
 related_blog_entries: /tags/#Millenium Villages Project
 location: Multiple Sites, Sub-Saharan Africa
 summary: "The Earth Institute’s Millennium Villages project (MVP) is striving to help nearly 400,000 people across 10 African countries to meet the MDGs by 2015. It is widely recognized that infrastructure is an essential building block for countries to meet their larger development goals. The Sustainable Engineering Lab has been influential in shaping the MVP’s evolution through a set of innovative water and energy solutions.
