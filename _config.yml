@@ -222,8 +222,8 @@ prose:
           element: "select"
           label: "Project type"
           options:
-            - name: "ICT4D and Development Plannin"
-              value: "ICT4D and Development Plannin"
+            - name: "ICT4D and Development Planning"
+              value: "ICT4D and Development Planning"
             - name: "Sustainable Energy"
               value: "Sustainable Energy"
       - name: "image"
