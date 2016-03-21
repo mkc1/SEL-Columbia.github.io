@@ -82,6 +82,7 @@ defaults:
 prose:
   siteurl: "http://sel.columbia.edu"
   ignore:
+  - _config.yml
   - /css
   - /assets/js
   - /assets/uploads/blog
