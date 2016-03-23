@@ -71,12 +71,18 @@ defaults:
       type: "posts"
     values:
       layout: "page"
+  -
+    scope:
+      path: "data"
+    values:
+      layout: null
 
 # Configurations for Prose
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
   siteurl: "http://sel.columbia.edu"
   ignore:
+  - _config.yml
   - /css
   - /assets/js
   - /assets/uploads/blog
@@ -125,8 +131,9 @@ prose:
           label: "Full name"
       - name: "photo"
         field:
-          element: "text"  # make this a multiselect
-          label: "Photo file path"
+          element: "select"
+          label: "Photo file path:"
+          options: "http://sel-columbia.github.io/data/team_photos.jsonp?callback=team_photos"
       - name: "position"
         field:
           element: "text"
@@ -151,14 +158,17 @@ prose:
       - name: "title"
         field:
           element: "text"
-      - name: "author"  # make this a multiselect
+      - name: "author"
         field:
-          element: "text"
-          label: "Author"
-      - name: "tags"  # make this a multiselect
+          element: "select"
+          label: "Author:"
+          options: "http://sel-columbia.github.io/data/authors.jsonp?callback=authors"
+      - name: "tags"
         field:
-          element: "text"
-          label: "Tags"
+          element: "multiselect"
+          label: "Tags:"
+          options: "http://sel-columbia.github.io/data/tags.jsonp?callback=tags"
+          alterable: true
     jobs/_posts:
       - name: "published"
         field:
@@ -167,14 +177,17 @@ prose:
       - name: "title"
         field:
           element: "text"
-      - name: "author"  # make this a multiselect
+      - name: "author"
         field:
-          element: "text"
-          label: "Author"
-      - name: "tags"  # make this a multiselect
+          element: "select"
+          label: "Author:"
+          options: "http://sel-columbia.github.io/data/authors.jsonp?callback=authors"
+      - name: "tags"
         field:
-          element: "text"
-          label: "Tags"
+          element: "multiselect"
+          label: "Tags:"
+          options: "http://sel-columbia.github.io/data/tags.jsonp?callback=tags"
+          alterable: true
     products-tools/_posts:
       - name: "published"
         field:
@@ -189,8 +202,9 @@ prose:
           label: "Product or Tool URL"
       - name: "image-source"
         field:
-          element: "text"  # make this a multiselect
-          label: "Image file path"
+          element: "select"
+          label: "Image file path:"
+          options: "http://sel-columbia.github.io/data/images.jsonp?callback=images"
       - name: "image-alt"
         field:
           element: "text"
@@ -211,14 +225,17 @@ prose:
       - name: "title"
         field:
           element: "text"
-      - name: "author"  # make this a multiselect
+      - name: "author"
         field:
-          element: "text"
-          label: "Author"
-      - name: "tags"  # make this a multiselect
+          element: "select"
+          label: "Author:"
+          options: "http://sel-columbia.github.io/data/authors.jsonp?callback=authors"
+      - name: "tags"
         field:
-          element: "text"
-          label: "Tags"
+          element: "multiselect"
+          label: "Tags:"
+          options: "http://sel-columbia.github.io/data/tags.jsonp?callback=tags"
+          alterable: true
       - name: "type"
         field:
           element: "select"
@@ -230,8 +247,9 @@ prose:
               value: "Sustainable Energy"
       - name: "image"
         field:
-          element: "text"  # make this a multiselect
-          label: "Image file path"
+          element: "select"
+          label: "Image file path:"
+          options: "http://sel-columbia.github.io/data/images.jsonp?callback=images"
       - name: "main_link"
         field:
           element: "text"
@@ -244,10 +262,11 @@ prose:
         field:
           element: "text"
           label: "Full report URL"
-      - name: "related_blog_entries"  # make this a multiselect
+      - name: "related_blog_entries"
         field:
-          element: "text"
-          label: "URL for related blog entries' tag"
+          element: "select"
+          label: "URL for related blog entries' tag:"
+          options: "http://sel-columbia.github.io/data/related_blog_entries.jsonp?callback=related_blog_entries"
       - name: "location"
         field:
           element: "text"
@@ -268,7 +287,9 @@ prose:
         field:
           element: "text"
           label: "Publication URL"
-      - name: "tags"  # make this a multiselect
+      - name: "tags"
         field:
-          element: "text"
-          label: "Tags"
+          element: "multiselect"
+          label: "Tags:"
+          options: "http://sel-columbia.github.io/data/tags.jsonp?callback=tags"
+          alterable: true
