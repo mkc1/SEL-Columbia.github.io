@@ -3,9 +3,9 @@ title: About
 ---
 
 <div class="row">
-  <div class="col-md-9 col-lg-6 col-sm-12"> 
+  <div class="span9 col-lg-6 col-sm-12"> 
     <h2>Mission</h2>
-    <p>The Sustainable Engineering Lab at the School of Engineering (SEAS) and The Earth Institute, Columbia University uses engineering to help address development issues. We engineer software solutions to help make development planning smarter and to improve the delivery of critical services like health and energy in the developing world.</p> 
+    The Sustainable Engineering Lab at the School of Engineering (SEAS) and The Earth Institute, Columbia University uses engineering to help address development issues. We engineer software solutions to help make development planning smarter and to improve the delivery of critical services like health and energy in the developing world.
   </div>
 </div>
 
@@ -23,7 +23,7 @@ title: About
 {% assign current = site.team | where:"status","current" %}
 {% for member in current %}
 {% cycle 'add rows': '<div class="row">', nil, nil, nil %}
-<div class="col-md-3">
+<div class="span3">
     <div class="media">
         <a class="pull-left" href="{{ member.url }}">
         <img class="media-object" src="{{ member.photo }}">
@@ -50,17 +50,17 @@ title: About
 {% assign former = site.team | where:"status","former" %}
 {% for alum in former %}
 <div class="row">
-    <div class="col-md-2">
+    <div class="span2">
         {{ alum.full_name }}
     </div>
-    <div class="col-md-2">
+    <div class="span2">
         {{ alum.employer }}
     </div>
 </div>
 
 {% endfor %}
 <div class="row">
-  <div class="col-md-9 col-lg-6 col-sm-12"> 
+  <div class="span9 col-lg-6 col-sm-12"> 
     <h2>Partners</h2>
     <p>
       We work with diverse partners, ranging from small non-profit organizations to large government bodies, mainly working in the developing world.

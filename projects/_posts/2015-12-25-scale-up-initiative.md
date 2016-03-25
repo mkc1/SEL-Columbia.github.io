@@ -14,7 +14,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
 </p>
 
 <div class="row-fluid">
-  <div class="col-md-9">
+  <div class="span9">
     <br /> 
     
     <p>
@@ -22,11 +22,11 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
     </p>
     
     <p>
-      In order to support the CGS, and as part of their goal to promote the use of data in the local planning process, OSSAP-MDGs in partner with SEL undertook a rigorous, geo-referenced baseline facility inventory across Nigeria col-md-ning from 2009 to 2011 with a supporting collection in 2014. The aim of this survey effort was to collect geo-referenced facility-level data for all of the nation’s health, education and water facilities. This data can inform level, state, and federal interventions towards closing gaps and improving indicators targeted at achieving the MDGs.
+      In order to support the CGS, and as part of their goal to promote the use of data in the local planning process, OSSAP-MDGs in partner with SEL undertook a rigorous, geo-referenced baseline facility inventory across Nigeria spanning from 2009 to 2011 with a supporting collection in 2014. The aim of this survey effort was to collect geo-referenced facility-level data for all of the nation’s health, education and water facilities. This data can inform level, state, and federal interventions towards closing gaps and improving indicators targeted at achieving the MDGs.
     </p>
   </div>
   
-  <div class="col-md-3">
+  <div class="span3">
     <br /> 
     
     <p class="wp-caption-text" style="line-height:17pt;">
@@ -56,7 +56,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
 </div>
 
 <div class="row-fluid">
-  <div class="col-md-9">
+  <div class="span9">
     <p>
       The end result is an online portal, the Nigeria MDG Information System (NMIS), that displays all of the data collected. NMIS has proven to be an invaluable planning tool for local government areas. In Summer 2014, OSSAP will take this initiative further and open the data to the public. The hope is to encourage and help other organizations better plan future infrastructure and move Nigeria closer to achieving the MDGs. It is designed to be used by planners, researchers and the broader global development community.
     </p></br> 
