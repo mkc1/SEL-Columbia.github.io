@@ -1,9 +1,12 @@
-# SEL Website Migration
+# Sustainable Engineering Lab Website
 
-To run this in terminal:
+To install:
 
-```bash
-jekyll serve
-```
+    gem install bundler
+    bundle install
 
-Access the site at `localhost:4000`.
+To run:
+
+    bundle exec jekyll serve
+
+Access the site at **http://localhost:4000**.

@@ -5,7 +5,7 @@ author: roger-wong
 <div>
 <h1 class="page-heading">Publications</h1>
 
-<div class="col-md-4" style="float:left; margin:0; width:33%;">
+<div class="span4" style="float:left; margin:0; width:33%;">
   <h2> Infrastructure</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.categories.publications %}
@@ -33,7 +33,7 @@ author: roger-wong
     {% endfor %}
   </ul>
 </div>
-<div class="col-md-4"  style="float:left; margin:0; width:33%;">
+<div class="span4"  style="float:left; margin:0; width:33%;">
   <h2>Energy Planning</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.categories.publications %}
@@ -63,7 +63,7 @@ author: roger-wong
   </ul>
 </div>
 
-<div class="col-md-4"  style="float:left; margin:0; width:33%;">
+<div class="span4"  style="float:left; margin:0; width:33%;">
   <h2>Data Collection & Analysis</h2>
   <ul class="post-list" style="list-style-type:none">
     {% for post in site.categories.publications %}
