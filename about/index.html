@@ -22,21 +22,16 @@ title: About
 
 {% assign current = site.team | where:"status","current" %}
 {% for member in current %}
-{% cycle 'add rows': '<div class="row">', nil, nil, nil %}
-<div class="span3">
-    <div class="media">
-        <a class="pull-left" href="{{ member.url }}">
-        <img class="media-object" src="{{ member.photo }}">
-        </a>
-        <div class="media-body">
-            <div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.full_name}}</a></div>
-            <p class="note">{{ member.position }}</p>
+    <a class="profile" href="{{ member.url }}">
+        <img class="profile_img" src="{{ member.photo }}">
+        <div class="profile_name">
+            {{ member.full_name}}
         </div>
-    </div>
-</div>    
-{% cycle 'close rows': nil, nil, nil, '</div>' %}
+        <div class="profile_position">
+            {{ member.position }}
+        </div>
+    </a>
 {% endfor %}
-{% cycle 'close rows': nil, '</div>', '</div>', '</div>' %}
 
 <!-- Alumni -->
 
