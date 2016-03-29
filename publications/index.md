@@ -3,84 +3,54 @@ title: Publications
 author: roger-wong
 ---
 <div>
-<h1 class="page-heading">Publications</h1>
+  <h2 id="products__tools">Publications</h2>
 
-<div class="span4" style="float:left; margin:0; width:33%;">
-  <h2> Infrastructure</h2>
-  <ul class="post-list" style="list-style-type:none">
-    {% for post in site.categories.publications %}
-      {%if post.tags contains 'Infrastructure' %}
-          <li>
-            <p><strong>
-              <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </strong></p>
-            <p>{{post.content}}</p>
-          </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-  <h2> Water</h2>
-  <ul class="post-list" style="list-style-type:none">
-    {% for post in site.categories.publications %}
-      {%if post.tags contains 'Water' %}
-          <li>
-            <p><strong>
-              <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </strong></p>
-            <p>{{post.content}}</p>
-          </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
-<div class="span4"  style="float:left; margin:0; width:33%;">
-  <h2>Energy Planning</h2>
-  <ul class="post-list" style="list-style-type:none">
-    {% for post in site.categories.publications %}
-      {%if post.tags contains 'Energy Planning' %}
-          <li>
-            <p><strong>
-              <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </strong></p>
-            <p>{{post.content}}</p>
-          </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+  <div class="span4" style="float:left; margin:0; width:33%;">
+    <h3> Infrastructure</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+	{%if post.tags contains 'Infrastructure' %}
+	    {% include publication_listing.html post=post %}
+	{% endif %}
+      {% endfor %}
+    </ul>
+    <h3> Water</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+	{%if post.tags contains 'Water' %}
+	    {% include publication_listing.html post=post %}
+	{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="span4"  style="float:left; margin:0; width:33%;">
+    <h3>Energy Planning</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+	{%if post.tags contains 'Energy Planning' %}
+	    {% include publication_listing.html post=post %}
+	{% endif %}
+      {% endfor %}
+    </ul>
 
-  <h2>Household Energy Usage</h2>
-  <ul class="post-list" style="list-style-type:none">
-    {% for post in site.categories.publications %}
-      {%if post.tags contains 'Household Energy Usage' %}
-          <li>
-            <p><strong>
-              <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </strong></p>
-            <p>{{post.content}}</p>
-          </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+    <h3>Household Energy Usage</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+	{%if post.tags contains 'Household Energy Usage' %}
+	    {% include publication_listing.html post=post %}
+	{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
-<div class="span4"  style="float:left; margin:0; width:33%;">
-  <h2>Data Collection & Analysis</h2>
-  <ul class="post-list" style="list-style-type:none">
-    {% for post in site.categories.publications %}
-      {%if post.tags contains 'Data Collection' %}
-          <li>
-            <p><strong>
-              <a class="post-link" href="{{ post.link }}" target="\_blank">{{ post.title }}</a>
-            </strong>
-            </p>
-            <p>{{post.content}}</p>
-          </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-
+  <div class="span4"  style="float:left; margin:0; width:33%;">
+    <h3>Data Collection & Analysis</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+	{%if post.tags contains 'Data Collection' %}
+	    {% include publication_listing.html post=post %}
+	{% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 </div>
