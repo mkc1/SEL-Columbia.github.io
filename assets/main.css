@@ -86,8 +86,6 @@ footer {
   margin-left: auto;
 }
 
-/* Alan's edits
-------------------------------------------------------- */
 .hero-unit {
    margin: 30px auto 0 auto;
    width: 300px;
@@ -189,11 +187,43 @@ hr.gray {
    margin-top: 10px;
 }
 
-/* Viktor's edits
-------------------------------------------------------- */
 .recent-tweets {
    height: 100%;
 }
+
+/* About Page
+------------------------------------------------------- */
+.profile {
+    cursor: pointer;
+    width: 150px;
+    height: 160px;
+    float: left;
+    margin: 25px 0;
+    margin-right: 25px;
+    text-decoration: none;
+}
+.profile:hover {
+    text-decoration: none;
+}
+.profile_img {
+    display: block;
+    width: 140px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+.profile_name {
+    font-size: 19px;
+    font-weight: bold;
+}
+.profile_position {
+    font-size: 15px;
+    color: #777;
+    line-height: 1.2;
+}
+
+.profile_position {}
+
 
 /* Teams Page
 ------------------------------------------------------- */
@@ -257,70 +287,10 @@ hr.gray {
 .fieldexpert {background-color: #4BA6DD; }
 .design {background-color: #f68e56; }
 
-#team .person .roles .role.Leadership {
-  background: #2bb673;
-}
-#team  .person .roles .role.Research {
-  background: #845ba6;
-}
-#team .person .roles .role.Software {
-  background: #f3c736;
-}
-#team .person .roles .role.Design {
-  background: #f68e56;
-}
-#team .person .roles .role.Data {
-  background: #c7b299;
-}
-#team .person .roles .role.FieldExpert {
-  background: #4BA6DD;
-}
 
 .popover {
   z-index: 10000;
 }
-
-#team .profilebox-wrapper.active-profilebox {
-  z-index: 10000;
-}
-.active-profilebox .profilebox-overlay {
-  display: block;
-  width: 455px;
-  margin: -128px -11px 0 0;
-}
-
-.active-profilebox .roles {
-  display: none;
-}
-
-.profilebox-overlay {
-  display:none;
-  background-color: #fff;
-  z-index: 999999;
-  border: 1px solid #ddd;
-  border-radius: 7px;
-   padding: 7px;
-  float: right;
-}
-
-.profilebox-overlay .photo {
-  background: #eee;
-  width: 140px;
-  height: 120px;
-  border: 0px;
-  margin: auto;
-  border-radius: 7px;
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-}
-
-/*.profilebox-overlay .close-profilebox{
-  text-align: left;
-  float: right;
-  padding-top: 15px;
-  color: #7d7d7d;
-  display: ;
-}*/
 
 .description {
    padding: 10px;
@@ -330,19 +300,6 @@ hr.gray {
   font-weight: 500;
   margin-bottom: 10px;
 
-}
-.profilebox-overlay .contact{
-   padding-top: 5px;
-   font-size: 11px;
-   text-align: left;
-   display:inline;
-   word-wrap: break-word;
-   -ms-word-break: break-all;
-        word-break: break-all;
-
-   -webkit-hyphens: auto;
-      -moz-hyphens: auto;
-           hyphens: auto;
 }
 
 .description h3 {
@@ -356,44 +313,6 @@ hr.gray {
   color: #000;
   font-size: 11px;
   text-transform: uppercase;
-}
-
-.profilebox-overlay a, .block a:visited {
-  color: #000;
-}
-.profilebox-overlay a:hover {
-  color: #2bb673;
-}
-
-.profilebox-overlay .contact-card{
-  float: right;
-   display: block;
-   position: relative;
-   width: 145px;
-}
-
-.onleft{
-  float: left;
-}
-
-.onleft .contact-card{
-  float: left;
-  display: block;
-  position: relative;
-  width: 145px;
-}
-.profilebox-overlay .description{
-  margin-right: 155px;
-}
-
-.onleft .description{
-  margin: 0 0 0 155px;
-}
-
-.active-profilebox .onleft{
-  display: block;
-  width: 454px;
-  margin: -128px 0 0 -10px;
 }
 
 /* Team Page Legend
