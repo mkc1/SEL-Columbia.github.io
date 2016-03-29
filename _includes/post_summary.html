@@ -14,19 +14,23 @@
         </span>
     </p>
 
-    {% comment %}
-        http://stackoverflow.com/a/25466298/1475412
-    {% endcomment %}
-    {% assign images = include.post.content | split:"<img " %}
-    {% for image in images %}
-        {% if image contains 'src' %}
-            {% assign attributes = image | split:"/>" | first %}
-            <a href="{{ include.post.url }}">
-                <img {{attributes}} />
-            </a>
-            {% break %}
-        {% endif %}
-    {% endfor %}
+    {% if post.video %}
+        {{ post.video }}
+    {% else %}
+        {% comment %}
+            http://stackoverflow.com/a/25466298/1475412
+        {% endcomment %}
+        {% assign images = include.post.content | split:"<img " %}
+        {% for image in images %}
+            {% if image contains 'src' %}
+                {% assign attributes = image | split:"/>" | first %}
+                <a href="{{ include.post.url }}">
+                    <img {{attributes}} />
+                </a>
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 
     <br>
         {{ include.post.content | strip_html | truncatewords: 50 }}
