@@ -33,13 +33,14 @@ title: About
     </a>
 {% endfor %}
 
+
+<div class="clearfix"></div>
 <!-- Alumni -->
 
 <div class="row-fluid">
-  <div class="span9">
-    <h2>
-      Alumni 
-    </h2>  </div>
+    <div class="span9">
+        <h2>Alumni</h2>
+    </div>
 </div>
 
 {% assign former = site.team | where:"status","former" %}
@@ -52,8 +53,8 @@ title: About
         {{ alum.employer }}
     </div>
 </div>
-
 {% endfor %}
+
 <div class="row">
   <div class="span9 col-lg-6 col-sm-12"> 
     <h2>Partners</h2>
