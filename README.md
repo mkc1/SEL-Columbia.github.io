@@ -7,6 +7,6 @@ To install:
 
 To run:
 
-    bundle exec jekyll serve
+    jekyll serve
 
 Access the site at **http://localhost:4000**.
