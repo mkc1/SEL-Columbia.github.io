@@ -1,8 +1,6 @@
 ---
 published: true
 author: "vijay-modi"
-tags: 
-  - "null"
 title: Symposium on Sustainable and Affordable Energy Challenge for the World
 ---
 The last few years have brought global energy issues to the fore.  At the recently concluded **COP21** in 2015, it became clear that both developing and developed countries will need to accelerate deployments of renewable energy. This puts many developing countries in a technologically and financially challenging position where they want to rapidly accelerate deployment of renewables while also addressing the energy access and growth imperatives.  India is a classic case, with a goal to deploy 160 GW of solar and wind by 2020, when last year’s average power consumption was 120GW. At the same time 20% of Indians have no electricity access. 
