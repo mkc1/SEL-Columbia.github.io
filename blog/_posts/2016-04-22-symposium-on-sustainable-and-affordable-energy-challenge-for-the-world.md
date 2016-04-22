@@ -1,7 +1,8 @@
 ---
 published: true
 author: "vijay-modi"
-tags: null
+tags: 
+  - "null"
 title: Symposium on Sustainable and Affordable Energy Challenge for the World
 ---
 The last few years have brought global energy issues to the fore.  At the recently concluded **COP21** in 2015, it became clear that both developing and developed countries will need to accelerate deployments of renewable energy. This puts many developing countries in a technologically and financially challenging position where they want to rapidly accelerate deployment of renewables while also addressing the energy access and growth imperatives.  India is a classic case, with a goal to deploy 160 GW of solar and wind by 2020, when last year’s average power consumption was 120GW. At the same time 20% of Indians have no electricity access. 
@@ -66,8 +67,7 @@ We will also learn of the challenges and opportunities of rethinking the power s
 | 1:30          | Audrey Zibelman, Chair, NYS Public Service Commission      |  Electricity: Regulation and markets. NYS Perspective |
 | 2:00         | Nathan Blair and Silvia Romero (NREL/World Bank)      |  System Integration and Utility Regulation for Variable Resources |
 | **2:30**          | Panel: Divan, Zibelman, Modi, Blair<br>Moderated by Khargonekar      |  Integrating Renewables into the Grid |
-| 3:30          | 	
-D.C.Agrawal, President, IITBAAGNY |  Closing Remarks |
+| 3:30          | 	D.C.Agrawal, President, IITBAAGNY |  Closing Remarks |
 
 ![map.png]({{site.baseurl}}/assets/uploads/university_map_symposium.png)
 
@@ -78,4 +78,4 @@ Parking: Street Parking is free on Sundays. Make sure you are not within 15 feet
 
  
 
-The nearest paid parking garage is on 120th street between Broadway and Claremont Avenue.  There is also a garage on 122nd street between Broadway and Amsterdam Avenue. 
+The nearest paid parking garage is on 120th street between Broadway and Claremont Avenue.  There is also a garage on 122nd street between Broadway and Amsterdam Avenue.
