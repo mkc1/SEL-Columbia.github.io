@@ -63,7 +63,7 @@ We will also learn of the challenges and opportunities of rethinking the power s
 | 1:00          | Mike Waite and Vijay Modi, Columbia University      |  Background Results: NY State Grid and Deep Renewable Penetration |
 | 1:30          | Audrey Zibelman, Chair, NYS Public Service Commission      |  Electricity: Regulation and markets. NYS Perspective |
 | 2:00         | Nathan Blair and Silvia Romero (NREL/World Bank)      |  System Integration and Utility Regulation for Variable Resources |
-| **2:30**          | Panel: Divan, Zibelman, Modi, Blair<br>Moderated by Khargonekar      |  Integrating Renewables into the Grid |
+| **2:30**          | Panel: Divan, Zibelman, Modi, Blair, Romero<br>Moderated by Khargonekar      |  Integrating Renewables into the Grid |
 | 3:30          | 	D.C.Agrawal, President, IITBAAGNY |  Closing Remarks |
 
 ![map.png]({{site.baseurl}}/assets/uploads/university_map_symposium.png)
