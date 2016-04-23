@@ -2,6 +2,7 @@
 published: true
 author: "vijay-modi"
 title: Symposium on Sustainable and Affordable Energy Challenge for the World
+tags: null
 ---
 The last few years have brought global energy issues to the fore.  At the recently concluded **COP21** in 2015, it became clear that both developing and developed countries will need to accelerate deployments of renewable energy. This puts many developing countries in a technologically and financially challenging position where they want to rapidly accelerate deployment of renewables while also addressing the energy access and growth imperatives.  India is a classic case, with a goal to deploy 160 GW of solar and wind by 2020, when last year’s average power consumption was 120GW. At the same time 20% of Indians have no electricity access. 
 
@@ -49,8 +50,6 @@ We will also learn of the challenges and opportunities of rethinking the power s
 | 10:15         | Prof.  Jacopo Buongiorno      |  Nuclear Energy: Growth Opportunities/Challenges from Fuel Cycles and Small Modular Reactors. |
 | 10:45          | Prof.  Vijay Modi      |  Pathways to Full Electrification in Emerging Markets |
 | 11:15          | Prof.  Deepak Divan      |  Sustainability and Bioenergy: Challenges and Opportunities |
-| 9:45          | Prof.  Himadri Pakrasi      |  Energy Needs for the Emerging Markets |
-
 
 **Lunch 11:45 to 12:30 pm**
 
