@@ -48,7 +48,7 @@ We will also learn of the challenges and opportunities of rethinking the power s
 | 9:45          | Prof.  Himadri Pakrasi, Washington University      |  Sustainability and Bioenergy: Challenges and Opportunities |
 | 10:15         | Prof.  Jacopo Buongiorno, MIT      |  Nuclear Energy: Growth Opportunities/Challenges from Fuel Cycles and Small Modular Reactors. |
 | 10:45          | Prof.  Vijay Modi, Columbia University      |  Pathways to Full Electrification in Emerging Markets |
-| 11:15          | Prof.  Deepak Divan, Georgia Tech |  Sustainability and Bioenergy: Challenges and Opportunities |
+| 11:15          | Prof.  Deepak Divan, Georgia Tech |  Energy Needs for the Emerging Markets |
 
 **Lunch 11:45 to 12:30 pm**
 
