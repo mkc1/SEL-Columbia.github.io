@@ -7,7 +7,7 @@ title: Jobs
 </h1>
 
 <h2 style="color: #000000;">
-  Work at the Sustainable Engineering Lab
+  Work at the Quadracci Sustainable Engineering Lab
 </h2>
 
 <p style="color: #000000;">
