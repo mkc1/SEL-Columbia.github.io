@@ -1,4 +1,4 @@
-# Sustainable Engineering Lab Website
+# Quadracci Sustainable Engineering Lab Website
 
 To install:
 
