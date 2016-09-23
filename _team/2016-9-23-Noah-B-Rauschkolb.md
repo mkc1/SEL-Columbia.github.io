@@ -1,6 +1,6 @@
 ---
 status: current
-photo: /assets/uploads/team/Noah_B_Rauschkolb_nbr2107_grayscale.jpg
+photo: /assets/uploads/team/noah.jpg
 full_name:  Noah Rauschkolb
 position: Graduate Student Researcher (PhD Track)
 email: nbr2107@columbia.edu
