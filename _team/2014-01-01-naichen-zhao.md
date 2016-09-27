@@ -2,8 +2,8 @@
 status: current
 photo: /assets/uploads/team/naichen.jpg
 full_name:  Naichen Zhao
-position: 
+position: Energy Planning Engineer
 email: nz2216@columbia.edu
 github: 
 ---
-Naichen is currently a M.S student, majoring Mechanical Engineering at Columbia University. He obtained his B.Eng in Mechanical Engineering from University of Nottingham with First Class Honor. Before joining the Sustainable Engineering Lab, Naichen had a valuable research experience on ICE and other power system. His research interest is electricity prediction methodology development in energy planning group of Sustainable Engineering Lab.
+Naichen obtained his B.Eng in Mechanical Engineering from University of Nottingham with First Class Honor and M.S in Mechanical Engineering from Columbia University. Before joining the Sustainable Engineering Lab, Naichen had a solid research experience on ICE and other power systems. Naichen' work includes collecting and reconciling data from various aspects for modelling; operating electricity planning optimization model for grid rollout plan, implementation strategy and cost budgeting; building up capacity in local utility and government energy department. 
