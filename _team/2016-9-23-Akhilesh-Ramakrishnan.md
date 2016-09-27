@@ -2,7 +2,7 @@
 status: current
 photo: /assets/uploads/team/akhilesh.jpg
 full_name: Akhilesh Ramakrishnan
-position: Graduate Student Researcher (PhD Track)
+position: Graduate Student (MS Track)
 email: ar3539@columbia.edu
 github:
 ---
