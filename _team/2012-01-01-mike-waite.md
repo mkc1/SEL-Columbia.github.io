@@ -2,7 +2,7 @@
 status: current
 photo: /assets/uploads/team/mike.jpg
 full_name:  Mike Waite
-position: Research Assistant
+position: Postdoctoral Researcher
 email: mbw2113@columbia.edu
 github: 
 ---
