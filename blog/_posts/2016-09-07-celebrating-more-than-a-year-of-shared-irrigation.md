@@ -13,7 +13,7 @@ tags:
 
 ![Acacia](/assets/uploads/blog/2016/celebrating-more-than-a-year-of-shared-irrigation/acacia.jpg)
 
-The one year anniversary has come and gone for our shared irrigation system dubbed Acacia Irrigation. Three systems each serving seven small farms are up and running in Senegal. All three systems have seen high usage almost since the time of installation, and now they are all running with full utilization. 
+The one year anniversary has come and gone for our shared irrigation system dubbed Acacia Irrigation. Three systems each serving seven small farms are up and running in Senegal. All three systems have seen high usage almost since the time of installation, and now they are all running with full utilization.
 
 <img style="width: 49%;" src="/assets/uploads/blog/2016/celebrating-more-than-a-year-of-shared-irrigation/carrot-piles.jpg">
 <img style="width: 49%;" src="/assets/uploads/blog/2016/celebrating-more-than-a-year-of-shared-irrigation/tracking-panels.jpg">
@@ -24,7 +24,7 @@ In the plot below you can see the utilization over the course of a farming seaso
 
 <div align="right"><sup>(Graph Produced By Gordon Shaw)</sup></div>
 
-Our prototype systems have increased the value of our farmers’ land. Since installation, annual revenue per hectare is approximately 5,000 USD. No fuel means significant savings from hiring labor, less time spent procuring fuel and the added benefit of avoiding cumbersome maintenance. Near-daily availability of water implies efficient water management through use of drip lines. One customer, Ndiogou Diop, said, “I’m very lucky to be part of this pilot program. During the last campaign before the solar system I had 50 sacks of onions and for this last campaign, I have 97 sacks.” That increase in production means a huge increase in income for the farmer as well as the added benefit of more food availability in the region.
+Our prototype systems have increased the value of our farmers’ land. Since installation, annual revenue per hectare is approximately 14,000 USD with the average plot size of 1/3 hectare. No fuel means significant savings from hiring labor, less time spent procuring fuel and the added benefit of avoiding cumbersome maintenance. Near-daily availability of water implies efficient water management through use of drip lines. One customer, Ndiogou Diop, said, “I’m very lucky to be part of this pilot program. During the last campaign before the solar system I had 50 sacks of onions and for this last campaign, I have 97 sacks.” That increase in production means a huge increase in income for the farmer as well as the added benefit of more food availability in the region.
 
 ![Farm Site 3](/assets/uploads/blog/2016/celebrating-more-than-a-year-of-shared-irrigation/farm1.jpg)
 
@@ -36,4 +36,3 @@ Our prototype systems have increased the value of our farmers’ land. Since ins
 Currently, each farming community manages its own system; it acts as a decisive controlling entity, collecting revenue and using it whenever the system requires maintenance. In the future, however, the goal is to have a commercial entity own the system. This will allow the project to grow and establish true economic viability. The Quadracci Sustainable Engineering Lab is looking for partners to help with this expansion.  
 
 ![Dusk](/assets/uploads/blog/2016/celebrating-more-than-a-year-of-shared-irrigation/dusk-coming.jpg)
-
