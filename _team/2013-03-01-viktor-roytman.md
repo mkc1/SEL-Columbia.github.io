@@ -2,7 +2,7 @@
 status: current
 photo: /assets/uploads/team/viktor.jpg
 full_name:  Viktor Roytman
-position: Senior Software Engineer
+position: Software Engineer
 email: vr2262@columbia.edu
 github: 
 ---
