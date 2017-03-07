@@ -115,7 +115,7 @@ summary: "Energy issues facing society are one of the biggest technological and 
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Location:</strong> New York City, </br>West Africa
+      <strong>Location:</strong> New York City, <br>West Africa
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">

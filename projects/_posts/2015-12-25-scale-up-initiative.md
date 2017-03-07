@@ -59,7 +59,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
   <div class="span9">
     <p>
       The end result is an online portal, the Nigeria MDG Information System (NMIS), that displays all of the data collected. NMIS has proven to be an invaluable planning tool for local government areas. In Summer 2014, OSSAP will take this initiative further and open the data to the public. The hope is to encourage and help other organizations better plan future infrastructure and move Nigeria closer to achieving the MDGs. It is designed to be used by planners, researchers and the broader global development community.
-    </p></br> 
+    </p><br> 
     
     <h3>
       Data gathering and analysis
@@ -103,7 +103,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
       <li>
         Population Census (2003)
       </li>
-    </ul></br> 
+    </ul><br> 
     
     <h3>
       NMIS data
