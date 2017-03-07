@@ -84,12 +84,9 @@ summary: "Most rural communities have two options for electrification: wait for 
       <strong>Social and Environmental</strong> <br /> Health and safety problems from toxic fumes and poor quality lighting are eliminated. Clinics, schools, community centers and drinking water systems can all receive reliable power without burdening themselves with maintenance of separate stand-alone systems. Tariff-enabled financing permits leasing-to-own models for efficient appliances without the additional costs of micro-finance transactions.
     </p>
     
-    <p>
-      <p />
-      
       <p>
         <strong>Economic &#038; Employment</strong> <br /> Income-generating activities like agriculture, entertainment, ice-making, tourism etc can be powered sustainably. Systems can be upgraded when demand grows, ensuring precious capital is used judiciously while at the same time allowing customers and local entrepreneurs to grow their demands as they need without having to upgrade their individual systems.
-      </p></div> </div> 
+      </p>
       
       <div class="row-fluid">
         <div class="span9">

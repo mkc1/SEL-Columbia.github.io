@@ -46,7 +46,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 
     <p class="wp-caption-text" style="line-height:17pt;">
       <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
-    </p></p>
+    </p>
   </div>
 </div>
 
@@ -122,7 +122,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 
       <p>
         <strong>Battery-less systems </strong> <br /> The system is built without the need for a battery to keep capital and recurring costs low. To do this, SEL collaborated with an Indian manufacturer to engineer a low-cost alternative to standard inverters. The new inverter is designed to work in off-grid markets such as our pilot site, Potou, Senegal.
-      </p></div> </div>
+      </p>
 
       <div class="row-fluid">
         <div class="span9">
@@ -187,4 +187,4 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
             </h3>
 
             <p>
-              <strong>February</strong><br /> Farmers begin using solar PV irrigation system <br /> </div> </div>
+              <strong>February</strong><br /> Farmers begin using solar PV irrigation system <br />
