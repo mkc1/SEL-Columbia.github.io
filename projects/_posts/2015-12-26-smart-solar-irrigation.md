@@ -25,36 +25,35 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
       The Niayes zone of Senegal is responsible for more than half of the country’s horticultural production. Finding a way to reduce production costs for farmers in this area can potentially lead to major economic gains.
     </p>
 
-  <div class="span3">
-    <br />
-
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Project Type:</strong> Sustainable Energy
+    <p>
+      The Sustainable Engineering Lab (SEL) has launched an innovative batteryless solar PV irrigation system in northern Senegal. The centralized 6.8kW solar array provides distributed 3-phase AC power to seven horticulture farmers that have their own shallow wells and 1-hp AC pumps. Our pre-paid smart-control system distributes energy to individual pumps as it becomes available throughout the day, enabling us to meet irrigation demand without the high capital and recurring costs of battery storage. Farmers maintain their existing gas-powered pumps as backups but we have set the price of solar energy slightly lower than the price of gasoline so that the farmers opt for the cheaper solar.
     </p>
+  </div>
 
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Location:</strong> Potou, Senegal
-    </p>
+  <div class="row-fluid">
+    <div class="span3">
+      <p class="wp-caption-text" style="line-height:17pt;">
+        <strong>Project Type:</strong> Sustainable Energy
+      </p>
 
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Partners:</strong><br /><a href="http://www.usaid.gov" title="USAID" target="_blank">U.S. Agency for International Development (USAID)</a>, the <a href="http://www.government.se" title="Swedish Government" target="_blank">Swedish Government</a>, <a href="http://www.duke-energy.com" title="Duke Energy" target="_blank">Duke Energy</a>, and the <a href="http://www.giz.de/en/" title="GIZ" target="_blank">German Organization for International Cooperation (GIZ)</a>
-    </p>
+      <p class="wp-caption-text" style="line-height:17pt;">
+        <strong>Location:</strong> Potou, Senegal
+      </p>
 
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong><br /><a href="/tags#Smart Solar Irrigation"> Related Blog Entries</a>
-    </p>
+      <p class="wp-caption-text" style="line-height:17pt;">
+        <strong>Partners:</strong><br /><a href="http://www.usaid.gov" title="USAID" target="_blank">U.S. Agency for International Development (USAID)</a>, the <a href="http://www.government.se" title="Swedish Government" target="_blank">Swedish Government</a>, <a href="http://www.duke-energy.com" title="Duke Energy" target="_blank">Duke Energy</a>, and the <a href="http://www.giz.de/en/" title="GIZ" target="_blank">German Organization for International Cooperation (GIZ)</a>
+      </p>
 
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
-    </p>
+      <p class="wp-caption-text" style="line-height:17pt;">
+        <strong>Links:</strong><br /><a href="/tags#Smart Solar Irrigation"> Related Blog Entries</a>
+      </p>
+
+      <p class="wp-caption-text" style="line-height:17pt;">
+        <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
+      </p>
+    </div>
   </div>
 </div>
-
-<div class="row-fluid">
-  <div class="span9" margin-left="0">
-    The Sustainable Engineering Lab (SEL) has launched an innovative batteryless solar PV irrigation system in northern Senegal. The centralized 6.8kW solar array provides distributed 3-phase AC power to seven horticulture farmers that have their own shallow wells and 1-hp AC pumps. Our pre-paid smart-control system distributes energy to individual pumps as it becomes available throughout the day, enabling us to meet irrigation demand without the high capital and recurring costs of battery storage. Farmers maintain their existing gas-powered pumps as backups but we have set the price of solar energy slightly lower than the price of gasoline so that the farmers opt for the cheaper solar.
-  </div>
-</div></div>
 
 * * *
 
