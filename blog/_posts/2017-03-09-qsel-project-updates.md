@@ -18,7 +18,7 @@ tags:
 
 <br>
 
-Our lab has been busy over the last year. If your new to some of our projects
+Our lab has been busy over the last year. If you're new to some of our projects
 or just want an overview here are a few introductions,
 
 <table style="width:100%">
