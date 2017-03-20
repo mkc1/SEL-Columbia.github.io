@@ -3,6 +3,7 @@ published: true
 author: "jack-bott"
 title: Celebrating More Than a Year of Shared Irrigation
 tags:
+  - Acacia Irrigation
   - Smart Solar Irrigation
   - Agriculture
   - Pumping

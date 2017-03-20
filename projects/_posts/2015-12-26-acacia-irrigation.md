@@ -1,10 +1,10 @@
 ---
-title: Smart Solar Irrigation in Senegal
+title: Acacia Irrigation
 author: candice-heberer
 type: Sustainable Energy
 image: /assets/uploads/blog/2015/05/Screenshot-2015-05-28-14.21.30-700x471.png
-main_link: /smart-solar-irrigation/
-related_blog_entries: /tags#Smart Solar Irrigation
+main_link: /acacia-irrigation/
+related_blog_entries: /tags#Acacia Irrigation
 summary: "Irrigation of crops is critical to agricultural success, but in Senegal, this task is usually done by hand and can take all day. High fuel costs make gasoline pumps unaffordable and initial investment costs of stand-alone solar are too high for small scale farmers. The Sustainable Engineering Lab, as part of <a href=\"http://www.poweringag.org/\">Powering Agriculture: An Energy Grand Challenge for Development Initiative</a>, is piloting research in the <a href=\"http://millenniumvillages.org/\">Millennium Village</a> of Potou, to reduce the price of energy for farmers by introducing solar PV as a reliable and cost-effective alternative. The grant is supported by the U.S. Agency for International Development (USAID) the Swedish Government, Duke Energy, and the German Organization for International Cooperation (GIZ)."
 ---
 <div class="row-fluid">
@@ -45,7 +45,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
       </p>
 
       <p class="wp-caption-text" style="line-height:17pt;">
-        <strong>Links:</strong><br /><a href="/tags#Smart Solar Irrigation"> Related Blog Entries</a>
+        <strong>Links:</strong><br /><a href="/tags#Acacia Irrigation"> Related Blog Entries</a>
       </p>
 
       <p class="wp-caption-text" style="line-height:17pt;">
