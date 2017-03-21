@@ -14,12 +14,15 @@ tags:
   - NMIS
 ---
 
-![Pointing](/assets/uploads/blog/2017/qsel-project-updates/water-tanks.jpg)
 
-<br>
+<img width="46%" style="height:358px;margin:0.5%" src="/assets/uploads/blog/2017/qsel-project-updates/water-tanks.jpg"/>
+<img width="50%" style="height:358px;margin:0.5%" src="/assets/uploads/blog/2017/qsel-project-updates/walking.jpg"/>
 
+<p>
 Our lab has been busy over the last year. If you're new to some of our projects
-or just want an overview here are a few introductions,
+or just want an overview, here are a few introductions:
+</p>
+
 
 <table style="width:100%">
 	<tr>
