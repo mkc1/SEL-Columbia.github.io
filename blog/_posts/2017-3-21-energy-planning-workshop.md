@@ -15,7 +15,7 @@ During the workshop, the demonstrator pilot results were presented for the provi
 
 
 <p style="width:70%;margin:0 auto;display:block">
-	<img src="/assets/uploads/blog/2017/ecuador-workshop/tables.jpg" alt="workshop"/>
+	<img src="/assets/uploads/blog/2017/ecuador-workshop/workshop.jpg" alt="workshop"/>
 	Morgan Doyle, the IDB Representative for Ecuador and Roberto Aiello, Energy Principal Specialist, based in Washington, D.C.
 </p>
 <br>
