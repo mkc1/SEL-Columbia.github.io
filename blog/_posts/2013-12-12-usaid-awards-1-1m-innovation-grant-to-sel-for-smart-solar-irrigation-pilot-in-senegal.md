@@ -4,6 +4,7 @@ title: USAID awards $1.1M innovation grant to SEL for smart solar irrigation pil
 author: candice-heberer
 guid: http://modi.mech.columbia.edu/?p=3376
 tags:
+  - Acacia Irrigation
   - Smart Solar Irrigation
   - Energy for Development
   - Irrigation
