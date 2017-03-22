@@ -3,7 +3,7 @@ title: Acacia Irrigation
 author: candice-heberer
 type: Sustainable Energy
 image: /assets/uploads/blog/2015/05/Screenshot-2015-05-28-14.21.30-700x471.png
-main_link: /acacia-irrigation/
+main_link: /acacia-irrigation-project/
 related_blog_entries: /tags#Acacia Irrigation
 redirect_from:
   - /smart-solar-irrigation/
