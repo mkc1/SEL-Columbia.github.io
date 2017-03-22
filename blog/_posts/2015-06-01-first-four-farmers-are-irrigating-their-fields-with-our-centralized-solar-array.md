@@ -4,6 +4,7 @@ title: First four farmers are irrigating their fields with our centralized solar
 author: john-humphrey
 guid: http://sel.columbia.edu/?p=4512
 tags:
+  - Acacia Irrigation
   - Smart Solar Irrigation
   - agriculture
   - pumping

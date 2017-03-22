@@ -4,6 +4,7 @@ title: SEL team visits with irrigation pump controller manufacturer in India
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=4184
 tags:
+  - Acacia Irrigation
   - News
   - Smart Solar Irrigation
   - Irrigation

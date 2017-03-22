@@ -4,6 +4,7 @@ title: 'Senegal Solar Irrigation: Project Launch'
 author: candice-heberer
 guid: http://sel.columbia.edu/?p=3642
 tags:
+  - Acacia Irrigation
   - Smart Solar Irrigation
   - Irrigation
   - Solar
