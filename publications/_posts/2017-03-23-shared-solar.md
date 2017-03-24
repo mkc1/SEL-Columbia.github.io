@@ -1,7 +1,7 @@
 ---
 title: 'SharedSolar'
 image: None
-link: "/assets/uploads/blog/2017/qsel-project-updates/qsel-sharedsolar-brochure-2017.pdf"
+link: "/assets/uploads/blog/2017/qsel-project-updates/qSEL-SharedSolar-Brochure-2017.pdf"
 tags:
   - Energy Planning
 ---
