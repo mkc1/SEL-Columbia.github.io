@@ -1,7 +1,7 @@
 ---
 title: 'Acacia Irrigation'
 image: None
-link: "/assets/uploads/blog/2017/qsel-project-updates/qsel-acaciairrigation-brochure-2017.pdf"
+link: "/assets/uploads/blog/2017/qsel-project-updates/qSEL-AcaciaIrrigation-Brochure-2017.pdf"
 tags:
   - Infrastructure
 ---
