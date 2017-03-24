@@ -4,6 +4,7 @@ title: Solar powered Agricultural water pumping system is up and running in Sene
 author: john-humphrey
 guid: http://sel.columbia.edu/?p=4293
 tags:
+  - Acacia Irrigation
   - Millenium Villages Project
   - News
   - Smart Solar Irrigation

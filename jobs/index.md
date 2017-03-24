@@ -48,6 +48,6 @@ title: Jobs
 <p style="color: #000000;">Tool examples:</p>
 
 <ul style="color: #000000;">
-  <li><a href="/network-planner/">Network Planner</a> &#8211; Online tool for planning grid, mini-grid, and off-grid electricity from the community scale to national scale.</li>
+  <li><a href="/network-planner/">Network Planner</a> &#8211; Online tool for planning grid, mini-grid, and off-grid electricity from the community scale to national scale.  <a href="/tags/#Energy Planning">See related blog posts</a></li>
   <li><a href="/dokomo/">Dokomo Forms</a> &#8211; Offline-capable mobile data collection tool.  <a href="/tags/#Dokomo Forms">See related blog posts</a></li>
 </ul>

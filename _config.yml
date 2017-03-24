@@ -1,4 +1,4 @@
-url: "sel-columbia.github.io"
+url: "http://qsel.columbia.edu"
 name: >
   Quadracci Sustainable Engineering Lab at Columbia
   University
@@ -79,7 +79,7 @@ defaults:
 # Configurations for Prose
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  siteurl: "http://sel.columbia.edu"
+  siteurl: "http://qsel.columbia.edu"
   ignore:
   - _config.yml
   - docker-compose.yml
