@@ -4,6 +4,7 @@ author: candice-heberer
 type: Sustainable Energy
 image: /assets/uploads/blog/2015/05/Screenshot-2015-05-28-14.21.30-700x471.png
 main_link: /acacia-irrigation-project/
+location: Senegal
 related_blog_entries: /tags#Acacia Irrigation
 redirect_from:
   - /smart-solar-irrigation/

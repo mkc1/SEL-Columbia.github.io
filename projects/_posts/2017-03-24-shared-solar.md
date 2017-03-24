@@ -1,7 +1,7 @@
 ---
 title: Shared Solar
 author: candice-heberer
-type: ICT4D and Development Planning
+type: Sustainable Energy
 image: /assets/uploads/blog/2013/05/sharedSolar.jpg
 main_link: /shared-solar/
 location: Uganda, Mali, Bolivia

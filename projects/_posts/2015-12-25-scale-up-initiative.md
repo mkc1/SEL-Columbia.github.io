@@ -4,6 +4,7 @@ author: candice-heberer
 type: ICT4D and Development Planning
 image: /assets/uploads/blog/2013/09/nigeria.jpg
 main_link: /scale-up-initiative/
+location: Nigeria
 related_blog_entries: /tags/#Nigeria Scale-up Initiative
 summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium Development Goals (OSSAP-MDGs) has constructed an ambitious programme to provide conditional grants to hundreds of Local Government Areas in Nigeria through a data-driven process. The Sustainable Engineering Lab designs and builds tools, as well as works directly with OSSAP-MDGs to use these tools to implement the process of data-driven planning at scale. <a href=\"http://formhub.org/\">Formhub</a> and <a href=\"http://nmis.mdgs.gov.ng/\">NMIS</a> are key anchor tools for this project and prompted the development of <a href=\"http://revisit.global/\">Revisit</a>."
 ---
