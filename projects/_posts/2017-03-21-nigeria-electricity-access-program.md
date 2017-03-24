@@ -1,5 +1,6 @@
 ---
 title: Nigeria Electricity Access Program
+location: Nigeria
 type: Sustainable Energy
 image: /assets/uploads/blog/2014/08/nigeriaElectrification.jpg
 related_blog_entries: /tags#Energy Planning

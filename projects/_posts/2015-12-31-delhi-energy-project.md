@@ -1,11 +1,13 @@
 ---
 id: 4231
 title: Delhi Energy Project
-project_page: /delhi-energy-project
+main_link: /delhi-energy-project
 type: Sustainable Energy
 author: john-humphrey
 guid: http://sel.columbia.edu/?page_id=4231
 image: /assets/uploads/projects/posts/delhi-energy-project/delhi_map_300x329.png
+location: Delhi, India
+related_blog_entries: /tags/#Energy Planning
 summary: "The Sustainable Engineering Lab is investigating disparities in electricity access and consumption in the capital of India. High resolution electricity load data at the 11-kV feeder level was collected for 2010 – 2013 from all five electricity distributions companies serving Delhi — including three private utilities, the New Delhi Municipal Corporation (NDMC) and the Military Engineer Services (MES). Clusters of feeders comprising sub-grids were geo-coded and Voronoi polygons were created to approximate the area being serviced by each. These “grid areas” (dashed lines) have been overlaid on an administrative map of Delhi and its 9 districts. We are currently looking for population, income, and other socio-economic/demographic data at the district/sub-district level that can then be associated with the weekly electricity consumption data recorded for each grid."
 ---
 <div class="row-fluid">
